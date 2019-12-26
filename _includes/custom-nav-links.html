@@ -1,12 +1,10 @@
 <!-- Optional additional links to insert in sidebar nav -->
 
-<a class="asdf-link {% if page.url == "/sidebar/home" %} active{% endif %}"
-        href="{{ "/sidebar/home" | relative_url }}">Home</a>
-<a class="asdf-link {% if page.url == "/sidebar/about" %} active{% endif %}"
-        href="{{ "/sidebar/about" | relative_url }}">About</a>
-<a class="asdf-link {% if page.url == "/sidebar/publications" %} active{% endif %}"
-        href="{{ "/sidebar/publications" | relative_url }}">Publications</a>
-<a class="asdf-link {% if page.url == "/sidebar/research" %} active{% endif %}"
-        href="{{ "/sidebar/research" | relative_url }}">Research</a>
-<a class="asdf-link {% if page.url == "/sidebar/people" %} active{% endif %}"
-        href="{{ "/sidebar/people" | relative_url }}">People</a>
+<a class="about-link {% if page.url == '/about.html' %} active{% endif %}"
+        href="{{ "/about" | relative_url }}">About</a>
+<a class="pub-link {% if page.url == '/publications.html' %} active{% endif %}"
+        href="{{ "/publications" | relative_url }}">Publications</a>
+<a class="res-link {% if page.url == '/research.html' %} active{% endif %}"
+        href="{{ "/research" | relative_url }}">Research</a>
+<a class="people-link {% if page.url == '/people.html' %} active{% endif %}"
+        href="{{ "/people" | relative_url }}">People</a>

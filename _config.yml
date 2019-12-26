@@ -7,7 +7,7 @@ title:            medialab
 tagline:          'A Jekyll theme'
 description:      'korea university'
 url:              https://medialab-ku.github.io
-baseurl:          '/hydeout'
+baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  false
+sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
