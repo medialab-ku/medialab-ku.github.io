@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            medialab
+title:            media lab
 tagline:          'A Jekyll theme'
 description:      'korea university'
 url:              https://medialab-ku.github.io
@@ -33,3 +33,5 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+sidebar_icon_link: false

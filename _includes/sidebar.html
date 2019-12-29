@@ -1,15 +1,15 @@
 <div id="sidebar">
-  <img src="logox100.png" alt="logo">
+  <img src="images/logo.png" alt="logo">
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
-        <!--{{ site.title }}-->
+        {{ site.title }}
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <!--<p class="lead">{{ site.description }}</p>-->
+    <p class="lead">{{ site.description }}</p>
   </header>
   {% include sidebar-nav-links.html %}
 
@@ -17,6 +17,34 @@
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
 
-  {% include sidebar-icon-links.html %}
-  {% include copyright.html %}
+  {% if site.sidebar_icon_link %}
+    {% include sidebar-icon-links.html %}
+  {% endif %}
+  <br>
 </div>
+
+<!-- 시안 1 -->
+{% if null %}
+<div id="sidebar">
+  
+  <img src="logox100.png" alt="logo">
+  <header>
+    <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+      <a href="{{ "/" | relative_url }}">
+        {% unless page.url == "/" %}
+          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+        {% endunless %}
+      </a>
+    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+  </header>
+  {% include sidebar-nav-links.html %}
+
+  {% if site.version %}
+    <span class="site-version">Currently v{{ site.version }}</span>
+  {% endif %}
+
+  {% if site.sidebar_icon_link %}
+    {% include sidebar-icon-links.html %}
+  {% endif %}
+</div>
+{% endif %}
