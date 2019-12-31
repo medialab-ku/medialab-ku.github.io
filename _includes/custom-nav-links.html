@@ -1,18 +1,61 @@
 <!-- Optional additional links to insert in sidebar nav -->
 
+{% if page.url contains 'english' %}
+
+<a class="about-link {% if page.url == '/english/' %} active{% endif %}"
+        href="{{ "english" | relative_url }}">Home</a>
+
+<a class="about-link {% if page.url == '/english/about/' %} active{% endif %}"
+        href="{{ "english/about" | relative_url }}">About</a>
+
+<a class="people-link {% if page.url == '/english/people/' %} active{% endif %}"
+        href="{{ "english/people" | relative_url }}">People</a>
+
+<a class="res-link {% if page.url == '/english/research/' %} active{% endif %}"
+        href="{{ "english/research" | relative_url }}">Research</a>
+
+<a class="pub-link {% if page.url == '/english/publications/' %} active{% endif %}"
+        href="{{ "english/publications" | relative_url }}">Publications</a>
+
+<a class="award-link {% if page.url == '/english/awards/' %} active{% endif %}"
+        href="{{ "english/awards" | relative_url }}">Awards</a>
+
+<a class="photo-link {% if page.url == '/english/photos/' %} active{% endif %}"
+        href="{{ "english/photos" | relative_url }}">Photos</a>
+
+<a class="book-link {% if page.url == '/english/books/' %} active{% endif %}"
+        href="{{ "english/books" | relative_url }}">Books</a>
+
+<a class="contact-link {% if page.url == '/english/contact/' %} active{% endif %}"
+        href="{{ "english/contact" | relative_url }}">Contact</a>
+
+{% else %}
+
+<a class="about-link {% if page.url == '/' %} active{% endif %}"
+        href="{{ "/" | relative_url }}">Home</a>
+
 <a class="about-link {% if page.url == '/about/' %} active{% endif %}"
-        href="{{ "/about" | relative_url }}">About</a>
+        href="{{ "about" | relative_url }}">About</a>
+
 <a class="people-link {% if page.url == '/people/' %} active{% endif %}"
-        href="{{ "/people" | relative_url }}">People</a>
+        href="{{ "people" | relative_url }}">People</a>
+
 <a class="res-link {% if page.url == '/research/' %} active{% endif %}"
-        href="{{ "/research" | relative_url }}">Research</a>
+        href="{{ "research" | relative_url }}">Research</a>
+
 <a class="pub-link {% if page.url == '/publications/' %} active{% endif %}"
-        href="{{ "/publications" | relative_url }}">Publications</a>
-<a class="pub-link {% if page.url == '/awards/' %} active{% endif %}"
-        href="{{ "/awards" | relative_url }}">Awards</a>
-<a class="pub-link {% if page.url == '/photos/' %} active{% endif %}"
-        href="{{ "/photos" | relative_url }}">Photos</a>
-<a class="pub-link {% if page.url == '/books/' %} active{% endif %}"
-        href="{{ "/books" | relative_url }}">Books</a>
-<a class="pub-link {% if page.url == '/contact/' %} active{% endif %}"
-        href="{{ "/contact" | relative_url }}">Contact</a>
+        href="{{ "publications" | relative_url }}">Publications</a>
+
+<a class="award-link {% if page.url == '/awards/' %} active{% endif %}"
+        href="{{ "awards" | relative_url }}">Awards</a>
+
+<a class="photo-link {% if page.url == '/photos/' %} active{% endif %}"
+        href="{{ "photos" | relative_url }}">Photos</a>
+
+<a class="book-link {% if page.url == '/books/' %} active{% endif %}"
+        href="{{ "books" | relative_url }}">Books</a>
+
+<a class="contact-link {% if page.url == '/contact/' %} active{% endif %}"
+        href="{{ "contact" | relative_url }}">Contact</a>
+
+{% endif %}
