@@ -1,10 +1,18 @@
 <!-- Optional additional links to insert in sidebar nav -->
 
-<a class="about-link {% if page.url == '/about.html' %} active{% endif %}"
+<a class="about-link {% if page.url == '/about/' %} active{% endif %}"
         href="{{ "/about" | relative_url }}">About</a>
-<a class="people-link {% if page.url == '/people.html' %} active{% endif %}"
+<a class="people-link {% if page.url == '/people/' %} active{% endif %}"
         href="{{ "/people" | relative_url }}">People</a>
-<a class="res-link {% if page.url == '/research.html' %} active{% endif %}"
+<a class="res-link {% if page.url == '/research/' %} active{% endif %}"
         href="{{ "/research" | relative_url }}">Research</a>
-<a class="pub-link {% if page.url == '/publications.html' %} active{% endif %}"
+<a class="pub-link {% if page.url == '/publications/' %} active{% endif %}"
         href="{{ "/publications" | relative_url }}">Publications</a>
+<a class="pub-link {% if page.url == '/awards/' %} active{% endif %}"
+        href="{{ "/awards" | relative_url }}">Awards</a>
+<a class="pub-link {% if page.url == '/photos/' %} active{% endif %}"
+        href="{{ "/photos" | relative_url }}">Photos</a>
+<a class="pub-link {% if page.url == '/books/' %} active{% endif %}"
+        href="{{ "/books" | relative_url }}">Books</a>
+<a class="pub-link {% if page.url == '/contact/' %} active{% endif %}"
+        href="{{ "/contact" | relative_url }}">Contact</a>
