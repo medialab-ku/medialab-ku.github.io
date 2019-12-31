@@ -1,0 +1,76 @@
+body {
+    background-color: #000000;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+div#authors {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.author {
+    float: left;
+    width: 25%;
+}
+
+div#images {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#abstract {
+    clear: both;
+    text-align: justify;
+}
+
+div#links {
+    clear: both;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.link {
+    float: left;
+    width: 33%;
+}
+
+img.image {
+    width: 32%;
+}
+
+p.name {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+p.aff {
+    font-size: 14px;
+    margin-top: 7px;
+}
+
+p#journal {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+img.link {
+    padding: 5px;
+    border: 2px dotted;
+    border-color: grey;
+    background-color: #334433;
+}
+
+hr {
+    margin: 20px 0 20px 0;
+    clear: both;
+}
