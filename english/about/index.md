@@ -3,13 +3,13 @@ layout: post
 title: About
 ---
 
-미디어 연구실에 오신 것을 환영합니다!  
+Welcome to Interactive 3D Media Lab!  
 
-2004년 설립된 미디어 연구실은 현재 다음 분야를 집중 연구하고 있습니다.  
+Our lab was established in 2004 and currently focuses on the following areas:  
 
-- 가상 현실 (VR)  
-- 3차원 스캐닝 및 증강 현실 (3D Scanning & AR)  
-- 딥 러닝 + 3차원 응용 (Deep Learning for 3D Applications)  
-- 컴퓨터 그래픽스와 물리 시뮬레이션 (Computer Graphics & Physics-based Simulation)  
+- VR
+- 3D Scanning & AR
+- Deep Learning for 3D Applications
+- Computer Graphics & Physics-based Simulation
 
-홈페이지를 둘러 보시고 궁금하신 점이 있다면 연락해주시기 바랍니다!  
+Please check our homepage and let us know if you have any questions!

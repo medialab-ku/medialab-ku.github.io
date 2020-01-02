@@ -5,9 +5,9 @@ title: Research
 
 ### 가상 현실 (VR)
 <br>
-<img src="images/vr/2.png" width="280" align="left">
-<img src="images/vr/1.jpg" width="280" align="left">
-<img src="images/vr/3.jpg" width="280">
+<img src="/research/images/vr/2.png" width="280" align="left">
+<img src="/research/images/vr/1.jpg" width="280" align="left">
+<img src="/research/images/vr/3.jpg" width="280">
 
 #### 4D VR
 사용자의 가상 공간 몰입감을 극대화하기 위하여, HMD를 통한 시각 자극과 모션 플랫폼을 통한 전정기관 자극을 통합하는 방안을 연구한다. [[video]](https://youtu.be/B2SWp6XFHvM)
@@ -19,13 +19,13 @@ title: Research
 몰입형 가상 공간에서 3차원 물체를 빠르고 정확하게 옮기고 조작하는 기법을 연구한다. [[video]](https://youtu.be/3Am4Rf2KD-I)
 
 
-<br><br>
+<br>
 
 ### 3차원 스캐닝 및 증강 현실 (3D Scanning & AR)
 <br>
-<img src="images/ar/1.jpg" width="280" align="left">
-<img src="images/ar/2.png" width="280" align="left">
-<img src="images/ar/3.jpg" width="280">
+<img src="/research/images/ar/1.jpg" width="280" align="left">
+<img src="/research/images/ar/2.png" width="280" align="left">
+<img src="/research/images/ar/3.jpg" width="280">
 
 #### Performance Capture
 RGB-D 카메라를 이용해 사람의 3차원 모델 및 움직임을 실시간에 추출하여, 원격 회의와 가상 콘서트 등의 증강 현실에 응용한다. [[video]](https://youtu.be/hbuuXuwsmlk)
@@ -37,13 +37,13 @@ RGB 카메라 기반 SLAM과 증강 현실 기술을 결합하여 산업 현장 
 RGB-D 카메라를 이용해 실내 공간을 스캔한 후 3차원 CAD 모델을 자동 복원하는 기법을 연구한다. [[video]](https://youtu.be/rjVbIZ-AUkU)
 
 
-<br><br>
+<br>
 
 ### 딥 러닝 + 3차원 응용 (Deep Learning for 3D Applications)
 <br>
-<img src="images/deeplearning/2.jpg" width="280" align="left">
-<img src="images/deeplearning/1.png" width="280" align="left">
-<img src="images/deeplearning/3.jpg" width="280">
+<img src="/research/images/deeplearning/2.jpg" width="280" align="left">
+<img src="/research/images/deeplearning/1.png" width="280" align="left">
+<img src="/research/images/deeplearning/3.jpg" width="280">
 
 #### Pose Estimation
 RGB 카메라를 사용하여 사람의 자세를 인식하는 모션 캡처 기술을 개발한다. 정확도 향상을 위해 입력 동영상의 여러 프레임을 동시에 활용한다. [[video]](https://youtu.be/ooOfPQu7Bik)
@@ -55,13 +55,13 @@ RGB 카메라를 사용하여 사람의 자세를 인식하는 모션 캡처 기
 MRI, CT 등의 영상에서 악성 종양을 검출하는 기법을 연구한다. [[video]](https://youtu.be/VBx8JUo0Ous)
 
 
-<br><br>
+<br>
 
 ### 컴퓨터 그래픽스와 물리 시뮬레이션 (Computer Graphics & Physics-based Simulation)
 <br>
-<img src="images/physics/1.jpg" width="280" align="left">
-<img src="images/physics/2.jpg" width="280" align="left">
-<img src="images/physics/4.jpg" width="280">
+<img src="/research/images/physics/1.jpg" width="280" align="left">
+<img src="/research/images/physics/2.jpg" width="280" align="left">
+<img src="/research/images/physics/4.jpg" width="280">
 
 #### Magnetic Object Simulation
 Maxwell 방정식에 기반하여 자성체 간 작용하는 힘을 계산하고 이를 이용하여 자성체의 사실적인 움직임을 표현한다. [[video]](https://youtu.be/m5s5BAKCMcE)

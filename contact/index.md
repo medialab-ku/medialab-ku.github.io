@@ -3,7 +3,7 @@ layout: post
 title: Contact
 ---
 
-![](images/map.png)
+![map](/contact/images/map.png)
 
 ### Professor
 #### Address

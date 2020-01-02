@@ -4,27 +4,27 @@ title: Publications
 ---
 
 ### 2019
-<img src="pictures/2019/Obstacle Detection and Alert System for Smartphone AR Users.png" width="320">
+<img src="/publications/pictures/2019/Obstacle Detection and Alert System for Smartphone AR Users.png" width="320">
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Obstacle Detection and Alert System for Smartphone AR Users," 
 ACM VRST (Virtual Reality Software and Technology), November 12-15, 2019, Sydney, Australia. [[video]](https://youtu.be/k5q__4PpWY8)
 
-<img src="pictures/2019/Point-cloud rendering for video see-through augmented reality.png" width="320">
+<img src="/publications/pictures/2019/Point-cloud rendering for video see-through augmented reality.png" width="320">
 * Jinwoo Choi and JungHyun Han, "Point-cloud rendering for video see-through augmented reality," 
 EuroVR, October 23-25, 2019, Tallinn, Estonia (poster). [[doi]](https://doi.org/10.1007/978-3-030-31908-3_22)
 
-<img src="pictures/2019/SafeAR-AR Alert System Assisting Obstacle Avoidance for Pedestrians.png" width="320">
+<img src="/publications/pictures/2019/SafeAR-AR Alert System Assisting Obstacle Avoidance for Pedestrians.png" width="320">
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "SafeAR: AR Alert System Assisting Obstacle Avoidance for Pedestrians," 
 IEEE ISMAR (International Symposium on Mixed and Augmented Reality), October 14-18, 2019, Beiging, China (poster).
 
-<img src="pictures/2019/Effects of Switchable DOF for Mid-Air Manipulation in Immersive Virtual Environments.jpg" width="320">
+<img src="/publications/pictures/2019/Effects of Switchable DOF for Mid-Air Manipulation in Immersive Virtual Environments.jpg" width="320">
 * MyoungGon Kim and JungHyun Han, "Effects of Switchable DOF for Mid-Air Manipulation in Immersive Virtual Environments," 
 International Journal of Human–Computer Interaction, Vol. 35, No. 13, May 2019. [[video]](https://youtu.be/3Am4Rf2KD-I) [[doi]](https://doi.org/10.1080/10447318.2018.1514163)
 
-<img src="pictures/2019/Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments.jpg" width="320">
+<img src="/publications/pictures/2019/Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments.jpg" width="320">
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments," 
 IEEE VR, March 23-27, 2019, Osaka, Japan (best conference paper nominee). [[video]](https://youtu.be/qkMbVsgwVQk) [[doi]](https://doi.org/10.1109/VR.2019.8798300)
 
-<img src="pictures/2019/Jumping Further Forward Jumps in a Gravity-Reduced Immersive Virtual Environment.jpg" width="320">
+<img src="/publications/pictures/2019/Jumping Further Forward Jumps in a Gravity-Reduced Immersive Virtual Environment.jpg" width="320">
 * HyeongYeop Kang, Geonsun Lee, Dae Seok Kang, Ohung Kwon, Jun Yeup Cho, Ho-Jung Choi and JungHyun Han, "Jumping Further: Forward Jumps in a Gravity-Reduced Immersive Virtual Environment," 
 IEEE VR, March 23-27, 2019, Osaka, Japan (best conference paper nominee). [[video]](https://youtu.be/1syngGZFMWk) [[doi]](https://doi.org/10.1109/VR.2019.8798251)
 

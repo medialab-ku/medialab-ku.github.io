@@ -12,8 +12,8 @@ title: Books
 					<td>Korean Edition<br>(홍릉과학출판사, 2019.05)<br>* 2019 세종도서 선정</td>
 				</tr>
 				<tr>
-					<td><img src="./covers/2/eng.jpg" width="200" alt="English"></td>
-					<td><img src="./covers/2/kor.jpg" width="242" alt="Korean"></td>
+					<td><img src="/books/covers/2/eng.jpg" width="200" alt="English"></td>
+					<td><img src="/books/covers/2/kor.jpg" width="242" alt="Korean"></td>
 				</tr>
 			</tbody></table>
             <br>
@@ -68,25 +68,25 @@ title: Books
 			<h3>Lecture Notes</h3>
             <br>
 			<ul>
-				<li><a href="./notes/2/TOC and preface.pdf">TOC and Preface</a></li>
-				<li><a href="./notes/2/chapter 1 (introduction).ppt">Chapter 1 (introduction)</a></li>
-				<li><a href="./notes/2/chapter 2 (math basics).ppt">Chapter 2 (math basics)</a></li>
-				<li><a href="./notes/2/chapter 3 (modeling).ppt">Chapter 3 (modeling)</a></li>
-				<li><a href="./notes/2/chapter 4 (spaces and transforms).ppt">Chapter 4 (spaces and transforms)</a></li>
-				<li><a href="./notes/2/chapter 5 (vertex processing).ppt">Chapter 5 (vertex processing)</a></li>
-				<li><a href="./notes/2/chapter 6 (OpenGL ES and shader).ppt">Chapter 6 (OpenGL ES and shader)</a></li>
-				<li><a href="./notes/2/chapter 7 (rasterizer).ppt">Chapter 7 (rasterizer)</a></li>
-				<li><a href="./notes/2/chapter 8 (image texturing).ppt">Chapter 8 (image texturing)</a></li>
-				<li><a href="./notes/2/chapter 9 (lighting).ppt">Chapter 9 (lighting)</a></li>
-				<li><a href="./notes/2/chapter 10 (output merger).ppt">Chapter 10 (output merger)</a></li>
-				<li><a href="./notes/2/chapter 11 (Euler transforms and quaternions).ppt">Chapter 11 (Euler transforms and quaternions)</a></li>
-				<li><a href="./notes/2/chapter 12 (screen-space object manipulation).ppt">Chapter 12 (screen-space object manipulation)</a></li>
-				<li><a href="./notes/2/chapter 13 (character animation).ppt">Chapter 13 (character animation)</a></li>
-				<li><a href="./notes/2/chapter 14 (normal mapping).ppt">Chapter 14 (normal mapping)</a></li>
-				<li><a href="./notes/2/chapter 15 (shadow mapping).ppt">Chapter 15 (shadow mapping)</a></li>
-				<li><a href="./notes/2/chapter 16 (texturing toward GI).ppt">Chapter 16 (texturing toward GI)</a></li>
-				<li><a href="./notes/2/chapter 17 (curves and surfaces).ppt">Chapter 17 (curves and surfaces)</a></li>
-				<li><a href="./notes/2/chapter 18 (surface tessellation).ppt">Chapter 18 (surface tessellation)</a></li>
+				<li><a href="/books/notes/2/TOC and preface.pdf">TOC and Preface</a></li>
+				<li><a href="/books/notes/2/chapter 1 (introduction).ppt">Chapter 1 (introduction)</a></li>
+				<li><a href="/books/notes/2/chapter 2 (math basics).ppt">Chapter 2 (math basics)</a></li>
+				<li><a href="/books/notes/2/chapter 3 (modeling).ppt">Chapter 3 (modeling)</a></li>
+				<li><a href="/books/notes/2/chapter 4 (spaces and transforms).ppt">Chapter 4 (spaces and transforms)</a></li>
+				<li><a href="/books/notes/2/chapter 5 (vertex processing).ppt">Chapter 5 (vertex processing)</a></li>
+				<li><a href="/books/notes/2/chapter 6 (OpenGL ES and shader).ppt">Chapter 6 (OpenGL ES and shader)</a></li>
+				<li><a href="/books/notes/2/chapter 7 (rasterizer).ppt">Chapter 7 (rasterizer)</a></li>
+				<li><a href="/books/notes/2/chapter 8 (image texturing).ppt">Chapter 8 (image texturing)</a></li>
+				<li><a href="/books/notes/2/chapter 9 (lighting).ppt">Chapter 9 (lighting)</a></li>
+				<li><a href="/books/notes/2/chapter 10 (output merger).ppt">Chapter 10 (output merger)</a></li>
+				<li><a href="/books/notes/2/chapter 11 (Euler transforms and quaternions).ppt">Chapter 11 (Euler transforms and quaternions)</a></li>
+				<li><a href="/books/notes/2/chapter 12 (screen-space object manipulation).ppt">Chapter 12 (screen-space object manipulation)</a></li>
+				<li><a href="/books/notes/2/chapter 13 (character animation).ppt">Chapter 13 (character animation)</a></li>
+				<li><a href="/books/notes/2/chapter 14 (normal mapping).ppt">Chapter 14 (normal mapping)</a></li>
+				<li><a href="/books/notes/2/chapter 15 (shadow mapping).ppt">Chapter 15 (shadow mapping)</a></li>
+				<li><a href="/books/notes/2/chapter 16 (texturing toward GI).ppt">Chapter 16 (texturing toward GI)</a></li>
+				<li><a href="/books/notes/2/chapter 17 (curves and surfaces).ppt">Chapter 17 (curves and surfaces)</a></li>
+				<li><a href="/books/notes/2/chapter 18 (surface tessellation).ppt">Chapter 18 (surface tessellation)</a></li>
 			</ul>
             <br>
 			<hr>
@@ -99,9 +99,9 @@ title: Books
 					<td>Chinese Edition<br>(清华大学出版社, 2013.01)</td>
 				</tr>
 				<tr>
-					<td><img src="./covers/1/eng.jpg" width="200" alt="English"></td>
-					<td><img src="./covers/1/kor.jpg" width="218" alt="Korean"></td>
-					<td><img src="./covers/1/chi.jpg" width="246" alt="Chinese"></td>
+					<td><img src="/books/covers/1/eng.jpg" width="200" alt="English"></td>
+					<td><img src="/books/covers/1/kor.jpg" width="218" alt="Korean"></td>
+					<td><img src="/books/covers/1/chi.jpg" width="246" alt="Chinese"></td>
 				</tr>
 			</tbody></table>
 			<br>
@@ -143,19 +143,19 @@ title: Books
 			<h3>Lecture Notes</h3>
             <br>
 			<ul>
-				<li><a href="./notes/1/toc_and_preface.pdf">TOC and Preface</a></li>
-				<li><a href="./notes/1/chapter1.ppt">Lecture Note 01 (2012-04-28)</a></li>
-				<li><a href="./notes/1/chapter2.ppt">Lecture Note 02 (2012-04-28)</a></li>
-				<li><a href="./notes/1/chapter3.ppt">Lecture Note 03 (2012-04-28)</a></li>
-				<li><a href="./notes/1/chapter4.ppt">Lecture Note 04 (2012-04-28)</a></li>
-				<li><a href="./notes/1/chapter5.ppt">Lecture Note 05 (2012-04-28)</a></li>
-				<li><a href="./notes/1/chapter6.ppt">Lecture Note 06 (2012-05-10)</a></li>
-				<li><a href="./notes/1/chapter7.zip">Lecture Note 07 (2012-05-30)</a></li>
-				<li><a href="./notes/1/chapter8.ppt">Lecture Note 08 (2013-04-22)</a></li>
-				<li><a href="./notes/1/chapter9.ppt">Lecture Note 09 (2012-06-14)</a></li>
-				<li><a href="./notes/1/chapter10.ppt">Lecture Note 10 (2012-06-14)</a></li>
-				<li><a href="./notes/1/chapter11.ppt">Lecture Note 11 (2013-04-22)</a></li>
-				<li><a href="./notes/1/chapter12.ppt">Lecture Note 12 (2011-02-28)</a></li>
-				<li><a href="./notes/1/errata.pdf">Errata (2011-06-23)</a></li>
+				<li><a href="/books/notes/1/toc_and_preface.pdf">TOC and Preface</a></li>
+				<li><a href="/books/notes/1/chapter1.ppt">Lecture Note 01 (2012-04-28)</a></li>
+				<li><a href="/books/notes/1/chapter2.ppt">Lecture Note 02 (2012-04-28)</a></li>
+				<li><a href="/books/notes/1/chapter3.ppt">Lecture Note 03 (2012-04-28)</a></li>
+				<li><a href="/books/notes/1/chapter4.ppt">Lecture Note 04 (2012-04-28)</a></li>
+				<li><a href="/books/notes/1/chapter5.ppt">Lecture Note 05 (2012-04-28)</a></li>
+				<li><a href="/books/notes/1/chapter6.ppt">Lecture Note 06 (2012-05-10)</a></li>
+				<li><a href="/books/notes/1/chapter7.zip">Lecture Note 07 (2012-05-30)</a></li>
+				<li><a href="/books/notes/1/chapter8.ppt">Lecture Note 08 (2013-04-22)</a></li>
+				<li><a href="/books/notes/1/chapter9.ppt">Lecture Note 09 (2012-06-14)</a></li>
+				<li><a href="/books/notes/1/chapter10.ppt">Lecture Note 10 (2012-06-14)</a></li>
+				<li><a href="/books/notes/1/chapter11.ppt">Lecture Note 11 (2013-04-22)</a></li>
+				<li><a href="/books/notes/1/chapter12.ppt">Lecture Note 12 (2011-02-28)</a></li>
+				<li><a href="/books/notes/1/errata.pdf">Errata (2011-06-23)</a></li>
 			</ul>
 		</div>
