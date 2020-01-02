@@ -6,6 +6,7 @@ title: People
 ### Professor
 * [JungHyun Han](/people/jhan) (jhan<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
+<hr>
 
 ### Students
 #### Ph.D. Students
@@ -32,6 +33,7 @@ title: People
 * Jaehyung Doh (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
+<hr>
 
 ### Former Research Members
 #### Research Professors
@@ -41,6 +43,7 @@ title: People
 #### Research Associate
 * Jeoung-Kee Lee (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
+<hr>
 
 ### Alumni
 #### Ph.D.

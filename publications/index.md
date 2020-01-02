@@ -4,27 +4,21 @@ title: Publications
 ---
 
 ### 2019
-<img src="/publications/pictures/2019/Obstacle Detection and Alert System for Smartphone AR Users.png" width="320">
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Obstacle Detection and Alert System for Smartphone AR Users," 
-ACM VRST (Virtual Reality Software and Technology), November 12-15, 2019, Sydney, Australia. [[video]](https://youtu.be/k5q__4PpWY8)
+ACM VRST (Virtual Reality Software and Technology), November 12-15, 2019, Sydney, Australia. [[video]](https://youtu.be/k5q__4PpWY8) [[doi]](https://doi.org/10.1145/3359996.3364256)
 
-<img src="/publications/pictures/2019/Point-cloud rendering for video see-through augmented reality.png" width="320">
 * Jinwoo Choi and JungHyun Han, "Point-cloud rendering for video see-through augmented reality," 
 EuroVR, October 23-25, 2019, Tallinn, Estonia (poster). [[doi]](https://doi.org/10.1007/978-3-030-31908-3_22)
 
-<img src="/publications/pictures/2019/SafeAR-AR Alert System Assisting Obstacle Avoidance for Pedestrians.png" width="320">
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "SafeAR: AR Alert System Assisting Obstacle Avoidance for Pedestrians," 
 IEEE ISMAR (International Symposium on Mixed and Augmented Reality), October 14-18, 2019, Beiging, China (poster).
 
-<img src="/publications/pictures/2019/Effects of Switchable DOF for Mid-Air Manipulation in Immersive Virtual Environments.jpg" width="320">
 * MyoungGon Kim and JungHyun Han, "Effects of Switchable DOF for Mid-Air Manipulation in Immersive Virtual Environments," 
 International Journal of Human–Computer Interaction, Vol. 35, No. 13, May 2019. [[video]](https://youtu.be/3Am4Rf2KD-I) [[doi]](https://doi.org/10.1080/10447318.2018.1514163)
 
-<img src="/publications/pictures/2019/Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments.jpg" width="320">
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments," 
 IEEE VR, March 23-27, 2019, Osaka, Japan (best conference paper nominee). [[video]](https://youtu.be/qkMbVsgwVQk) [[doi]](https://doi.org/10.1109/VR.2019.8798300)
 
-<img src="/publications/pictures/2019/Jumping Further Forward Jumps in a Gravity-Reduced Immersive Virtual Environment.jpg" width="320">
 * HyeongYeop Kang, Geonsun Lee, Dae Seok Kang, Ohung Kwon, Jun Yeup Cho, Ho-Jung Choi and JungHyun Han, "Jumping Further: Forward Jumps in a Gravity-Reduced Immersive Virtual Environment," 
 IEEE VR, March 23-27, 2019, Osaka, Japan (best conference paper nominee). [[video]](https://youtu.be/1syngGZFMWk) [[doi]](https://doi.org/10.1109/VR.2019.8798251)
 
@@ -185,121 +179,121 @@ IEEE Transactions on Consumer Electronics, Vol. 54, No. 4, November 2008, pp. 18
 the 7th International Conference on Entertainment Computing (ICEC), September 25-27, 2008, Pittsburgh, Pennsylvania, USA, pp. 197-202. [[doi]](http://dx.doi.org/10.1007/978-3-540-89222-9_24)
 
 * Hyoil Lee, Heekwon Jeong, and JungHyun Han, "Arcade Video Game Platform built upon Multiple Sensors," 
-IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, August 20-22, 2008, Seoul, Korea, pp. 111-113.
+IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, August 20-22, 2008, Seoul, Korea, pp. 111-113. [[doi]](http://dx.doi.org/10.1109/MFI.2008.4648118)
 
 * Sukhan Lee, Hadi Moradi, Daesik Jang, Hanyoung Jang, Eunyoung Kim, Phuoc Le Minh, and JungHyun Han, "Toward Human-like Real-time Manipulation: from Perception to Motion Planning," 
-Advanced Robotics, Vol. 22, No. 9, August 2008, pp. 983-1005.
+Advanced Robotics, Vol. 22, No. 9, August 2008, pp. 983-1005. [[doi]](https://doi.org/10.1163/156855308X315136)
 
 * Hanyoung Jang and JungHyun Han, "Fast Collision Detection using the A-buffer," 
-Computer Graphics International (CGI), June 9-11, 2008, Istanbul, Turkey (published in The Visual Computer, Vol. 24, No. 7-9, June 2008, pp. 659-667).
+Computer Graphics International (CGI), June 9-11, 2008, Istanbul, Turkey (published in The Visual Computer, Vol. 24, No. 7-9, June 2008, pp. 659-667). [[doi]](https://doi.org/10.1007/s00371-008-0246-8)
 
 * Dongwook Ha and JungHyun Han, "Motion Synthesis with Decoupled Parameterization," 
-Computer Graphics International (CGI), June 9-11, 2008, Istanbul, Turkey (published in The Visual Computer, Vol. 24, No. 7-9, June 2008, pp. 587-594).
+Computer Graphics International (CGI), June 9-11, 2008, Istanbul, Turkey (published in The Visual Computer, Vol. 24, No. 7-9, June 2008, pp. 587-594). [[doi]](https://doi.org/10.1007/s00371-008-0239-7)
 
 * Han-Young Jang, Hadi Moradi, Phuoc Le Minh, Sukhan Lee, and JungHyun Han, "Visibility-based Spatial Reasoning for Object Manipulation in Cluttered Environments," 
-Computer-Aided Design, Vol. 40, No. 4, April 2008, pp. 422-438.
+Computer-Aided Design, Vol. 40, No. 4, April 2008, pp. 422-438. [[doi]](https://doi.org/10.1016/j.cad.2007.12.004)
 
 * HyunHo Jee and JungHyun Han, "Animating Reactive Motions for Physics-based Character Animation," 
-ACM Symposium in Interactive 3D Graphics and Games (I3D), February 15-17, 2008, Redwood City, California, USA (poster).
+ACM Symposium in Interactive 3D Graphics and Games (I3D), February 15-17, 2008, Redwood City, California, USA (poster). [[doi]](https://doi.org/10.1145/1342250.1357020)
 
 * Hanyoung Jang and JungHyun Han, "Deformable Model Collision Detection using A-buffer," 
-ACM Symposium in Interactive 3D Graphics and Games (I3D), February 15-17, 2008, Redwood City, California, USA (poster).
+ACM Symposium in Interactive 3D Graphics and Games (I3D), February 15-17, 2008, Redwood City, California, USA (poster). [[doi]](https://doi.org/10.1145/1342250.1357024)
 
 * HyunHo Jee, Doo-seop Eom, Taeyoung Kim, HunKi Park, Hyoil Lee, and JungHyun Han, "Multi-player VR Game built upon Wireless Sensor Network," 
-International Conference on Ubiquitous Information Management and Communication, January 31-February 1, 2008, Suwon, Korea, pp. 542-544 (poster).
+International Conference on Ubiquitous Information Management and Communication, January 31-February 1, 2008, Suwon, Korea, pp. 542-544 (poster). [[doi]](https://doi.org/10.1145/1352793.1352903)
 
 <br>
 
 ### 2007
 * Han-Young Jang, TaekSang Jeong, and JungHyun Han, "Image-space Collision Detection through Alternate Surface Peeling," 
-the 3rd International Symposium on Visual Computing, November 26-28, 2007, Lake Tahoe, Nevada, USA, pp. 66-75.
+the 3rd International Symposium on Visual Computing, November 26-28, 2007, Lake Tahoe, Nevada, USA, pp. 66-75. [[doi]](https://doi.org/10.1007/978-3-540-76858-6_7)
 
 * Hadi Moradi, Eun Kwon, Dae Neung Sohn, and JungHyun Han, "A Real-Time GPU-Based Wall Detection Algorithm for Mapping and Navigation in Indoor Environments," 
-Human-Computer Interaction International (HCI International), July 22-27, 2007, Beijing, China, pp. 1072-1077.
+Human-Computer Interaction International (HCI International), July 22-27, 2007, Beijing, China, pp. 1072-1077. [[doi]](https://doi.org/10.1007/978-3-540-73354-6_117)
 
 <br>
 
 ### 2006
 * Ingu Kang and JungHyun Han, "Massive Autonomous Characters: Animation and Interaction," 
-the 5th Indian Conference on Computer Vision, Graphics & Image Processing, December 13-16, 2006, Madurai, India, pp. 333-338.
+the 5th Indian Conference on Computer Vision, Graphics & Image Processing, December 13-16, 2006, Madurai, India, pp. 333-338. [[doi]](https://doi.org/10.1007/11949619_30)
 
 * Doo-seop Eom, Jungshik Jang, Taeyoung Kim and JungHyun Han, "A VR Game Platform built upon Wireless Sensor Network," 
-the 2nd International Symposium on Visual Computing, November 6-8, 2006, Lake Tahoe, Nevada, USA, pp. 146-155 (poster).
+the 2nd International Symposium on Visual Computing, November 6-8, 2006, Lake Tahoe, Nevada, USA, pp. 146-155 (poster). [[doi]](https://doi.org/10.1007/11919629_16)
 
 * Ingu Kang, Young Ik Eom, and JungHyun Han, "A Multi-resolution Technique for Real-time Animation of Large Crowds," 
-the 21st International Symposium on Computer and Information Sciences, November 1-3, 2006, Istanbul, Turkey, pp. 384-393.
+the 21st International Symposium on Computer and Information Sciences, November 1-3, 2006, Istanbul, Turkey, pp. 384-393. [[doi]](https://doi.org/10.1007/11902140_42)
 
 * Han-Young Jang, TaekSang Jeong, and JungHyun Han, "GPU-based Image-space Approach to Collision Detection among Closed Objects," 
 the 14th Pacific Conference on Computer Graphics and Applications, October 11-13, 2006, Taipei, Taiwan (poster).
 
 * Han-Young Jang, Hadi Moradi, Suyeon Hong, Sukhan Lee, and JungHyun Han, "Spatial Reasoning for Real-time Robotic Manipulation," 
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 9-14, 2006, Beijing, China.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 9-14, 2006, Beijing, China. [[doi]](https://doi.org/10.1109/IROS.2006.281943)
 
 * HongJung Son and JungHyun Han, "Dynamic Skinning for Popping Dance," 
-the 5th International Conference on Entertainment Computing (ICEC), September 20-22, 2006, Cambridge, UK, pp. 280-285.
+the 5th International Conference on Entertainment Computing (ICEC), September 20-22, 2006, Cambridge, UK, pp. 280-285. [[doi]](https://doi.org/10.1007/11872320_33)
 
 * In-Gu Kang and JungHyun Han, "Real-time Animation of Large Crowds," 
 the 5th International Conference on Entertainment Computing (ICEC), September 20-22, 2006, Cambridge, UK, pp. 382-385.
 
 * Taek Sang Jeong and JungHyun Han, "Per-pixel Rendering of Terrain Data," 
-the 6th International Conference on Computational Science, May 28-31, 2006, Reading, UK, pp. 40-47.
+the 6th International Conference on Computational Science, May 28-31, 2006, Reading, UK, pp. 40-47. [[doi]](https://doi.org/10.1007/11758532_7)
 
 * Christopher D. Cera, Ilya Braude, Taeseong Kim, JungHyun Han and William C. Regli, "Hierarchical Role-based Viewing for Multi-level Information Security in Collaborative CAD," 
-ASME Transactions - Journal of Computing and Information Science in Engineering, Vol. 6, No. 1, March 2006, pp. 2-10.
+ASME Transactions - Journal of Computing and Information Science in Engineering, Vol. 6, No. 1, March 2006, pp. 2-10. [[doi]](https://doi.org/10.1115/1.2161226)
 
 * Taeseong Kim, Christopher D. Cera, William C. Regli, Hyunseung Choo, and JungHyun Han, "Multi-level Modeling and Access Control for Secure Collaborative Design," 
-Advanced Engineering Informatics, Vol. 20, No. 1, January 2006, pp. 47-57.
+Advanced Engineering Informatics, Vol. 20, No. 1, January 2006, pp. 47-57. [[doi]](https://doi.org/10.1016/j.aei.2005.05.016)
 
 <br>
 
 ### 2005
 * Taeseung D. Yoo, Eunyoung Kim, JungHyun Han, and Daniel K. Bogen, "Geometric and Biomechanical Analysis for Computer-aided Design of Assistive Medical Devices," 
-Computer-Aided Design, Vol. 37, No. 14, December 2005, pp. 1521-1532.
+Computer-Aided Design, Vol. 37, No. 14, December 2005, pp. 1521-1532. [[doi]](https://doi.org/10.1016/j.cad.2005.03.007)
 
 * JungHyun Han, Ingu Kang, Chungmin Hyun, Jong-Sik Woo and Young-Ik Eom, "Multi-platform Online Game Design and Architecture," 
-the 10th IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), September 12-16, 2005, Rome, Italy, pp. 1116-1119.
+the 10th IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), September 12-16, 2005, Rome, Italy, pp. 1116-1119. [[doi]](https://doi.org/10.1007/11555261_118)
 
 * HongJung Son, Taeseung D. Yoo, Daniel K. Bogen, and JungHyun Han, "Biomechanical Analysis of Elastic Braces," 
 the 1st Korea-China Joint Conference on Geometric and Visual Computing, August 24-26, 2005, Busan, Korea.
 
 * Sukhan Lee, Daesik Jang, Eunyoung Kim, Suyeon Hong, and JungHyun Han, "A Real-time 3D Workspace Modeling with Stereo Camera," 
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), August 2-6, 2005, Edmonton, Alberta, Canada.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), August 2-6, 2005, Edmonton, Alberta, Canada. [[doi]](https://doi.org/10.1109/IROS.2005.1545105)
 
 * Han-Young Jang, Hadi Moradi, Sukhan Lee, and JungHyun Han, "A Visibility-based Accessibility Analysis of the Grasp Points for Real-time Manipulation," 
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), August 2-6, 2005, Edmonton, Alberta, Canada.
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), August 2-6, 2005, Edmonton, Alberta, Canada. [[doi]](https://doi.org/10.1109/IROS.2005.1545526)
 
 <br>
 
 ### 2004
 * HyungSik Yoon, MoonJu Jung, and JungHyun Han, "Alternation of Levels-of-detail Construction and Occlusion Culling for Terrain Rendering," 
-International Symposium on Computational and Information Sciences, December, 2004, pp. 1161-1167.
+International Symposium on Computational and Information Sciences, December, 2004, pp. 1161-1167. [[doi]](https://doi.org/10.1007/978-3-540-30497-5_178)
 
 * Taeseung D. Yoo, Eunyoung Kim, Daniel K. Bogen, and JungHyun Han, "Geometrical Analysis for Assistive Medical Device Design," 
-International Symposium on Computational and Information Sciences, December, 2004, pp. 916-921.
+International Symposium on Computational and Information Sciences, December, 2004, pp. 916-921. [[doi]](https://doi.org/10.1007/978-3-540-30497-5_141)
 
 * JungHyun Han, Hoh Peter In, and Jong-Sik Woo, "Towards Situation-aware Cross-platform Ubi-game Development," 
-the 11st Asia-Pacific Software Engineering Conference, November 30-December 3, 2004, Busan, Korea, pp. 734-745.
+the 11st Asia-Pacific Software Engineering Conference, November 30-December 3, 2004, Busan, Korea, pp. 734-745. [[doi]](https://doi.org/10.1109/APSEC.2004.103)
 
 * Hyung-Sik Yoon, Moon-Ju Jung, and JungHyun Han, "Guided Occlusion Culling for Terrain Rendering," 
 the 5th Korea-Israel Bi-National Conference on Geometric Modeling and Computer Graphics, October 11-12, 2004, Seoul, Korea, pp. 69-74.
 
 * Christopher D. Cera, Taeseong Kim, JungHyun Han, and William C. Regli, "Role-based Viewing Envelopes for Information Protection in Collaborative Modeling," 
-Computer-Aided Design, Vol. 36, No. 9, August 2004, pp. 873-886.
+Computer-Aided Design, Vol. 36, No. 9, August 2004, pp. 873-886. [[doi]](https://doi.org/10.1016/j.cad.2003.09.014)
 
 * Keechul Jung and JungHyun Han, "Hybrid Approach to Efficient Text Extraction in Complex Color Images," 
-Pattern Recognition Letters, Vol. 25, No. 6, April 2004, pp. 679-699.
+Pattern Recognition Letters, Vol. 25, No. 6, April 2004, pp. 679-699. [[doi]](https://doi.org/10.1016/j.patrec.2004.01.017)
 
 <br>
 
 ### 2003
 * JungHyun Han, Taeseong Kim, Christopher D. Cera, and William C. Regli, "Multi-resolution Modeling in Collaborative Design," 
-the 18th International Symposium on Computer and Information Sciences, November 3-5, 2003, Antalya, Turkey, pp. 397-404.
+the 18th International Symposium on Computer and Information Sciences, November 3-5, 2003, Antalya, Turkey, pp. 397-404. [[doi]](https://doi.org/10.1007/978-3-540-39737-3_50)
 
 * Christopher D. Cera, Ilya Braude, Immanuel Comer, Taeseong Kim, JungHyun Han, and William C. Regli, "Hierarchical Role-based Viewing for Secure Collaborative CAD," 
-ASME Design Engineering Technical Conferences, Computers and Information in Engineering Conference, September 2-6, 2003, Chicago, Illinois USA.
+ASME Design Engineering Technical Conferences, Computers and Information in Engineering Conference, September 2-6, 2003, Chicago, Illinois USA. [[doi]](https://doi.org/10.1115/DETC2003/CIE-48277)
 
 * M. Kang, JungHyun Han, and J. G. Moon, "An Approach for Interlinking Design and Process Planning," 
-Journal of Materials Processing Technology, Vol. 139, No. 1, August 2003, pp. 589-595.
+Journal of Materials Processing Technology, Vol. 139, No. 1, August 2003, pp. 589-595. [[doi]](https://doi.org/10.1016/S0924-0136(03)00516-8)
 
 <br>
 
@@ -311,37 +305,37 @@ the 16th International Conference on Pattern Recognition (ICPR), Vol. 3, August 
 the 16th International Conference on Pattern Recognition (ICPR), Vol. 3, August 11-15, 2002, Quebec, Canada, pp. 469-472. [[doi]](http://dx.doi.org/10.1109/ICPR.2002.1047978)
 
 * JungHyun Han, M. Jung, C. Lee, and E. Ha, "Panorama Field Rendering with Scene Depth Estimation," 
-Electronics Letters, Vol. 38, No. 14, July 2002, pp. 704-705.
+Electronics Letters, Vol. 38, No. 14, July 2002, pp. 704-705. [[doi]](https://doi.org/10.1049/el:20020511)
 
 * Juneho Yi, Jongsun Kim, Jongmoo Choi, JungHyun Han, and Eunseok Lee, "Face Recognition based on ICA combined with FLD," 
-Biometric Authentication, June, 2002, pp. 10-18.
+Biometric Authentication, June, 2002, pp. 10-18. [[doi]](https://doi.org/10.1007/3-540-47917-1_2)
 
 <br>
 
 ### 2001
 * JungHyun Han, Mujin Kang, and Hoogon Choi, "STEP-based Feature Recognition for Manufacturing Cost Optimization," 
-Computer-Aided Design, Vol. 33, No. 9, August 2001, pp. 671-686.
+Computer-Aided Design, Vol. 33, No. 9, August 2001, pp. 671-686. [[doi]](https://doi.org/10.1016/S0010-4485(01)00071-9)
 
 * JungHyun Han, Inho Han, Eunseok Lee, and Juneho Yi, "Manufacturing Feature Recognition towards Integration with Process Planning," 
-IEEE Transactions on Systems, Man, and Cybernetics, Vol. 31, No. 3, June 2001, pp. 373-380.
+IEEE Transactions on Systems, Man, and Cybernetics, Vol. 31, No. 3, June 2001, pp. 373-380. [[doi]](https://doi.org/10.1109/3477.931522)
 
 <br>
 
 ### 2000
 * Keechul Jung and JungHyun Han, "Stereo Correspondence using GA-based Segmentation," 
-Intelligent Data Engineering and Automated Learning, December 13-15, 2000, Hong Kong, China, pp. 497-502.
+Intelligent Data Engineering and Automated Learning, December 13-15, 2000, Hong Kong, China, pp. 497-502. [[doi]](https://doi.org/10.1007/3-540-44491-2_73)
 
 * Han-hyuk Chung, Joong-min Choi, Juneho Yi, JungHyun Han, and Eunseok Lee, "A Construction of the Adapted Ontology Server in EC," 
-Intelligent Data Engineering and Automated Learning, December, 2000, pp. 355-360.
+Intelligent Data Engineering and Automated Learning, December, 2000, pp. 355-360. [[doi]](https://doi.org/10.1007/3-540-44491-2_51)
 
 * Keechul Jung and JungHyun Han, "Texture-based Text Location for Video Indexing," 
-Intelligent Data Engineering and Automated Learning, December, 2000, pp. 449-454.
+Intelligent Data Engineering and Automated Learning, December, 2000, pp. 449-454. [[doi]](https://doi.org/10.1007/3-540-44491-2_65)
 
 * JungHyun Han, William Regli, and Mike Pratt, "Manufacturing Feature Recognition from Solid Models: Status Report," 
-IEEE Transactions on Robotics and Automation, Vol. 16, No. 6, December 2000, pp. 782-796.
+IEEE Transactions on Robotics and Automation, Vol. 16, No. 6, December 2000, pp. 782-796. [[doi]](https://doi.org/10.1109/70.897789)
 
 * Keechul Jung, JungHyun Han, KwangIn Kim, and SeHyun Park, "Support Vector Machines for Text Location in News Video Images," 
-IEEE Region 10 conference 2000, Vol. 2, September 24-27, 2000, Kuala. Lumpur, Malaysia, pp. 176-180.
+IEEE Region 10 conference 2000, Vol. 2, September 24-27, 2000, Kuala. Lumpur, Malaysia, pp. 176-180. [[doi]](https://doi.org/10.1109/TENCON.2000.888824)
 
 * JungHyun Han and Mujin Kang, "Machining Sequence Generation integrated with Setup Planning," 
 the 4th International Conference on Engineering Design and Automation, July 30-August 2, 2000, Orlando, Florida.
@@ -352,23 +346,23 @@ the 1st Korea-UK Workshop on Geometric Modeling and Computer Graphics, April 6-7
 <br>
 
 ### 1999
-* JungHyun Han and Inho Han, "Manufacturing Feature Recognition and its Integration with Process Planning," 
+* JungHyun Han and Inho Han, "Manufacturable Feature Recognition and its Integration with Process Planning," 
 the 5th ACM SIGGRAPH Symposium on Solid Modeling and Applications, June 9-11, 1999, Ann Arbor, Michigan, pp. 108-118.
 
 <br>
 
 ### 1998
 * JungHyun Han and David Rosen, "Special Panel Session for Feature Recognition at the 1997 ASME Computers in Engineering Conference," 
-Computer-Aided Design, Vol. 30, No. 13, November 1998, pp. 979-982.
+Computer-Aided Design, Vol. 30, No. 13, November 1998, pp. 979-982. [[doi]](https://doi.org/10.1016/S0010-4485(98)00057-8)
 
 * JungHyun Han, William Regli, and Steve Brooks, "Hint-based Reasoning for Feature Recognition: Status Report," 
-Computer-Aided Design, Vol. 30, No. 13, November 1998, pp. 1003-1007.
+Computer-Aided Design, Vol. 30, No. 13, November 1998, pp. 1003-1007. [[doi]](https://doi.org/10.1016/S0010-4485(98)00061-X)
 
 * JungHyun Han and Aristides Requicha, "Modeler Independent Feature Recognition in a Distributed Environment," 
-Computer-Aided Design, Vol. 30, No. 6, May 1998, pp. 453-463.
+Computer-Aided Design, Vol. 30, No. 6, May 1998, pp. 453-463. [[doi]](https://doi.org/10.1016/S0010-4485(97)00097-3)
 
 * JungHyun Han and Aristides Requicha, "Feature Recognition from CAD Models," 
-IEEE Computer Graphics and Applications, Vol. 18, No. 2, April 1998, pp. 80-94.
+IEEE Computer Graphics and Applications, Vol. 18, No. 2, April 1998, pp. 80-94. [[doi]](https://doi.org/10.1109/38.656791)
 
 <br>
 
@@ -383,7 +377,7 @@ the 17th International Computers in Engineering Conference, September 14-17, 199
 the 4th ACM SIGGRAPH Symposium on Solid Modeling and Applications, May 14-16, 1997, Atlanta, Georgia, pp. 311-321.
 
 * JungHyun Han and Aristides Requicha, "Integration of Feature Based Design and Feature Recognition," 
-Computer-Aided Design, Vol. 29, No. 5, May 1997, pp. 393-403.
+Computer-Aided Design, Vol. 29, No. 5, May 1997, pp. 393-403. [[doi]](https://doi.org/10.1016/S0010-4485(96)00079-6)
 
 * Aristides Requicha and JungHyun Han, "Geometric Modeling and Artificial Intelligence for Manufacturing Feature Recognition," 
 1997 NSF Design and Manufacturing Grantees Conference, January 7-10, 1997, Seattle, Washington, USA, pp. 89-90.
@@ -392,7 +386,7 @@ Computer-Aided Design, Vol. 29, No. 5, May 1997, pp. 393-403.
 
 ### 1996
 * JungHyun Han and Aristides Requicha, "Modeler Independent Procedural Interfaces for Solid Modeling," 
-Computer Graphics International (CGI), June 24-28, 1996, Pohang, Korea, pp. 176-183.
+Computer Graphics International (CGI), June 24-28, 1996, Pohang, Korea, pp. 176-183. [[doi]](https://doi.org/10.1109/CGI.1996.511799)
 
 * JungHyun Han and Aristides Requicha, "Hint Generation and Completion for Feature Recognition," 
 the 29th International Symposium on Automotive Technology and Automation, June 3-6, 1996, Florence, Italy, pp. 89-96.

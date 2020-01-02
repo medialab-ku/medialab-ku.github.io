@@ -6,7 +6,7 @@ title: People
 ### Professor
 * [한정현](/people/jhan) (jhan<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-
+<hr>
 ### Students
 #### Ph.D. Students
 * 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -32,7 +32,7 @@ title: People
 * 도재형 (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 유재황 (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-
+<hr>
 ### Former Research Members
 #### Research Professors
 * 박지영 (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -41,6 +41,7 @@ title: People
 #### Research Associate
 * 이중기 (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
+<hr>
 
 ### Alumni
 #### Ph.D.

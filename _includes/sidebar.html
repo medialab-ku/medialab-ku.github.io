@@ -2,7 +2,11 @@
   <img src="/images/logo.png" alt="logo">
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+      {% if page.url contains 'english' %}
+      <a href="{{ "english" | relative_url }}">
+      {% else %}
       <a href="{{ "/" | relative_url }}">
+      {% endif %}
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
@@ -20,7 +24,14 @@
   {% if site.sidebar_icon_link %}
     {% include sidebar-icon-links.html %}
   {% endif %}
-  <div style="float: right"><a href="{{"/" | relative_url}}">Korean</a> / <a href="{{"/english" | relative_url}}">English</a></div>
+
+  <div style="float: right">
+    <a class="{% unless page.url contains 'english' %} active{% endunless %}"
+        href="{{"/" | relative_url}}">Korean</a>
+        / 
+    <a class="{% if page.url contains 'english' %} active{% endif %}"
+        href="{{"/english" | relative_url}}">English</a>
+  </div>
   <br>
 </div>
 
