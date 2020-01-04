@@ -50,7 +50,6 @@ a {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 0rem;
   border-radius: 5px;
   height: auto; // Fix to keep max-width from squishing images with defined
                 // height in HTML
@@ -61,7 +60,6 @@ table {
   width: 100%;
   font-size: 85%;
   border: 1px solid $border-color;
-  border-collapse: collapse;
 }
 
 td,

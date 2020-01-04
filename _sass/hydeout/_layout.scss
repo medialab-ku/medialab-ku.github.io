@@ -68,6 +68,44 @@ body {
   padding: $section-spacing;
 }
 
+.row {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-box-orient: horizontal; 
+  -moz-box-orient: horizontal;
+  box-orient: horizontal;
+  flex-direction: row;
+
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  box-pack: center;
+  justify-content: center;
+
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  box-align: center;  
+  align-items: center;
+
+}
+
+.cell {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  display: flex;
+  align-items: center;
+  box-sizing: content-box;
+}
+
 
 /* -----------------------------------------------------------
   Mobile view
