@@ -5,9 +5,17 @@ title: Research
 
 ### VR
 <br>
-<img src="/research/images/vr/2.png" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/vr/1.jpg" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/vr/3.jpg" width="280">
+<div class="row">
+    <div class="cell">
+        <img class="img" src="/research/images/vr/2.png" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/vr/1.jpg" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/vr/3.jpg" width="280">
+    </div>
+</div>
 
 #### 4D VR
 * To enhance users' VR immersion, studies are conducted to integrate the visual stimulus via an HMD and the vestibular stimulus via a motion platform. [[video]](https://youtu.be/B2SWp6XFHvM)
@@ -23,9 +31,17 @@ title: Research
 
 ### 3D Scanning & AR
 <br>
-<img src="/research/images/ar/1.jpg" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/ar/2.png" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/ar/3.jpg" width="280">
+<div class="row">
+    <div class="cell">
+        <img class="img" src="/research/images/ar/1.jpg" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/ar/2.png" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/ar/3.jpg" width="280">
+    </div>
+</div>
 
 #### Performance Capture
 * Studies are conducted to extract 3D models and motions at real time with an RGB-D camera. It can be used to develop AR systems for virtual concerts, teleconferences, and so on. [[video]](https://youtu.be/hbuuXuwsmlk)
@@ -41,9 +57,17 @@ title: Research
 
 ### Deep Learning for 3D Applications
 <br>
-<img src="/research/images/deeplearning/2.jpg" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/deeplearning/1.png" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/deeplearning/3.jpg" width="280">
+<div class="row">
+    <div class="cell">
+        <img class="img" src="/research/images/deeplearning/2.jpg" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/deeplearning/1.png" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/deeplearning/3.jpg" width="280">
+    </div>
+</div>
 
 #### Pose Estimation
 * We develop a motion capture technique that uses a single RGB camera. It uses multiple frames of the input video to improve accuracy. [[video]](https://youtu.be/ooOfPQu7Bik)
@@ -59,9 +83,17 @@ title: Research
 
 ### Computer Graphics & Physics-based Simulation
 <br>
-<img src="/research/images/physics/1.jpg" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/physics/2.jpg" width="280" style="float: left; margin-right: 10px;">
-<img src="/research/images/physics/4.jpg" width="280">
+<div class="row">
+    <div class="cell">
+        <img class="img" src="/research/images/physics/1.jpg" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/physics/2.jpg" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/physics/4.jpg" width="280">
+    </div>
+</div>
 
 #### Magnetic Object Simulation
 * The forces exerted on magnetic objects are calculated using Maxwell's equations to mimic the realistic motions of magnetic objects. [[video]](https://youtu.be/m5s5BAKCMcE)

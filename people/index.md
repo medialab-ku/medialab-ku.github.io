@@ -24,7 +24,7 @@ title: People
 #### M.S. Students
 * 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 이건선 (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [이건선](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 유기현 (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
