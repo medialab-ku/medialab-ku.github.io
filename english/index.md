@@ -8,13 +8,12 @@ Our research interests lie in the following areas:
 * Deep Learning + 3D Applications
 * Computer Graphics and Physics Simulation
 
-<hr>
-
-## News
-<br>
 We are looking for undergraduate interns, graduate students and postdocs.  
 If you're interested, send email to jhan@korea.ac.kr.
 
+<hr>
+
+## News
 #### 2019.12
 * We are awarded a big grant from Samsung Research Funding and Incubation Center for Future Technology. The project title is “Next-generation Physics Simulation = Particle-based Unified Simulation + Deep Learning.”
 
