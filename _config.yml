@@ -35,3 +35,5 @@ sidebar_home_link:  false
                                 # to enable a separate blog link.
 
 sidebar_icon_link: false
+
+theme: jekyll-theme-cayman
