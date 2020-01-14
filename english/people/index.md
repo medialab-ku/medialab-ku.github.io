@@ -25,7 +25,7 @@ title: People
 #### M.S. Students
 * Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Geonsun Lee (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Geonsun Lee](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Kihyun Yu (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
