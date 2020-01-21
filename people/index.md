@@ -51,7 +51,7 @@ title: People
 * [엄기원](/people/kiwon) (um.kiwon<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김영범 (talesoff<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 백승호 (bshsqa<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 강형엽 (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [강형엽](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S.
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)

@@ -53,7 +53,7 @@ title: People
 * [Kiwon Um](/people/kiwon) (um.kiwon<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * YoungBeom Kim (talesoff<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Seungho Baek (bshsqa<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* HyeongYeop Kang (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [HyeongYeop Kang](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S.
 * InGu Kang (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
