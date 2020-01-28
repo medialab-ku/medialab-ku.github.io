@@ -14,6 +14,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2020.01
+Two papers are accepted for IEEE VR 2020.
+
 #### 2019.12
 * We are awarded a big grant from Samsung Research Funding and Incubation Center for Future Technology. The project title is “Next-generation Physics Simulation = Particle-based Unified Simulation + Deep Learning.”
 
