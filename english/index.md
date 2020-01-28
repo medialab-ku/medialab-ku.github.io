@@ -15,6 +15,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 #### 2020.01
+* A paper is accepted for EuroGraphics 2020.
 * Two papers are accepted for IEEE VR 2020.
 
 #### 2019.12
