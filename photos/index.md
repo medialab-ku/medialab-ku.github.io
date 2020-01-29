@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>송년회 2019</b>: 어거스트 힐, 역삼 (2019.12.05)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2019-year-end-party/1.jpg"><img class="photo" src="/photos/thumbnails/2019-year-end-party/1.jpg" alt="2019-year-end-party"></a></td>
+					<td class="three"><a href="/photos/pictures/2019-year-end-party/2.jpg"><img class="photo" src="/photos/thumbnails/2019-year-end-party/2.jpg" alt="2019-year-end-party"></a></td>
+					<td class="three"><a href="/photos/pictures/2019-year-end-party/3.jpg"><img class="photo" src="/photos/thumbnails/2019-year-end-party/3.jpg" alt="2019-year-end-party"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>석사 논문 디펜스</b>: 무르무르, 안암 (2019.12.05)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2019-defence/1.jpg"><img class="photo" src="/photos/thumbnails/2019-defence/1.jpg" alt="2019-defence"></a></td>
