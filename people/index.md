@@ -28,7 +28,7 @@ title: People
 * 유기현 (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
-* 김동은 (dongeunkim0622<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [김동은](https://ggimdong.github.io/) (dongeunkim0622<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 도재형 (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 유재황 (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 

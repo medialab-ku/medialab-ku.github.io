@@ -29,7 +29,7 @@ title: People
 * Kihyun Yu (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
-* DongEun Kim (dongeunkim0622<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [DongEun Kim](https://ggimdong.github.io/) (dongeunkim0622<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaehyung Doh (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
