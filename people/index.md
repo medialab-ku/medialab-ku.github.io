@@ -14,6 +14,7 @@ title: People
 * 김승욱 (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 장가람 (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 윤여명 (yeomyung<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Integrated M.S. & Ph.D. Students
 * 기민형 (free905702<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
