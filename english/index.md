@@ -20,10 +20,3 @@ If you're interested, send email to jhan@korea.ac.kr.
 #### 2020.01
 * A paper is conditionally accepted for EuroGraphics 2020.
 * Two papers are conditionally accepted for IEEE VR 2020.
-<!--
-#### 2019.12
-* We are awarded a big grant from Samsung Research Funding and Incubation Center for Future Technology. The project title is “Next-generation Physics Simulation = Particle-based Unified Simulation + Deep Learning.”
-
-#### 2019.10
-* The 4th doctor from our lab, Kiwon Um, is appointed as an associate professor at Image, Data, Signal Department of Telecom Paris, which is one of the grandes écoles of France.
--->
