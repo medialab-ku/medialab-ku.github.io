@@ -29,7 +29,7 @@ title: Research
 
 <br><br>
 
-### 3차원 스캐닝 및 증강 현실 (3D Scanning & AR)
+### 3차원 재구성 및 증강 현실 (3D Reconstruction & AR)
 <br>
 <div class="row">
     <div class="cell">
@@ -49,7 +49,7 @@ title: Research
 #### SLAM (Simultaneous Localization and Mapping) for Inspection
 * RGB 카메라 기반 SLAM과 증강 현실 기술을 결합하여 산업 현장 내의 설비 배치 검수에 활용한다.
 
-#### 3D Scanning and Reverse Engineering
+#### 3D Reconstruction and Reverse Engineering
 * RGB-D 카메라를 이용해 실내 공간을 스캔한 후 3차원 CAD 모델을 자동 복원하는 기법을 연구한다. [[video]](https://youtu.be/rjVbIZ-AUkU)
 
 

@@ -3,6 +3,16 @@ layout: post
 title: Publications
 ---
 
+### 2020
+* SangBin Kim, Inbum Park, Seongsu Kwon, and JungHyun Han, "Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions," 
+Eurographics 2020, May 25-29, 2020, Norrköping, Sweden. [[page]](https://sites.google.com/view/retargetting-tdcn)
+
+* SungIk Cho, Seung-wook Kim, JongMin Lee, JeongHyeon Ahn and JungHyun Han, "Effects of volumetric capture avatars on social presence in immersive virtual environments," 
+IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[doi]]()
+
+* Geonsun Lee, HyeongYeop Kang, JongMin Lee and JungHyun Han, "A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations," 
+IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[doi]]()
+
 ### 2019
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Obstacle Detection and Alert System for Smartphone AR Users," 
 ACM VRST (Virtual Reality Software and Technology), November 12-15, 2019, Sydney, Australia. [[video]](https://youtu.be/k5q__4PpWY8) [[doi]](https://doi.org/10.1145/3359996.3364256)
@@ -17,10 +27,10 @@ IEEE ISMAR (International Symposium on Mixed and Augmented Reality), October 14-
 International Journal of Human–Computer Interaction, Vol. 35, No. 13, May 2019. [[video]](https://youtu.be/3Am4Rf2KD-I) [[doi]](https://doi.org/10.1080/10447318.2018.1514163)
 
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments," 
-IEEE VR, March 23-27, 2019, Osaka, Japan (best conference paper nominee). [[video]](https://youtu.be/qkMbVsgwVQk) [[doi]](https://doi.org/10.1109/VR.2019.8798300)
+IEEE VR, March 23-27, 2019, Osaka, Japan **(best conference paper nominated)**. [[video]](https://youtu.be/qkMbVsgwVQk) [[doi]](https://doi.org/10.1109/VR.2019.8798300)
 
 * HyeongYeop Kang, Geonsun Lee, Dae Seok Kang, Ohung Kwon, Jun Yeup Cho, Ho-Jung Choi and JungHyun Han, "Jumping Further: Forward Jumps in a Gravity-Reduced Immersive Virtual Environment," 
-IEEE VR, March 23-27, 2019, Osaka, Japan (best conference paper nominee). [[video]](https://youtu.be/1syngGZFMWk) [[doi]](https://doi.org/10.1109/VR.2019.8798251)
+IEEE VR, March 23-27, 2019, Osaka, Japan **(best conference paper nominated)**. [[video]](https://youtu.be/1syngGZFMWk) [[doi]](https://doi.org/10.1109/VR.2019.8798251)
 
 <br>
 

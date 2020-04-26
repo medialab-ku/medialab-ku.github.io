@@ -7,6 +7,7 @@ title: People
 * [한정현](/people/jhan) (jhan<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
+
 ### Students
 #### Ph.D. Students
 * 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -14,24 +15,22 @@ title: People
 * 김승욱 (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 장가람 (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 윤여명 (yeomyung<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-
-#### Integrated M.S. & Ph.D. Students
 * 기민형 (free905702<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+
+#### M.S. Students
+* 유기현 (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이재광 (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-
-#### M.S. Students
-* 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [이건선](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 유기현 (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 유재황 (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
-* [김동은](https://ggimdong.github.io/) (dongeunkim0622<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 도재형 (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 유재황 (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 김형진 (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김후정 (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 류지석 (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 정우석 (www013181<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 ### Former Research Members
@@ -55,6 +54,9 @@ title: People
 * [강형엽](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S.
+* 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [이건선](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * 손홍정 (hj79337<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김현우 (demiteios<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

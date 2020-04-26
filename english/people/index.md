@@ -15,24 +15,22 @@ title: People
 * Seung-wook Kim (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Ga-Ram Jang (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Yeomyung Yoon (yeomyung<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-
-#### Integrated M.S. & Ph.D. Students
 * Min Hyung Kee (free905702<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+
+#### M.S. Students
+* Kihyun Yu (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaegang Lee (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-
-#### M.S. Students
-* Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [Geonsun Lee](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Kihyun Yu (blackapple1202<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
-* [DongEun Kim](https://ggimdong.github.io/) (dongeunkim0622<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jaehyung Doh (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* WhoJung Kim (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* JiSeok Ryu (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* WooSeok Jeong (www013181<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -57,6 +55,9 @@ title: People
 * [HyeongYeop Kang](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S.
+* Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Geonsun Lee](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * InGu Kang (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * HongJung Son (hj79337<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HyunWoo Kim (demiteios<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

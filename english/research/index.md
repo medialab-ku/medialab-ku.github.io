@@ -29,7 +29,7 @@ title: Research
 
 <br><br>
 
-### 3D Scanning & AR
+### 3D Reconstruction & AR
 <br>
 <div class="row">
     <div class="cell">
@@ -49,7 +49,7 @@ title: Research
 #### SLAM (Simultaneous Localization and Mapping) for Inspection
 * A combination of RGB camera-based SLAM and AR technology is used for industrial inspection.
 
-#### 3D Scanning and Reverse Engineering
+#### 3D Reconstruction and Reverse Engineering
 * We study automatic 3D CAD model reconstruction from the scanned data of industrial sites using an RGB-D camera. [[video]](https://youtu.be/rjVbIZ-AUkU)
 
 
