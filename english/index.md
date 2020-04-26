@@ -15,7 +15,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 #### 2020.04
-* We are selected as a SW Star Lab and awarded an 8-year grant from the Ministry of Science and ICT. The project title is “Two-way interaction between Real and Virtual Objects in Mixed Reality Environment.”
+* We are selected as a SW Star Lab and awarded an 8-year grant from the Ministry of Science and ICT. The project title is “Two-way Interaction between Real and Virtual Objects in Mixed Reality Environment.”
 
 #### 2020.03
 * The 7th doctor from our lab, HyeongYeop Kang, is appointed as an assistant professor at Software Convergence Department of Kyung Hee University.

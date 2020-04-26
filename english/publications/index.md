@@ -7,11 +7,11 @@ title: Publications
 * SangBin Kim, Inbum Park, Seongsu Kwon, and JungHyun Han, "Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions," 
 Eurographics 2020, May 25-29, 2020, Norrköping, Sweden. [[page]](https://sites.google.com/view/retargetting-tdcn)
 
-* SungIk Cho, Seung-wook Kim, JongMin Lee, JeongHyeon Ahn and JungHyun Han, "Effects of volumetric capture avatars on social presence in immersive virtual environments," 
-IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[doi]]()
+* SungIk Cho, Seung-wook Kim, JongMin Lee, JeongHyeon Ahn and JungHyun Han, "Effects of Volumetric Capture Avatars on Social Presence in Immersive Virtual Environments," 
+IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/qqZ25gfIj5c) [[doi]]()
 
 * Geonsun Lee, HyeongYeop Kang, JongMin Lee and JungHyun Han, "A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations," 
-IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[doi]]()
+IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]]() [[doi]]()
 
 ### 2019
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Obstacle Detection and Alert System for Smartphone AR Users," 
