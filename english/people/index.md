@@ -55,9 +55,6 @@ title: People
 * [HyeongYeop Kang](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S.
-* Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [Geonsun Lee](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * InGu Kang (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * HongJung Son (hj79337<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HyunWoo Kim (demiteios<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -82,3 +79,6 @@ title: People
 * Myoung Gon Kim (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jinwoo Choi (aufheben_1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Geonsun Lee](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

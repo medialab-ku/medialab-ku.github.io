@@ -54,9 +54,6 @@ title: People
 * [강형엽](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S.
-* 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [이건선](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * 손홍정 (hj79337<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김현우 (demiteios<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -81,3 +78,6 @@ title: People
 * 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 최진우 (aufheben_1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [이건선](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
