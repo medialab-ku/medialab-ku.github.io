@@ -26,6 +26,7 @@ title: People
 
 #### Undergraduate Interns
 * Jaehyung Doh (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* MinSoo Kim (mskimkim0318<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * WhoJung Kim (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * JiSeok Ryu (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)

@@ -26,6 +26,7 @@ title: People
 
 #### Undergraduate Interns
 * 도재형 (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김민수 (mskimkim0318<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김형진 (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김후정 (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 류지석 (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
