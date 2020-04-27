@@ -11,7 +11,7 @@ Eurographics 2020, May 25-29, 2020, Norrköping, Sweden. [[page]](https://sites.
 IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/qqZ25gfIj5c) [[doi]]()
 
 * Geonsun Lee, HyeongYeop Kang, JongMin Lee and JungHyun Han, "A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations," 
-IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]]() [[doi]]()
+IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/iryVaA4mWTs) [[doi]]()
 
 ### 2019
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Obstacle Detection and Alert System for Smartphone AR Users," 
