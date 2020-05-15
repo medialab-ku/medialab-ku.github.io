@@ -7,7 +7,7 @@ title: Publications
 * P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, "PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments," IEEE Transactions on Visualization and Computer Graphics 2020 (published online). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
 
 * SangBin Kim, Inbum Park, Seongsu Kwon, and JungHyun Han, "Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions," 
-Eurographics 2020, May 25-29, 2020, Norrköping, Sweden. [[page]](https://sites.google.com/view/retargetting-tdcn)
+Eurographics 2020, May 25-29, 2020, Norrköping, Sweden. [[video]](https://youtu.be/_bunW8Elf0M) [[page]](https://sites.google.com/view/retargetting-tdcn)
 
 * SungIk Cho, Seung-wook Kim, JongMin Lee, JeongHyeon Ahn and JungHyun Han, "Effects of Volumetric Capture Avatars on Social Presence in Immersive Virtual Environments," 
 IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/qqZ25gfIj5c) [[doi]]()
