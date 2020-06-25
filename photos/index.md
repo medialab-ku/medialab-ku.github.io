@@ -6,6 +6,24 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>석박사 논문 디펜스</b>: 무르무르, 안암 (2020.06.12)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2020-defence/1.jpg"><img class="photo" src="/photos/thumbnails/2020-defence/1.jpg" alt="2020-defence"></a></td>
+					<td class="three"><a href="/photos/pictures/2020-defence/2.jpg"><img class="photo" src="/photos/thumbnails/2020-defence/2.jpg" alt="2020-defence"></a></td>
+					<td class="three"><a href="/photos/pictures/2020-defence/3.jpg"><img class="photo" src="/photos/thumbnails/2020-defence/3.jpg" alt="2020-defence"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
+				<caption><b>Good news</b> (2020 상반기)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2020-goodnews/samsung.jpg"><img class="photo" src="/photos/thumbnails/2020-goodnews/samsung.jpg" alt="2020-goodnews"></a></td>
+					<td class="three"><a href="/photos/pictures/2020-goodnews/starlab.jpg"><img class="photo" src="/photos/thumbnails/2020-goodnews/starlab.jpg" alt="2020-goodnews"></a></td>
+					<td class="three"><a href="/photos/pictures/2020-goodnews/ict.jpg"><img class="photo" src="/photos/thumbnails/2020-goodnews/ict.jpg" alt="2020-goodnews"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>송년회 2019</b>: 어거스트 힐, 역삼 (2019.12.19)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2019-year-end-party/1.jpg"><img class="photo" src="/photos/thumbnails/2019-year-end-party/1.jpg" alt="2019-year-end-party"></a></td>
