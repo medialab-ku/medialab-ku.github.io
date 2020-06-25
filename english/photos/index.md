@@ -15,7 +15,7 @@ title: Photos
 			</tbody></table>
 
 			<table class="each">
-				<caption><b>Good news</b>: (2020 상반기)</caption>
+				<caption><b>Good news</b>: (2019년 겨울 ~ 2020년 봄)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2020-goodnews/samsung.jpg"><img class="photo" src="/photos/thumbnails/2020-goodnews/samsung.jpg" alt="2020-goodnews"></a></td>
 					<td class="three"><a href="/photos/pictures/2020-goodnews/starlab.jpg"><img class="photo" src="/photos/thumbnails/2020-goodnews/starlab.jpg" alt="2020-goodnews"></a></td>
