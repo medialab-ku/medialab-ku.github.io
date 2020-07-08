@@ -14,6 +14,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2020.07
+* We are awarded a 10-year grant (of annual budget $3M) from the Ministry of Science and ICT. The project title is “Medical Superintelligence based on Digital Twins.”
+
 #### 2020.04
 * We are selected as a SW Star Lab and awarded an 8-year grant from the Ministry of Science and ICT. The project title is “Two-way Interaction between Real and Virtual Objects in Mixed Reality Environment.”
 
