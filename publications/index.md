@@ -4,14 +4,10 @@ title: Publications
 ---
 
 ### 2020
-* Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-Guided Navigation for Floor Layout Inspection," Computer Graphics International (CGI). October 20-23, 2020, Geneva, Switzerland. [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
-
-* HyeongYeop Kang and JungHyun Han, "SafeXR: alerting walking persons to obstacles in mobile XR environments," Computer Graphics International (CGI). October 20-23, 2020, Geneva, Switzerland. [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
-
-* P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, "PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments," IEEE Transactions on Visualization and Computer Graphics 2020 (published online). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
+* P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, "PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments," IEEE Transactions on Visualization and Computer Graphics 2020 (published online and invited for presentation at ISMAR 2020). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
 
 * SangBin Kim, Inbum Park, Seongsu Kwon, and JungHyun Han, "Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions," 
-Eurographics 2020, May 25-29, 2020, Norrköping, Sweden. [[video]](https://youtu.be/_bunW8Elf0M) [[page]](https://sites.google.com/view/retargetting-tdcn) [[doi]](https://doi.org/10.1111/cgf.13947)
+Eurographics 2020, May 25-29, 2020, Norrköping, Sweden. (published in Computer Graphics Forum, Vol. 39, No. 2, May 2020, pp. 497-507) [[video]](https://youtu.be/_bunW8Elf0M) [[page]](https://sites.google.com/view/retargetting-tdcn) [[doi]](https://doi.org/10.1111/cgf.13947)
 
 * SungIk Cho, Seung-wook Kim, JongMin Lee, JeongHyeon Ahn and JungHyun Han, "Effects of Volumetric Capture Avatars on Social Presence in Immersive Virtual Environments," 
 IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/qqZ25gfIj5c) [[doi]](https://doi.org/10.1109/VR46266.2020.00020)
