@@ -19,7 +19,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 #### 2020.08
 * A paper is conditionally accepted for Pacific Graphics 2020.
-* Our IEEE TVCG paper is invited for presentation at ISMAR 2020.
+* A paper accepted for publication in IEEE TVCG is invited for presentation at ISMAR 2020.
 
 #### 2020.07
 * We are awarded a 10-year grant (of annual budget $3M) from the Ministry of Science and ICT. The project title is “Medical Superintelligence based on Digital Twins.”
