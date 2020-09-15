@@ -33,10 +33,10 @@ title: People
 * 김형진 (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* 류광록 (kwangrok21<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 강현모 (zzdldl31<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김민수 (mskimkim0318<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김후정 (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 류광록 (kwangrok21<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 류지석 (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 이동현 (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)

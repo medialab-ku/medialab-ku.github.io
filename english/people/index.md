@@ -26,17 +26,17 @@ title: People
 
 #### M.S. Students
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Jaegang Lee (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* JaeKwang Lee (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jaehyung Doh (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* KwangRok Ryoo (kwangrok21<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Hyunmo Kang (zzdldl31<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * MinSoo Kim (mskimkim0318<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * WhoJung Kim (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* KwangRok Ryoo (kwangrok21<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * JiSeok Ryu (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * DongHyun Lee (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
