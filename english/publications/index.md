@@ -4,6 +4,12 @@ title: Publications
 ---
 
 ### 2020
+* Seung-wook Kim and JungHyun Han, "Simulation of Arbitrarily-shaped Magnetic Objects," Pacific Graphics, 2020 (to be published in Computer Graphics Forum). [[video]](https://youtu.be/4pg1l8mYlLg)
+
+* Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-Guided Navigation for Floor Layout Inspection," Computer Graphics International (CGI). October 20-23, 2020, Geneva, Switzerland (to be published in The Visual Computer). [[video]](https://youtu.be/sl9hZiGJhdI) [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
+
+* HyeongYeop Kang and JungHyun Han, "SafeXR: alerting walking persons to obstacles in mobile XR environments," Computer Graphics International (CGI). October 20-23, 2020, Geneva, Switzerland (to be published in The Visual Computer). [[video]](https://youtu.be/jenvwxuiKv8) [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
+
 * P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, "PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments," IEEE Transactions on Visualization and Computer Graphics 2020 (published online and invited for presentation at ISMAR 2020). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
 
 * SangBin Kim, Inbum Park, Seongsu Kwon, and JungHyun Han, "Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions," 
