@@ -4,53 +4,53 @@ title: Publications
 ---
 
 ### 2020
-* Seung-wook Kim and JungHyun Han, "Simulation of Arbitrarily-shaped Magnetic Objects," Pacific Graphics, 2020 (to be published in Computer Graphics Forum). [[video]](https://youtu.be/4pg1l8mYlLg)
+* Seung-wook Kim and JungHyun Han, "Simulation of Arbitrarily-shaped Magnetic Objects," **Pacific Graphics** (to be published in **Computer Graphics Forum**). [[video]](https://youtu.be/4pg1l8mYlLg)
 
-* Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-Guided Navigation for Floor Layout Inspection," Computer Graphics International (CGI). October 20-23, 2020, Geneva, Switzerland (to be published in The Visual Computer). [[video]](https://youtu.be/sl9hZiGJhdI) [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
+* Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-guided Navigation for Floor Layout Inspection," **Computer Graphics International (CGI)**. October 20-23, 2020, Geneva, Switzerland (to be published in **The Visual Computer**). [[video]](https://youtu.be/sl9hZiGJhdI) [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
 
-* HyeongYeop Kang and JungHyun Han, "SafeXR: alerting walking persons to obstacles in mobile XR environments," Computer Graphics International (CGI). October 20-23, 2020, Geneva, Switzerland (to be published in The Visual Computer). [[video]](https://youtu.be/jenvwxuiKv8) [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
+* HyeongYeop Kang and JungHyun Han, "SafeXR: Alerting Walking Persons to Obstacles in Mobile XR Environments," **Computer Graphics International (CGI)**. October 20-23, 2020, Geneva, Switzerland (to be published in **The Visual Computer**). [[video]](https://youtu.be/jenvwxuiKv8) [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
 
-* P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, "PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments," IEEE Transactions on Visualization and Computer Graphics 2020 (published online and invited for presentation at ISMAR 2020). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
+* P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, "PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments," **IEEE Transactions on Visualization and Computer Graphics** (published online and invited for presentation at **ISMAR**). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
 
 * SangBin Kim, Inbum Park, Seongsu Kwon, and JungHyun Han, "Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions," 
-Eurographics 2020, May 25-29, 2020, Norrköping, Sweden (published in Computer Graphics Forum, Vol. 39, No. 2, May 2020, pp. 497-507). [[video]](https://youtu.be/_bunW8Elf0M) [[page]](https://sites.google.com/view/retargetting-tdcn) [[doi]](https://doi.org/10.1111/cgf.13947)
+**Eurographics** May 25-29, 2020, Norrköping, Sweden (published in **Computer Graphics Forum**, Vol. 39, No. 2, May 2020, pp. 497-507). [[video]](https://youtu.be/_bunW8Elf0M) [[page]](https://sites.google.com/view/retargetting-tdcn) [[doi]](https://doi.org/10.1111/cgf.13947)
 
 * SungIk Cho, Seung-wook Kim, JongMin Lee, JeongHyeon Ahn and JungHyun Han, "Effects of Volumetric Capture Avatars on Social Presence in Immersive Virtual Environments," 
-IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/qqZ25gfIj5c) [[doi]](https://doi.org/10.1109/VR46266.2020.00020)
+**IEEE VR**. March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/qqZ25gfIj5c) [[doi]](https://doi.org/10.1109/VR46266.2020.00020)
 
 * Geonsun Lee, HyeongYeop Kang, JongMin Lee and JungHyun Han, "A User Study on View-sharing Techniques for One-to-Many Mixed Reality Collaborations," 
-IEEE VR, March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/iryVaA4mWTs) [[doi]](https://doi.org/10.1109/VR46266.2020.00054)
+**IEEE VR**. March 22-26, 2020, Atlanta, Georgia, USA **(best conference paper nominated)**. [[video]](https://youtu.be/iryVaA4mWTs) [[doi]](https://doi.org/10.1109/VR46266.2020.00054)
 
 ### 2019
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Obstacle Detection and Alert System for Smartphone AR Users," 
-ACM VRST (Virtual Reality Software and Technology), November 12-15, 2019, Sydney, Australia. [[video]](https://youtu.be/k5q__4PpWY8) [[doi]](https://doi.org/10.1145/3359996.3364256)
+**ACM VRST**. November 12-15, 2019, Sydney, Australia. [[video]](https://youtu.be/k5q__4PpWY8) [[doi]](https://doi.org/10.1145/3359996.3364256)
 
-* Jinwoo Choi and JungHyun Han, "Point-cloud rendering for video see-through augmented reality," 
-EuroVR, October 23-25, 2019, Tallinn, Estonia (poster). [[doi]](https://doi.org/10.1007/978-3-030-31908-3_22)
+* Jinwoo Choi and JungHyun Han, "Point-Cloud Rendering for Video See-Through Augmented Reality," 
+**EuroVR**. October 23-25, 2019, Tallinn, Estonia (poster). [[doi]](https://doi.org/10.1007/978-3-030-31908-3_22)
 
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "SafeAR: AR Alert System Assisting Obstacle Avoidance for Pedestrians," 
-IEEE ISMAR (International Symposium on Mixed and Augmented Reality), October 14-18, 2019, Beiging, China (poster).
+**IEEE ISMAR**. October 14-18, 2019, Beiging, China (poster).
 
 * MyoungGon Kim and JungHyun Han, "Effects of Switchable DOF for Mid-Air Manipulation in Immersive Virtual Environments," 
-International Journal of Human–Computer Interaction, Vol. 35, No. 13, May 2019. [[video]](https://youtu.be/3Am4Rf2KD-I) [[doi]](https://doi.org/10.1080/10447318.2018.1514163)
+**International Journal of Human–Computer Interaction**, Vol. 35, No. 13, May 2019. [[video]](https://youtu.be/3Am4Rf2KD-I) [[doi]](https://doi.org/10.1080/10447318.2018.1514163)
 
 * HyeongYeop Kang, Geonsun Lee and JungHyun Han, "Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments," 
-IEEE VR, March 23-27, 2019, Osaka, Japan **(best conference paper nominated)**. [[video]](https://youtu.be/qkMbVsgwVQk) [[doi]](https://doi.org/10.1109/VR.2019.8798300)
+**IEEE VR**. March 23-27, 2019, Osaka, Japan **(best conference paper nominated)**. [[video]](https://youtu.be/qkMbVsgwVQk) [[doi]](https://doi.org/10.1109/VR.2019.8798300)
 
 * HyeongYeop Kang, Geonsun Lee, Dae Seok Kang, Ohung Kwon, Jun Yeup Cho, Ho-Jung Choi and JungHyun Han, "Jumping Further: Forward Jumps in a Gravity-Reduced Immersive Virtual Environment," 
-IEEE VR, March 23-27, 2019, Osaka, Japan **(best conference paper nominated)**. [[video]](https://youtu.be/1syngGZFMWk) [[doi]](https://doi.org/10.1109/VR.2019.8798251)
+**IEEE VR**. March 23-27, 2019, Osaka, Japan **(best conference paper nominated)**. [[video]](https://youtu.be/1syngGZFMWk) [[doi]](https://doi.org/10.1109/VR.2019.8798251)
 
 <br>
 
 ### 2018
 * Seung-wook Kim, Sun Young Park, and JungHyun Han, "Magnetization Dynamics for Magnetic Object Interactions," 
-SIGGRAPH, August 12-16, 2018, Vancouver, Canada (published in ACM Transactions on Graphics, Vol. 37, No. 4, August 2018). [[video]](https://youtu.be/m5s5BAKCMcE) [[doi]](https://doi.org/10.1145/3197517.3201402)
+**SIGGRAPH**. August 12-16, 2018, Vancouver, Canada (published in **ACM Transactions on Graphics**, Vol. 37, No. 4, August 2018). [[video]](https://youtu.be/m5s5BAKCMcE) [[doi]](https://doi.org/10.1145/3197517.3201402)
 
 * Bukyoung Jhun, Youngseok Jhun, Seung-wook Kim, and JungHyun Han, "Numerical Calculation of Non-uniform Magnetization Using Experimental Magnetic Field Data," 
-Journal of the Korean Physical Society, Vol. 72, No. 9, May 2018, pp. 1058-1062. [[doi]](https://doi.org/10.3938/jkps.72.1058)
+**Journal of the Korean Physical Society**, Vol. 72, No. 9, May 2018, pp. 1058-1062. [[doi]](https://doi.org/10.3938/jkps.72.1058)
 
 * HyeongYeop Kang, Yeram Sim, and JungHyun Han, "Terrain Rendering with Unlimited Detail and Resolution," 
-Graphical Models, Vol. 97, May 2018, pp. 64-79. [[doi]](https://doi.org/10.1016/j.gmod.2018.04.001)
+**Graphical Models**, Vol. 97, May 2018, pp. 64-79. [[doi]](https://doi.org/10.1016/j.gmod.2018.04.001)
 
 * Han-sung Son and JungHyun Han, "Real-time Approximation of a Normal Distribution Function for Normal-mapped Surfaces," 
 IEICE Transactions on Information and Systems, Vol. 101, No. 5, May 2018, pp. 1462-1465. [[doi]](https://doi.org/10.1587/transinf.2017EDL8212)
