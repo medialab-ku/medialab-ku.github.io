@@ -22,8 +22,8 @@ layout: home
 * IEEE TVCG 논문 한 편이 ISMAR 2020에 발표 초청 받았습니다.
 
 #### 2020.07
-* ICT명품인재양성사업에 "디지털 트윈 기반 의료 초지능 (Medical Superintelligence based on Digital Twins)" 과제가 선정되었습니다.
 * 유기현 군이 네이버 랩스 AR팀에서 커리어를 시작합니다.
+* ICT명품인재양성사업에 "디지털 트윈 기반 의료 초지능 (Medical Superintelligence based on Digital Twins)" 과제가 선정되었습니다.
 
 #### 2020.04
 * SW스타랩 지원사업에 "실제 환경과 가상 물체 간 양방향 상호작용을 지원하는 혼합현실 기술 개발" 과제가 선정되었습니다.
