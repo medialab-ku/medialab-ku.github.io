@@ -10,7 +10,7 @@ title: People
 
 ### Research Professors
 * SungIk Cho (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com
+* Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 ### Research Associate
 * [Dongwook Ha](http://www.linkedin.com/in/dwookha) (dwookha<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
