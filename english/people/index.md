@@ -22,7 +22,7 @@ title: People
 * Seung-wook Kim (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Ga-Ram Jang (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Min Hyung Kee (free905702<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
