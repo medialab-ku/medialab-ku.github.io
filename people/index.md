@@ -67,11 +67,12 @@ title: People
 
 #### M.S.
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* 손홍정 (hj79337<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 손홍정 (hongjung.son<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김현우 (demiteios<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 정택상 (nanocreation<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 지현호 (jeehyunho<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * [이효일](http://hldec.net/) (onetop21<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [하동욱](http://www.linkedin.com/in/dwookha) (dwookha<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 국종률 (isilme<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * 김경민 (blankwallcat<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김동영 (sadiles<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)

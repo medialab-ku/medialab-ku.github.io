@@ -68,11 +68,12 @@ title: People
 
 #### M.S.
 * InGu Kang (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* HongJung Son (hj79337<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* HongJung Son (hongjung.son<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HyunWoo Kim (demiteios<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Taeksang Jeong (nanocreation<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HyunHo Jee (jeehyunho<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * [Hyoil Lee](http://hldec.net/) (onetop21<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Dongwook Ha](http://www.linkedin.com/in/dwookha) (dwookha<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JongRyul Kook (isilme<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * KyoungMin Kim (blankwallcat<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Dong-young Kim (sadiles<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
