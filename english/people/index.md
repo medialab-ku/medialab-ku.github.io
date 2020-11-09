@@ -80,6 +80,7 @@ title: People
 * YongHyun Jo (zezzeg<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * GwangHyun Park (pkh817<sub><i>at </i></sub>hotmail<sub><i>dot </i></sub>com)
 * KwangHyuk Kim (kwanghyuk.a.kim<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Dongseok Kim (fallendos<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Luhur Pidekso Arif (luhur.pidekso.arif<sub><i>at </i></sub>kominfo<sub><i>dot </i></sub>go<sub><i>dot </i></sub>id)
 * WonBae Yoon (ywbgkz<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Namil Lee (2namil<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
