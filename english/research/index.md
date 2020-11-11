@@ -27,7 +27,7 @@ title: Research
 <br>
 <div class="row">
     <div class="cell">
-        <img class="img" src="/research/images/old/physics/1.jpg" width="280">
+        <img class="img" src="/research/images/old/physics/2.jpg" width="280">
     </div>
     <div class="cell">
         <img class="img" src="/research/images/physics/2.magnet.png" width="280">
