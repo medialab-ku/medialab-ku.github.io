@@ -65,6 +65,7 @@ title: People
 * Seungho Baek (bshsqa<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * [HyeongYeop Kang](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Sang-bin Kim (sang-bin<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* SungIk Cho (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S.
 * InGu Kang (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
