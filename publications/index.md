@@ -8,7 +8,7 @@ title: Publications
 
 * Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-guided Navigation for Floor Layout Inspection," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (published in **The Visual Computer**, Vol. 36, No. 10, October 2020, pp. 2051-2063). [[video]](https://youtu.be/sl9hZiGJhdI) [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
 
-* HyeongYeop Kang and JungHyun Han, "SafeXR: Alerting Walking Persons to Obstacles in Mobile XR Environments," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (published in **The Visual Computer**, Vol. 36, No. 10, October 2020, No. 10, pp. 2065-2077). [[video]](https://youtu.be/jenvwxuiKv8) [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
+* HyeongYeop Kang and JungHyun Han, "SafeXR: Alerting Walking Persons to Obstacles in Mobile XR Environments," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (published in **The Visual Computer**, Vol. 36, No. 10, October 2020, pp. 2065-2077). [[video]](https://youtu.be/jenvwxuiKv8) [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
 
 * P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, "PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments," **IEEE Transactions on Visualization and Computer Graphics** (published online and invited for presentation at **IEEE ISMAR 2020** [[presentation]](https://youtu.be/3xwlG9LMn1s)). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
 
