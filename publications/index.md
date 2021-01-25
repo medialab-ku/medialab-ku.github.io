@@ -6,7 +6,7 @@ title: Publications
 ### 2020
 * Seung-wook Kim and JungHyun Han, "Simulation of Arbitrarily-shaped Magnetic Objects," **Pacific Graphics** (to be published in **Computer Graphics Forum**). [[video]](https://youtu.be/rj2J9VqEuxM)
 
-* Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-guided Navigation for Floor Layout Inspection," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (to be published in **The Visual Computer**, Vol. 36, No. 10, pp. 2051-2063). [[video]](https://youtu.be/sl9hZiGJhdI) [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
+* Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-guided Navigation for Floor Layout Inspection," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (published in **The Visual Computer**, Vol. 36, No. 10, pp. 2051-2063). [[video]](https://youtu.be/sl9hZiGJhdI) [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
 
 * HyeongYeop Kang and JungHyun Han, "SafeXR: Alerting Walking Persons to Obstacles in Mobile XR Environments," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (published in **The Visual Computer**, Vol. 36, No. 10, pp. 2065-2077). [[video]](https://youtu.be/jenvwxuiKv8) [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
 
