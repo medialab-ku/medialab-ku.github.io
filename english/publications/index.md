@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### 2020
-* Seung-wook Kim and JungHyun Han, "Simulation of Arbitrarily-shaped Magnetic Objects," **Pacific Graphics** (to be published in **Computer Graphics Forum**). [[video]](https://youtu.be/rj2J9VqEuxM)
+* Seung-wook Kim and JungHyun Han, "Simulation of Arbitrarily-shaped Magnetic Objects," **Pacific Graphics** (published in **Computer Graphics Forum**, Vol. 39, No. 7, October 2020, pp. 119-130). [[video]](https://youtu.be/rj2J9VqEuxM) [[doi]](https://doi.org/10.1111/cgf.14131)
 
 * Kihyun Yu, JeongHyeon Ahn, Jongmin Lee, Myungho Kim and JungHyun Han, "Collaborative SLAM and AR-guided Navigation for Floor Layout Inspection," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (published in **The Visual Computer**, Vol. 36, No. 10, October 2020, pp. 2051-2063). [[video]](https://youtu.be/sl9hZiGJhdI) [[doi]](https://doi.org/10.1007/s00371-020-01911-8)
 
