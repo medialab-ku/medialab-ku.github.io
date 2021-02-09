@@ -41,7 +41,7 @@ title: People
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 이동현 (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이호진 (speeedm1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 정우석 (www013181<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 정우석 (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
