@@ -65,7 +65,7 @@ title: People
 * 백승호 (bshsqa<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 삼성전자
 * [강형엽](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 경희대학교
 * 김상빈 (sang-bin<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — LINE
-* 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 고려대학교
+* 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 엔씨소프트
 
 #### M.S.
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com) — NHN
