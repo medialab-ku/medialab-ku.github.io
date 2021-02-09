@@ -41,7 +41,7 @@ title: People
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * DongHyun Lee (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * HoJin Lee (speeedm1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* WooSeok Jeong (www013181<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* WooSeok Jeong (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
