@@ -12,6 +12,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2021.02
+* Dr. SungIk Cho starts his career at Motion AI Team of NCSOFT AI Center.
+
 #### 2020.09
 * Dr. Sang-bin Kim starts his career at LINE's AI Team.
 
