@@ -6,14 +6,17 @@ Our research interests lie in the following areas:
 * 3D Reconstruction and VR/AR
 * Physics-based Simulation for Computer Graphics
 
-We are looking for undergraduate interns, graduate students and postdocs.  
+We are looking for undergraduate interns, graduate students, full-time interns/researchers and postdocs.  
 If you're interested, send email to jhan@korea.ac.kr.
 
 <hr>
 
 ## News
+#### 2021.03
+* We are awarded a 4-year grant from the Ministry of Trade, Industry and Energy. The project title is “Digital Twin + AR Visualization.”
+
 #### 2021.02
-* Dr. SungIk Cho starts his career at Motion AI Team of NCSOFT AI Center.
+* Dr. SungIk Cho starts his career at NCSOFT's Motion AI Team.
 
 #### 2020.09
 * Dr. Sang-bin Kim starts his career at LINE's AI Team.
