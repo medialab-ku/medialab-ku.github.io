@@ -10,7 +10,7 @@ title: Publications
 
 * HyeongYeop Kang and JungHyun Han, "SafeXR: Alerting Walking Persons to Obstacles in Mobile XR Environments," **Computer Graphics International (CGI)**, October 20-23, 2020, Geneva, Switzerland (published in **The Visual Computer**, Vol. 36, No. 10, October 2020, pp. 2065-2077). [[video]](https://youtu.be/jenvwxuiKv8) [[doi]](https://doi.org/10.1007/s00371-020-01907-4)
 
-* * P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, “PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments,” **IEEE Transactions on Visualization and Computer Graphics**, Vol. 27, No. 4, April 2021, pp. 2488-2494 (invited for presentation at **IEEE ISMAR 2020** [[presentation]](https://youtu.be/3xwlG9LMn1s)). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
+* P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, “PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments,” **IEEE Transactions on Visualization and Computer Graphics**, Vol. 27, No. 4, April 2021, pp. 2488-2494 (invited for presentation at **IEEE ISMAR 2020** [[presentation]](https://youtu.be/3xwlG9LMn1s)). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
 
 * SangBin Kim, Inbum Park, Seongsu Kwon, and JungHyun Han, "Motion Retargetting based on Dilated Convolutions and Skeleton-specific Loss Functions," 
 **Eurographics**, May 25-29, 2020, Norrköping, Sweden (published in **Computer Graphics Forum**, Vol. 39, No. 2, May 2020, pp. 497-507). [[video]](https://youtu.be/_bunW8Elf0M) [[page]](https://sites.google.com/view/retargetting-tdcn) [[doi]](https://doi.org/10.1111/cgf.13947)
