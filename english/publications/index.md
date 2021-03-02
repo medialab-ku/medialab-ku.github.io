@@ -3,6 +3,9 @@ layout: post
 title: Publications
 ---
 
+### 2021
+* P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, “PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments,” **IEEE Transactions on Visualization and Computer Graphics**, Vol. 27, No. 4, April 2021, pp. 2488-2494 (invited for presentation at **IEEE ISMAR 2020** [[presentation]](https://youtu.be/3xwlG9LMn1s)). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
+
 ### 2020
 * Seung-wook Kim and JungHyun Han, "Simulation of Arbitrarily-shaped Magnetic Objects," **Pacific Graphics** (published in **Computer Graphics Forum**, Vol. 39, No. 7, October 2020, pp. 119-130). [[video]](https://youtu.be/rj2J9VqEuxM) [[doi]](https://doi.org/10.1111/cgf.14131)
 
