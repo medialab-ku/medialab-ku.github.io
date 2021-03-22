@@ -12,7 +12,7 @@ title: People
 * Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Seung-wook Kim (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-### Research Associate
+### Research Associates
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * JaeHyun Lee (leejaeyhun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)

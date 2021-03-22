@@ -12,7 +12,7 @@ title: People
 * 조은찬 (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김승욱 (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-### Research Associate
+### Research Associates
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * 이재현 (leejaeyhun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
