@@ -9,20 +9,21 @@ title: People
 <hr>
 
 ### Research Professors
-* SungIk Cho (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Seung-wook Kim (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associate
-* [Dongwook Ha](http://www.linkedin.com/in/dwookha) (dwookha<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
+* JaeHyun Lee (leejaeyhun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
 ### Students
 #### Ph.D. Students
-* Seung-wook Kim (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Ga-Ram Jang (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Ga-Ram Jang (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -33,15 +34,16 @@ title: People
 * HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* Hyunmo Kang (zzdldl31<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* MinSoo Kim (mskimkim0318<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* WhoJung Kim (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* KwangRok Ryoo (kwangrok21<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Dongmin Kim (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Donghan Kim (donghankim14<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JiSeok Ryu (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * DongHyun Lee (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * HoJin Lee (speeedm1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * WooSeok Jeong (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Mingeun Jo (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 

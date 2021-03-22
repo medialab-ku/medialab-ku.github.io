@@ -9,20 +9,21 @@ title: People
 <hr>
 
 ### Research Professors
-* 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 조은찬 (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김승욱 (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associate
-* [하동욱](http://www.linkedin.com/in/dwookha) (dwookha<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
+* 이재현 (leejaeyhun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
 ### Students
 #### Ph.D. Students
-* 김승욱 (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 장가람 (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 장가람 (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -33,15 +34,16 @@ title: People
 * 김형진 (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* 강현모 (zzdldl31<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 김민수 (mskimkim0318<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 김후정 (wj0415<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 류광록 (kwangrok21<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김동한 (donghankim14<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 류지석 (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 이동현 (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이호진 (speeedm1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 정우석 (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 조민근 (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -74,7 +76,7 @@ title: People
 * 정택상 (nanocreation<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 국가공무원
 * 지현호 (jeehyunho<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 네오플
 * [이효일](http://hldec.net/) (onetop21<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 엔씨소프트
-* [하동욱](http://www.linkedin.com/in/dwookha) (dwookha<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 고려대학교
+* [하동욱](http://www.linkedin.com/in/dwookha) (dwookha<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 펄어비스
 * 국종률 (isilme<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com) — 멜로우밋
 * 김경민 (blankwallcat<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 멜로우밋
 * 김동영 (sadiles<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — LINE

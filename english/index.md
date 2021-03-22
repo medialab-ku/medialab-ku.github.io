@@ -3,7 +3,7 @@ layout: home
 ---
 
 Our research interests lie in the following areas:
-* 3D Reconstruction and VR/AR
+* VR/AR and 3D Reconstruction
 * Physics-based Simulation for Computer Graphics
 
 We are looking for undergraduate interns, graduate students, full-time interns/researchers and postdocs.  
