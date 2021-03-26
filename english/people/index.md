@@ -16,6 +16,7 @@ title: People
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * JaeHyun Lee (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 
 <hr>
 
