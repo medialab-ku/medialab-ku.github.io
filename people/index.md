@@ -95,7 +95,7 @@ title: People
 * Tanh Quang Tran (tqtanh<sub><i>at </i></sub>outlook<sub><i>dot </i></sub>com) — Ph.D. Program, University of Otago (Dunedin, New Zealand)
 * 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자
 * 최진우 (aufheben_1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자
-* Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Barbados
+* Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Manchester (Manchester, UK)
 * 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 티맥스
 * 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 티맥스
 * [이건선](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Maryland (Maryland, USA)
