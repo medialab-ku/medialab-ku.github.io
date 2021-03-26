@@ -16,6 +16,7 @@ title: People
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * 이재현 (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 
 <hr>
 
