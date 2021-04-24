@@ -12,6 +12,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2021.04
+* A paper is conditionally accepted for SIGGRAPH 2021.
+
 #### 2021.03
 * We are awarded a 4-year grant from the Ministry of Trade, Industry and Energy. The project title is “Digital Twin + AR Visualization.”
 
@@ -26,7 +29,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 * A paper accepted for publication in IEEE TVCG is invited for presentation at ISMAR 2020.
 
 #### 2020.07
-* Kihyun Yu starts his career at NAVER LABS AR Team.
+* Kihyun Yu (with M.S.) starts his career at NAVER LABS AR Team.
 * We are awarded a 10-year grant (of annual budget $3M) from the Ministry of Science and ICT. The project title is “Medical Superintelligence based on Digital Twins.”
 
 #### 2020.04
