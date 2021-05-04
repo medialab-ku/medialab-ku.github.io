@@ -89,6 +89,12 @@ title: Books
 				<li><a href="/books/notes/2/chapter 18 (surface tessellation).ppt">Chapter 18 (surface tessellation)</a></li>
 			</ul>
             <br>
+			<h3>Solutions</h3>
+			<br>
+			<ul>
+				<li><a href="/books/solutions.pdf">Solutions</a></li>
+			</ul>
+			<br>
 			<hr>
 			<h2>3D Graphics for Game Programming</h2>
             <br>
