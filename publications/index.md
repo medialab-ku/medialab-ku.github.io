@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### 2021
-* Min Hyung Kee, Kiwon Um, WooSeok Jung and JungHyun Han, "Constrained Projective Dynamics: Real-Time Simulation of Deformable Objects with Energy-Momentum Conservation," **SIGGRAPH**, August 9-13, 2021, virtual (to be published in **ACM Transactions on Graphics**, Vol. 40, No. 4, August 2021).
+* Min Hyung Kee, Kiwon Um, WooSeok Jung and JungHyun Han, "Constrained Projective Dynamics: Real-Time Simulation of Deformable Objects with Energy-Momentum Conservation," **SIGGRAPH**, August 9-13, 2021 (to be published in **ACM Transactions on Graphics**, Vol. 40, No. 4, August 2021).
 
 * P. Christopher Gloumeau, Wolfgang Stuerzlinger, and JungHyun Han, “PinNPivot: Object Manipulation using Pins in Immersive Virtual Environments,” **IEEE Transactions on Visualization and Computer Graphics**, Vol. 27, No. 4, April 2021, pp. 2488-2494 (invited for presentation at **IEEE ISMAR 2020** [[presentation]](https://youtu.be/3xwlG9LMn1s)). [[video]](https://youtu.be/MmrHOnr-IJo) [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2020.2987834)
 
