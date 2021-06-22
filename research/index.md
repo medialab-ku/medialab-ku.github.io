@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-### 3차원 재구성 및 가상/증강 현실 (3D Reconstruction and VR/AR)
+### 가상/증강 현실 및 3차원 재구성 (VR/AR and 3D Reconstruction)
 <br>
 <div class="row">
     <div class="cell">

@@ -3,7 +3,7 @@ layout: post
 title: Research
 ---
 
-### 3D Reconstruction and VR/AR
+### VR/AR and 3D Reconstruction
 <br>
 <div class="row">
     <div class="cell">
