@@ -14,8 +14,6 @@ title: People
 
 ### Research Associates
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* JaeHyun Lee (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 
 <hr>
@@ -25,6 +23,7 @@ title: People
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Ga-Ram Jang (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
+* Myoung Gon Kim (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 #### M.S. Students
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -33,6 +32,8 @@ title: People
 * JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jaehyung Doh (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* JaeHyun Lee (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
@@ -41,7 +42,6 @@ title: People
 * JiSeok Ryu (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * DongHyun Lee (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* HoJin Lee (speeedm1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * WooSeok Jeong (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Mingeun Jo (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

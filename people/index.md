@@ -14,8 +14,6 @@ title: People
 
 ### Research Associates
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* 이재현 (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 
 <hr>
@@ -25,6 +23,7 @@ title: People
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 장가람 (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
+* 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 #### M.S. Students
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -33,6 +32,8 @@ title: People
 * 유재황 (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 도재형 (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김형진 (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 이재현 (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
@@ -41,7 +42,6 @@ title: People
 * 류지석 (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 이동현 (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 이호진 (speeedm1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 정우석 (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 조민근 (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -93,7 +93,7 @@ title: People
 * 이신재 (rubric4b<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 삼성전자
 * 한구현 (linkzelda<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 엔씨소프트
 * Tanh Quang Tran (tqtanh<sub><i>at </i></sub>outlook<sub><i>dot </i></sub>com) — Ph.D. Program, University of Otago (Dunedin, New Zealand)
-* 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자
+* 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자 and then back to 미디어 연구실
 * 최진우 (aufheben_1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자
 * Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Manchester (Manchester, UK)
 * 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 티맥스
