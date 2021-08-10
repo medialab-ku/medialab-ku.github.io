@@ -30,7 +30,7 @@ title: People
 * JaeKwang Lee (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Jaehyung Doh (knuppe22<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeHyun Lee (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
