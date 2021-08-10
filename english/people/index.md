@@ -98,5 +98,5 @@ title: People
 * Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [Geonsun Lee](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Geonsun Lee](http://www.cs.umd.edu/~gsunlee/) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * [Kihyun Yu](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

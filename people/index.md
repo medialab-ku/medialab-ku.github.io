@@ -98,5 +98,5 @@ title: People
 * Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Manchester (Manchester, UK)
 * 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 티맥스
 * 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 티맥스
-* [이건선](http://gsunlee.net) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Maryland (Maryland, USA)
+* [이건선](http://www.cs.umd.edu/~gsunlee/) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Maryland (Maryland, USA)
 * [유기현](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 네이버랩스
