@@ -12,6 +12,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2021.08
+* Jongmin Lee and JunYeup Cho (both with M.S.) start their careers at Nexon and Krafton respectively.
+
 #### 2021.04
 * A paper is conditionally accepted for SIGGRAPH 2021.
 

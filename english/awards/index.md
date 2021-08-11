@@ -3,6 +3,18 @@ layout: post
 title: Awards
 ---
 
+### 2021 First Semester Capstone Design & Research Contest (2021.06.23)
+<br>
+<img src="/awards/20210623.jpg" width="320">
+* Donghan Kim
+  * SW part excellence prize
+* Jaemin Son
+  * Paper part excellence prize
+* JiSeok Ryu
+  * Paper part encouragement prize
+
+<br>
+
 ### 2018 Korean Software Congress (2018.12.19)
 <br>
 <img src="/awards/20181219.jpg" width="320">
