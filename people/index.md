@@ -29,7 +29,6 @@ title: People
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이재광 (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 유재황 (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 김형진 (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이재현 (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -45,6 +44,10 @@ title: People
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 정우석 (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 조민근 (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 박가림 (oogmlakdoo<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 유지형 (yoottt77<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 정영훈 (ds030337<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 

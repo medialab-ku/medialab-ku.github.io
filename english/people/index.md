@@ -29,7 +29,6 @@ title: People
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeKwang Lee (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* JaeHwang Yeu (yjh4645<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeHyun Lee (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -45,6 +44,9 @@ title: People
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * WooSeok Jeong (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Mingeun Jo (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Garim Park (oogmlakdoo<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Yoo Jihyeong (yoottt77<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Jung-ho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
