@@ -20,7 +20,7 @@ B.Sc. Computer Engineering, Seoul National University, 1988
 
 ---
 ## Positions Held
-2020 ~ present: Director, Superintelligence Research Center (supported by Ministry of Science and ICT), Korea University  
+2020 ~ present: Director, Superintelligence Research Center (supported by Korea Ministry of Science and ICT), Korea University  
 2008 ~ present: Director, VR/AR Research Institute (formerly, Game Research Center), Korea University  
 2004 ~ present: Associate and Full Professors, Korea University  
 2007 ~ 2009: Project Manager in Digital Content, Korea Ministry of Information and Communication  
