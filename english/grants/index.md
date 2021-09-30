@@ -5,7 +5,7 @@ title: Grants
 
 ### On-going
 * **Digital Twin-based Air Conditioner Installation and Airflow Simulation in AR** (LG Electronics, 2021.05.01-2022.04.30)
-* **Digital Twin + AR Visualization** (KIAT, 2021.03.01-2025.02.28)
+* **Digital Twin + AR Visualization** ([KEA](http://www.xrpro.or.kr/), 2021.03.01-2025.02.28)
 * **Digital Twin-based Medical Superintelligence** (IITP [ICT Creative Consilience Program](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Researching Core Technologies and Fostering Talents for Simulated Reality Content** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)
 * **Two-way Interaction between Real Environments and Virtual Objects** (IITP [SW Star Lab](http://swstarlab.kr/page/page02_02.php?c=lab36), 2020.04.01-2027.12.31)
