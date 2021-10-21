@@ -11,11 +11,11 @@ title: Research
     </div> -->
     <div class="cell">
         <!-- <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280"> -->
-        <iframe class="img" width="560" height="315" src="https://www.youtube.com/embed/hbuuXuwsmlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/hbuuXuwsmlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="cell">
         <!-- <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280"> -->
-        <iframe class="img" width="560" height="315" src="https://www.youtube.com/embed/3Am4Rf2KD-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/3Am4Rf2KD-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
