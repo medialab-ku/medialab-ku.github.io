@@ -11,11 +11,11 @@ title: Research
     </div> -->
     <div class="cell">
         <!-- <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280"> -->
-        <iframe width="400" src="https://www.youtube.com/embed/hbuuXuwsmlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="400" height="200" src="https://www.youtube.com/embed/hbuuXuwsmlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="cell">
         <!-- <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280"> -->
-        <iframe width="400" src="https://www.youtube.com/embed/3Am4Rf2KD-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="400" height="200" src="https://www.youtube.com/embed/3Am4Rf2KD-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -36,18 +36,18 @@ title: Research
 <div class="row">
     <div class="cell">
         <!-- <img class="img" src="/research/images/old/physics/2.jpg" width="280"> -->
-        <iframe width="280" src="https://www.youtube.com/embed/jxtL2S10FLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="280" height="140" src="https://www.youtube.com/embed/jxtL2S10FLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="cell">
         <!-- <img class="img" src="/research/images/physics/2.magnet.png" width="280"> -->
-        <iframe width="280" src="https://www.youtube.com/embed/rj2J9VqEuxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="280" height="140" src="https://www.youtube.com/embed/rj2J9VqEuxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <!-- <div class="cell">
         <img class="img" src="/research/images/physics/3.deeplearning.png" width="280">
     </div> -->
     <div class="cell">
         <!-- <img class="img" src="/research/images/physics/4.experiment.jpg" width="280"> -->
-        <iframe width="280" src="https://www.youtube.com/embed/4ML1CGrMKQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="280" height="140" src="https://www.youtube.com/embed/4ML1CGrMKQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
