@@ -6,16 +6,14 @@ title: Research
 ### 가상/증강 현실 및 3차원 재구성 (XR and 3D Reconstruction)
 <br>
 <div class="row">
-    <!-- <div class="cell">
-        <img class="img" src="/research/images/ar/1.performancecapture.jpg" width="280">
-    </div> -->
     <div class="cell">
-        <!-- <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280"> -->
-        <iframe width="400" height="200" src="https://www.youtube.com/embed/hbuuXuwsmlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <img class="img" src="/research/images/ar/1.performancecapture.jpg" width="280">
     </div>
     <div class="cell">
-        <!-- <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280"> -->
-        <iframe width="400" height="200" src="https://www.youtube.com/embed/3Am4Rf2KD-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280">
     </div>
 </div>
 
@@ -35,19 +33,16 @@ title: Research
 <br>
 <div class="row">
     <div class="cell">
-        <!-- <img class="img" src="/research/images/old/physics/2.jpg" width="280"> -->
-        <iframe width="280" height="140" src="https://www.youtube.com/embed/jxtL2S10FLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <img class="img" src="/research/images/old/physics/2.jpg" width="280">
     </div>
     <div class="cell">
-        <!-- <img class="img" src="/research/images/physics/2.magnet.png" width="280"> -->
-        <iframe width="280" height="140" src="https://www.youtube.com/embed/rj2J9VqEuxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <img class="img" src="/research/images/physics/2.magnet.png" width="280">
     </div>
-    <!-- <div class="cell">
+    <div class="cell">
         <img class="img" src="/research/images/physics/3.deeplearning.png" width="280">
-    </div> -->
+    </div>
     <div class="cell">
-        <!-- <img class="img" src="/research/images/physics/4.experiment.jpg" width="280"> -->
-        <iframe width="280" height="140" src="https://www.youtube.com/embed/4ML1CGrMKQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <img class="img" src="/research/images/physics/4.experiment.jpg" width="280">
     </div>
 </div>
 
