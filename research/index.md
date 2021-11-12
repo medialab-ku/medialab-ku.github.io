@@ -13,7 +13,7 @@ title: Research
         <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280">
     </div>
     <div class="cell">
-        <img class="img" src="/research/images/ar/3.jpg" width="280">
+        <img class="img" src="/research/images/old/vr/3.jpg" width="280">
     </div>
 </div>
 
