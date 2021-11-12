@@ -32,9 +32,9 @@ title: Research
     <div class="cell">
         <img class="img" src="/research/images/physics/2.magnet.png" width="280">
     </div>
-    <div class="cell">
+    <!-- <div class="cell">
         <img class="img" src="/research/images/physics/3.deeplearning.png" width="280">
-    </div>
+    </div> -->
     <div class="cell">
         <img class="img" src="/research/images/physics/4.experiment.jpg" width="280">
     </div>
