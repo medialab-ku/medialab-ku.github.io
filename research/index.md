@@ -7,7 +7,7 @@ title: Research
 <br>
 <div class="row">
     <div class="cell">
-        <img class="img" src="/research/images/ar/1.performancecapture.jpg" width="280">
+        <img class="img" src="/research/images/ar/1.performancecapture_new.png" width="280">
     </div>
     <div class="cell">
         <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280">
