@@ -97,6 +97,7 @@ title: People
 * Myoung Gon Kim (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jinwoo Choi (aufheben_1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Seungbin Park (seungbin201803<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * [Geonsun Lee](http://www.cs.umd.edu/~gsunlee/) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
