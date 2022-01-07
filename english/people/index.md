@@ -23,7 +23,7 @@ title: People
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Myoung Gon Kim (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* Eungjune Shim
+* Eungjune Shim (ejshim<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 
 #### M.S. Students
 * Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -38,7 +38,7 @@ title: People
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * WooSeok Jeong (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jung-ho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Junseong Ahn
+* Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 
 #### Undergraduate Interns
 * Mingeun Jo (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

@@ -23,7 +23,7 @@ title: People
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 심응준 
+* 심응준 (ejshim<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 
 #### M.S. Students
 * 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -38,7 +38,7 @@ title: People
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 정우석 (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 안준성
+* 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 
 #### Undergraduate Interns
 * 조민근 (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
