@@ -14,7 +14,7 @@ title: People
 
 ### Research Associates
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
+* 김동한 (donghankim14<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -22,30 +22,28 @@ title: People
 #### Ph.D. Students
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 장가람 (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 심응준 
 
 #### M.S. Students
-* 이재광 (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 김형진 (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이재현 (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-
-#### Undergraduate Interns
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 김동한 (donghankim14<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 류지석 (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 이동현 (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 정우석 (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 조민근 (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 박가림 (oogmlakdoo<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 유지형 (yoottt77<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 정영훈 (ds030337<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 안준성
+
+#### Undergraduate Interns
+* 조민근 (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 정영훈 (ds030337<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+
 
 <hr>
 
@@ -56,6 +54,7 @@ title: People
 
 #### Research Associate
 * 이중기 (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 
 <hr>
 
@@ -104,3 +103,4 @@ title: People
 * [유기현](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 네이버랩스
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
+* 이재광 (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)

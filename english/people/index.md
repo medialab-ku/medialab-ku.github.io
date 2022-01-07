@@ -14,7 +14,7 @@ title: People
 
 ### Research Associates
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
+* Donghan Kim (donghankim14<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -22,30 +22,28 @@ title: People
 #### Ph.D. Students
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Ga-Ram Jang (river.j<sub><i>at </i></sub>kitech<sub><i>dot </i></sub>re<sub><i>dot </i></sub>kr)
 * Myoung Gon Kim (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Eungjune Shim
 
 #### M.S. Students
-* JaeKwang Lee (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * HyungJin Kim (jin2good<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JaeHyun Lee (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-
-#### Undergraduate Interns
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Dongmin Kim (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Donghan Kim (donghankim14<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JiSeok Ryu (roadmageb<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * DongHyun Lee (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * WooSeok Jeong (www0131<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Mingeun Jo (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Garim Park (oogmlakdoo<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Yoo Jihyeong (yoottt77<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Yeong-Hoon Jeong (ds030337<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jung-ho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Junseong Ahn
+
+#### Undergraduate Interns
+* Mingeun Jo (joming1418<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Yeong-Hoon Jeong (ds030337<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+
 
 <hr>
 
@@ -56,6 +54,7 @@ title: People
 
 #### Research Associate
 * Jeoung-Kee Lee (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 
 <hr>
 
@@ -104,3 +103,4 @@ title: People
 * [Kihyun Yu](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* JaeKwang Lee (seori7835<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
