@@ -22,7 +22,7 @@ title: People
 #### Ph.D. Students
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Myoung Gon Kim (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Myoung Gon Kim (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Eungjune Shim (ejshim<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 
 #### M.S. Students
