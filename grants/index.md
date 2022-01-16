@@ -3,7 +3,7 @@ layout: post
 title: Grants
 ---
 
-### On-going
+### Current
 * **실시간 시공 점검을 위한 AR 요소 기술 개발** (㈜이안 산학과제, 2021.09.01 ~ 2022.08.31)
 * **디지털 트윈 기반 시스템 에어컨 설치 및 기류 표현 증강현실 기술 개발** (LG전자 산학과제, 2021.05.01-2022.04.30)
 * **디지털 트윈 + AR 가시화** (KEA [가상증강현실 전문인력양성사업](http://www.xrpro.or.kr/), 2021.03.01-2025.02.28)
@@ -12,7 +12,7 @@ title: Grants
 * **실제 환경과 가상 물체 간 양방향 상호작용을 지원하는 혼합현실 기술 개발** (IITP [SW스타랩](http://swstarlab.kr/page/page02_02.php?c=lab36), 2020.04.01-2027.12.31)
 * **차세대 물리 시뮬레이션 = 파티클 기반 통합 시뮬레이션 + 딥러닝** (삼성전자 [미래기술육성센터 지원사업](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=240&pageIndex=6&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=), 2019.12.01-2022.11.30)
 
-### Done
+### Past
 * **스마트 팩토리 3D 설비 배치 및 인식을 위한 AR SW 개발** (㈜이안 산학과제, 2018.05.01-2019.01.31)
 * **LF용 GLSL 프레임웍 개발** (KETI 위탁과제, 2017.09.08-2017.11.30)
 * **초실감 원격가상 인터랙션을 위한 사용자 복원 기술 개발** (한국연구재단 차세대정보컴퓨팅기술개발사업, 2017.09.01-2020.12.31)
