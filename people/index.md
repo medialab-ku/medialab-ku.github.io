@@ -52,7 +52,7 @@ title: People
 * 박지영 (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 진종욱 (jwjin92<sub><i>at </i></sub>kaist<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-#### Research Associate
+#### Research Associates
 * 이중기 (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 
