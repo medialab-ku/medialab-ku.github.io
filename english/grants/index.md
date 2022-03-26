@@ -13,6 +13,7 @@ title: Grants
 * **Next-gen Physics Simulation = Particle-based Universal Simulation + Deep Learning** ([Samsung Science & Technology Foundation](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=240&pageIndex=6&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=), 2019.12.01-2022.11.30)
 
 ### Past
+* **AI Characters Animation in Games** (Pearl Abyss Co., 2021.03.01 ~ 2022.02.28)
 * **AR-based Layout Inspection for Smart Factory** (Iaan Co., 2018.05.01-2019.01.31)
 * **GLSL Framework for LF** (KETI, 2017.09.08-2017.11.30)
 * **Telepresent Interaction** (NRF, 2017.09.01-2020.12.31)

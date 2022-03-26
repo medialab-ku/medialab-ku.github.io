@@ -13,6 +13,7 @@ title: Grants
 * **차세대 물리 시뮬레이션 = 파티클 기반 통합 시뮬레이션 + 딥러닝** (삼성전자 [미래기술육성센터 지원사업](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=240&pageIndex=6&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=), 2019.12.01-2022.11.30)
 
 ### Past
+* **게임 인공지능 캐릭터 애니메이션 기술 및 콘텐츠 개발** (㈜펄어비스 산학과제, 2021.03.01 ~ 2022.02.28)
 * **스마트 팩토리 3D 설비 배치 및 인식을 위한 AR SW 개발** (㈜이안 산학과제, 2018.05.01-2019.01.31)
 * **LF용 GLSL 프레임웍 개발** (KETI 위탁과제, 2017.09.08-2017.11.30)
 * **초실감 원격가상 인터랙션을 위한 사용자 복원 기술 개발** (한국연구재단 차세대정보컴퓨팅기술개발사업, 2017.09.01-2020.12.31)
