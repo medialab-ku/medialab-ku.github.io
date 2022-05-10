@@ -3,6 +3,9 @@ layout: post
 title: Publications
 ---
 
+### 2022
+* Seung-wook Kim, Jaehyung Doh, and JungHyun Han, “Modeling and Rendering Non-Euclidean Spaces approximated with Concatenated Polytopes,” **SIGGRAPH**, August 8-11, 2022 (to be published in **ACM Transactions on Graphics**, Vol. 41, No. 4, August 2022). [[video]](https://youtu.be/UyhbLDr-B04)
+
 ### 2021
 * Min Hyung Kee, Kiwon Um, WooSeok Jeong and JungHyun Han, "Constrained Projective Dynamics: Real-Time Simulation of Deformable Objects with Energy-Momentum Conservation," **SIGGRAPH**, August 9-13, 2021 (published in **ACM Transactions on Graphics**, Vol. 40, No. 4, August 2021). [[teaser]](https://youtu.be/w7D7Alklb4Q) [[video]](https://youtu.be/WLLNjNcQA80) [[doi]](https://doi.org/10.1145/3450626.3459878)
 
