@@ -10,7 +10,7 @@ title: People
 
 ### Research Professors
 * Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Seung-wook Kim (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associates
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)

@@ -10,7 +10,7 @@ title: People
 
 ### Research Professors
 * 조은찬 (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 김승욱 (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associates
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
