@@ -63,7 +63,7 @@ title: People
 * Kien Trung Nguyen (kienmophong<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Military Technology Academy (Hanoi, Vietnam)
 * [장한용](/people/hanyoung) (jhymail<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 엔씨소프트
 * 신현주 (juliedp<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자
-* [엄기원](/people/kiwon) (um.kiwon<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Telecom Paris 대학교 (Paris, France)
+* [엄기원](https://perso.telecom-paristech.fr/kum/) (um.kiwon<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Telecom Paris 대학교 (Paris, France)
 * 김영범 (talesoff<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 한국전자기술연구원
 * 백승호 (bshsqa<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 삼성전자
 * [강형엽](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 경희대학교

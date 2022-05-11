@@ -63,7 +63,7 @@ title: People
 * Kien Trung Nguyen (kienmophong<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * [Hanyoung Jang](/people/hanyoung) (jhymail<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Hyun Ju Shin (juliedp<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* [Kiwon Um](/people/kiwon) (um.kiwon<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Kiwon Um](https://perso.telecom-paristech.fr/kum/) (um.kiwon<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * YoungBeom Kim (talesoff<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Seungho Baek (bshsqa<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * [HyeongYeop Kang](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
