@@ -4,7 +4,7 @@ title: Grants
 ---
 
 ### Current
-* **Human Motion Capture from RGB Images and its Retargeting to Virtual Characters** (Haegin Co., 2022.05.01 ~ 2023.04.30)
+* **Real-time Human Motion Capture from RGB Images and Retargeting to Virtual Characters** (Haegin Co., 2022.05.01 ~ 2023.04.30)
 * **AR for Real-time Progress Check in Construction Industry** (Iaan Co., 2021.09.01 ~ 2022.08.31)
 * **Digital Twin-based Air Conditioner Installation and Airflow Simulation in AR** (LG Electronics, 2021.05.01-2023.04.30)
 * **Digital Twin + AR Visualization** ([KEA](http://www.xrpro.or.kr/), 2021.03.01-2025.02.28)
