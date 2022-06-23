@@ -6,25 +6,25 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
-				<caption><b>전역식 행사</b>: 고려대학교 우정정보관 (2022.04.24)</caption>
+				<caption><b>전역식 행사</b>: 우정정보관, 고려대학교 (2022.04.24)</caption>
 				<tbody><tr>
-					<td class="three"><a href="/photos/pictures/2022-Military-discharge/1.jpg"><img class="photo" src="/photos/pictures/2022-Military-discharge/1.jpg" alt="2021-kcc"></a></td>
-					<td class="three"><a href="/photos/pictures/2022-Military-discharge/2.jpg"><img class="photo" src="/photos/pictures/2022-Military-discharge/2.jpg" alt="2021-kcc"></a></td>
-					<td class="three"><a href="/photos/pictures/2022-Military-discharge/3.jpg"><img class="photo" src="/photos/pictures/2022-Military-discharge/3.jpg" alt="2021-kcc"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-Military-discharge/1.jpg"><img class="photo" src="/photos/pictures/2022-Military-discharge/1.jpg" alt="2022-Military-discharge"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-Military-discharge/2.jpg"><img class="photo" src="/photos/pictures/2022-Military-discharge/2.jpg" alt="2022-Military-discharge"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-Military-discharge/3.jpg"><img class="photo" src="/photos/pictures/2022-Military-discharge/3.jpg" alt="2022-Military-discharge"></a></td>
 				</tr>
 			</tbody></table>
 
 			<table class="each">
-				<caption><b>눈토끼 만들기</b>: 고려대학교 우정정보관 앞 (2022.1.19)</caption>
+				<caption><b>눈토끼 만들기</b>: 우정정보관 앞, 고려대학교 (2022.1.19)</caption>
 				<tbody><tr>
-					<td class="three"><a href="/photos/pictures/2022-Snowman/1.jpg"><img class="photo" src="/photos/pictures/2022-Snowman/1.jpg" alt="2021-kcc"></a></td>
-					<td class="three"><a href="/photos/pictures/2022-Snowman/2.jpg"><img class="photo" src="/photos/pictures/2022-Snowman/2.jpg" alt="2021-kcc"></a></td>
-					<td class="three"><a href="/photos/pictures/2022-Snowman/3.jpg"><img class="photo" src="/photos/pictures/2022-Snowman/3.jpg" alt="2021-kcc"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-Snowman/1.jpg"><img class="photo" src="/photos/pictures/2022-Snowman/1.jpg" alt="2022-Snowman"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-Snowman/2.jpg"><img class="photo" src="/photos/pictures/2022-Snowman/2.jpg" alt="2022-Snowman"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-Snowman/3.jpg"><img class="photo" src="/photos/pictures/2022-Snowman/3.jpg" alt="2022-Snowman"></a></td>
 				</tr>
 			</tbody></table>
 
 			<table class="each">
-				<caption><b>KCC 2021</b>: ICC 제주 (2021.6.23 ~ 2021.6.25)</caption>
+				<caption><b>KCC 2021</b>: ICC 제주, 제주도 (2021.6.23 ~ 2021.6.25)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2021-kcc/1.jpg"><img class="photo" src="/photos/pictures/2021-kcc/1.jpg" alt="2021-kcc"></a></td>
 					<td class="three"><a href="/photos/pictures/2021-kcc/2.jpg"><img class="photo" src="/photos/pictures/2021-kcc/2.jpg" alt="2021-kcc"></a></td>
