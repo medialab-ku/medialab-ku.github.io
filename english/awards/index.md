@@ -3,6 +3,28 @@ layout: post
 title: Awards
 ---
 
+### 2021 Professional Manpower Training for VR·AR Research Contest (2022.02.28)
+<br>
+<img src="/awards/20220228.png" width="320">
+* Donghan Kim, JaeHyun Lee, WooSeok Jeong, Eunchan Jo, JooHwan Chae
+  * Best Research Award
+* Dongmin Kim, HyungJin Kim, JeongHyeon Ahn, Jung-ho Ha
+  * Outstanding Research Award
+
+<br>
+
+### 2021 First Semester Capstone Design & Research Contest (2021.06.23)
+<br>
+<img src="/awards/20210623.jpg" width="320">
+* Donghan Kim
+  * SW part excellence prize
+* Jaemin Son
+  * Paper part excellence prize
+* JiSeok Ryu
+  * Paper part encouragement prize
+
+<br>
+
 ### 2021 First Semester Capstone Design & Research Contest (2021.06.23)
 <br>
 <img src="/awards/20210623.jpg" width="320">
