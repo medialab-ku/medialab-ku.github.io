@@ -87,6 +87,7 @@ title: Books
 				<li><a href="/books/notes/2/chapter 16 (texturing toward GI).ppt">Chapter 16 (texturing toward GI)</a></li>
 				<li><a href="/books/notes/2/chapter 17 (curves and surfaces).ppt">Chapter 17 (curves and surfaces)</a></li>
 				<li><a href="/books/notes/2/chapter 18 (surface tessellation).ppt">Chapter 18 (surface tessellation)</a></li>
+				<li><a href="/books/notes/2/errata.jpg">Errata (2022-06-23)</a></li>
 			</ul>
             <br>
 			<h3>Solutions</h3>
