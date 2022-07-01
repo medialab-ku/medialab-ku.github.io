@@ -20,6 +20,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 #### 2021.04
 * A paper is conditionally accepted for SIGGRAPH 2021.
+* JaeHyun Lee is selected as a recipient of Lee Jong-hwan Foundation Scholarship.
 
 #### 2021.03
 * We are awarded a 4-year grant from the Ministry of Trade, Industry and Energy. The project title is “Digital Twin + AR Visualization.”
