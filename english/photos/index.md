@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>스승의 날 2022</b>: 무르무르, 안암 (2022.06.24)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2022-tday/1.jpg"><img class="photo" src="/photos/thumbnails/2022-tday/1.jpg" alt="2022-tday"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-tday/2.jpg"><img class="photo" src="/photos/thumbnails/2022-tday/2.jpg" alt="2022-tday"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-tday/3.jpg"><img class="photo" src="/photos/thumbnails/2022-tday/3.jpg" alt="2022-tday"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>전역식 행사</b>: 우정정보관, 고려대학교 (2022.04.24)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2022-Military-discharge/1.jpg"><img class="photo" src="/photos/thumbnails/2022-Military-discharge/1.jpg" alt="2022-Military-discharge"></a></td>
