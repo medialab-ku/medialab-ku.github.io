@@ -51,7 +51,7 @@ title: People
 #### Research Associates
 * Jeoung-Kee Lee (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
-* Donghan Kim (donghankim14<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Donghan Kim](https://www.linkedin.com/in/dhkim14/) (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
 
 <hr>
 
