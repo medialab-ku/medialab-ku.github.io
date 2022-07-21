@@ -3,6 +3,24 @@ layout: post
 title: People
 ---
 
+<!--
+Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
+김승욱
+안정현
+기민형
+김명곤
+도재형
+이재현
+채주환
+이동현
+정승원
+강현모
+김동민
+류지석
+손재민
+하정호
+-->
+
 ### Professor
 * [한정현](/people/jhan) (jhan<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
