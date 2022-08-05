@@ -3,6 +3,21 @@ layout: post
 title: Awards
 ---
 
+### Lee Jong-hwan Foundation Scholarship certificate ceremony (2022.07.21)
+<br>
+<div class="row">
+    <div class="cell">
+        <img src="/awards/20220721_1.jpg" width="320">
+    </div>
+    <div class="cell">
+        <img src="/awards/20220721_2.jpg" width="320">
+    </div>
+</div>
+* JaeHyun Lee
+  * The selection of domestic scholorship students
+
+<br>
+
 ### 2021 Professional Manpower Training for VR·AR Research Contest (2022.02.28)
 <br>
 <img src="/awards/20220228.png" width="320">
