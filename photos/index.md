@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>SIGGRAPH 2022</b>: Vancouver, Canada (2022.08.08 ~ 2022.08.11)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2022-siggraph/1.jpg"><img class="photo" src="/photos/thumbnails/2022-siggraph/1.jpg" alt="2022-siggraph"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-siggraph/2.jpg"><img class="photo" src="/photos/thumbnails/2022-siggraph/2.jpg" alt="2022-siggraph"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-siggraph/3.jpg"><img class="photo" src="/photos/thumbnails/2022-siggraph/3.jpg" alt="2022-siggraph"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>KCGS 2022</b>: 델피노 리조트, 속초 (2022.07.13 ~ 2022.07.15)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2022-KCGS/1.jpg"><img class="photo" src="/photos/thumbnails/2022-KCGS/1.jpg" alt="2022-KCGS"></a></td>
