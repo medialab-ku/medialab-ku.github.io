@@ -11,7 +11,6 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 김명곤
 이재현
 채주환
-이동현
 정승원
 강현모
 김동민
@@ -39,24 +38,22 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 * 김명곤 (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
-* 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * [이재현](https://lee-jae-hyun179.github.io/about/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 이동현 (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 정희조 (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이동균 (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이서준 (nytemute<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이신유 (syee19<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 정희조 (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -118,3 +115,4 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 * [유기현](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 네이버랩스
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
+* 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)

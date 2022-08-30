@@ -23,24 +23,22 @@ title: People
 * Myoung Gon Kim (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
-* Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * [JaeHyun Lee](https://lee-jae-hyun179.github.io/about/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Dongmin Kim (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* DongHyun Lee (sos0911<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jung-ho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Heejo Jeong (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Donggyun Lee (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Seojun Lee (nytemute<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Sinyoo Lee (syee19<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Heejo Jeong (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -102,3 +100,4 @@ title: People
 * [Kihyun Yu](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
