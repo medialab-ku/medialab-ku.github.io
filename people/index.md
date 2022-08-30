@@ -28,6 +28,7 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 
 ### Research Associates
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
+* 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
@@ -115,4 +116,3 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 * [유기현](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 네이버랩스
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
-* 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
