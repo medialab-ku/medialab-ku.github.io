@@ -33,10 +33,14 @@ title: People
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jung-ho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
+* Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
-<!--
 #### Undergraduate Interns
--->
+* HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Heejo Jeong (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Donggyun Lee (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Seojun Lee (nytemute<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Sinyoo Lee (syee19<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 

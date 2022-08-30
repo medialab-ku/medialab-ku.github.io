@@ -3,6 +3,10 @@ layout: post
 title: Photos
 ---
 
+<!--
+Thumbnail photo size: 400x280
+-->
+
 <div id="contents">
 
 			<table class="each">

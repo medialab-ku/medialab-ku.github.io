@@ -49,10 +49,14 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
+* Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
-<!--
 #### Undergraduate Interns
--->
+* 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 정희조 (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 이동균 (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 이서준 (nytemute<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 이신유 (syee19<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
