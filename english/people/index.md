@@ -24,7 +24,7 @@ title: People
 * Myoung Gon Kim (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
-* [JaeHyun Lee](https://lee-jae-hyun179.github.io/about/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [JaeHyun Lee](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Dongmin Kim (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

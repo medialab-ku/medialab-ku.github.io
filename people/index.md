@@ -39,7 +39,7 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 * 김명곤 (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
-* [이재현](https://lee-jae-hyun179.github.io/about/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [이재현](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
