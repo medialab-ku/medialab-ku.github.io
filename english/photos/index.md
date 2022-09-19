@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>졸업생 모임</b>: 그안에맛있는이탈리안, 도곡동 (2022.09.16)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2022-alumni-meeting/1.jpg"><img class="photo" src="/photos/thumbnails/2022-alumni-meeting/1.jpg" alt="2022-alumni-meeting"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-alumni-meeting/2.jpg"><img class="photo" src="/photos/thumbnails/2022-alumni-meeting/2.jpg" alt="2022-alumni-meeting"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-alumni-meeting/3.jpg"><img class="photo" src="/photos/thumbnails/2022-alumni-meeting/3.jpg" alt="2022-alumni-meeting"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>SIGGRAPH 2022</b>: Vancouver, Canada (2022.08.08 ~ 2022.08.11)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2022-siggraph/1.jpg"><img class="photo" src="/photos/thumbnails/2022-siggraph/1.jpg" alt="2022-siggraph"></a></td>
