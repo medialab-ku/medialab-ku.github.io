@@ -10,11 +10,20 @@ Thumbnail photo size: 400x280
 <div id="contents">
 
 			<table class="each">
-				<caption><b>졸업생 모임</b>: 그안에맛있는이탈리안, 도곡동 (2022.09.16)</caption>
+				<caption><b>졸업생 모임</b>: 그안에맛있는이탈리안, 도곡 (2022.09.16)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2022-alumni-meeting/1.jpg"><img class="photo" src="/photos/thumbnails/2022-alumni-meeting/1.jpg" alt="2022-alumni-meeting"></a></td>
 					<td class="three"><a href="/photos/pictures/2022-alumni-meeting/2.jpg"><img class="photo" src="/photos/thumbnails/2022-alumni-meeting/2.jpg" alt="2022-alumni-meeting"></a></td>
 					<td class="three"><a href="/photos/pictures/2022-alumni-meeting/3.jpg"><img class="photo" src="/photos/thumbnails/2022-alumni-meeting/3.jpg" alt="2022-alumni-meeting"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
+				<caption><b>생일 축하 모임</b>: 큰대문집, 종암 (2022.09.02)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2022-bday/1.jpg"><img class="photo" src="/photos/thumbnails/2022-bday/1.jpg" alt="2022-bday"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-bday/2.jpg"><img class="photo" src="/photos/thumbnails/2022-bday/2.jpg" alt="2022-bday"></a></td>
+					<td class="three"><a href="/photos/pictures/2022-bday/3.jpg"><img class="photo" src="/photos/thumbnails/2022-bday/3.jpg" alt="2022-bday"></a></td>
 				</tr>
 			</tbody></table>
 
