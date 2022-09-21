@@ -4,9 +4,9 @@ title: Grants
 ---
 
 ### Current
+* **사용자 편의성을 극대화한 “보이는 바람” 기술 개발**  (LG전자 산학과제, 2022.05.01-2023.04.30)
 * **RGB 영상 기반 실시간 모션 캡처 및 리타게팅 기술** (㈜해긴 산학과제, 2022.05.01 ~ 2023.04.30)
 * **실시간 시공 점검을 위한 AR 요소 기술 개발** (㈜이안 산학과제, 2021.09.01 ~ 2022.08.31)
-* **디지털 트윈 기반 시스템 에어컨 설치 및 기류 표현 증강현실 기술 개발** (LG전자 산학과제, 2021.05.01-2023.04.30)
 * **디지털 트윈 + AR 가시화** (KEA [가상증강현실 전문인력양성사업](http://www.xrpro.or.kr/), 2021.03.01-2025.02.28)
 * **디지털 트윈 기반 의료 초지능** (IITP [ICT명품인재양성사업](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Simulated Reality 콘텐츠 구현을 위한 핵심기술 연구 및 인력양성** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)
@@ -14,6 +14,7 @@ title: Grants
 * **차세대 물리 시뮬레이션 = 파티클 기반 통합 시뮬레이션 + 딥러닝** (삼성전자 [미래기술육성센터 지원사업](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=240&pageIndex=6&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=), 2019.12.01-2022.11.30)
 
 ### Past
+* **디지털 트윈 기반 시스템 에어컨 설치 및 기류 표현 증강현실 기술 개발** (LG전자 산학과제, 2021.05.01-2022.04.30)
 * **게임 인공지능 캐릭터 애니메이션 기술 및 콘텐츠 개발** (㈜펄어비스 산학과제, 2021.03.01 ~ 2022.02.28)
 * **스마트 팩토리 3D 설비 배치 및 인식을 위한 AR SW 개발** (㈜이안 산학과제, 2018.05.01-2019.01.31)
 * **LF용 GLSL 프레임웍 개발** (KETI 위탁과제, 2017.09.08-2017.11.30)
