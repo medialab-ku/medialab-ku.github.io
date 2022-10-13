@@ -12,6 +12,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2022.10
+* A paper is accepted for VRST 2022.
+
 #### 2022.09
 * A paper is accepted for SIGGRAPH ASIA 2022.
 
