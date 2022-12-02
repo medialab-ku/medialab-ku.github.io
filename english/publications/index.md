@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### 2022
-* Seung-wook Kim and JungHyun Han, “Fast Stabilization of Inducible Magnet Simulation,” **SIGGRAPH ASIA**, December 6-9, 2022. [[video]](https://youtu.be/KO75vKLfJVU) <!--[[doi]](https://doi.org/10.1145/3550469.3555410)-->
+* Seung-wook Kim and JungHyun Han, “Fast Stabilization of Inducible Magnet Simulation,” **SIGGRAPH ASIA**, December 6-9, 2022. [[video]](https://youtu.be/KO75vKLfJVU) [[doi]](https://doi.org/10.1145/3550469.3555410)
 
 * Joohwan Chae, Donghan Kim, Wooseok Jeong, Eunchan Jo, Won-Ki Jeong, JunYoung Choi, Seung-wook Kim, Myoung Gon Kim, Jae-Won Lee, Hyechan Lee, and JungHyun Han, "Virtual Air Conditioner’s Airflow Simulation and Visualization in AR," **ACM VRST**, November 29-December 1, 2022, Tsukuba, Japan. [[video]](https://youtu.be/CEkVu0DV_yg) [[doi]](https://doi.org/10.1145/3562939.3565615)
 
