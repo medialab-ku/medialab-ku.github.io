@@ -19,7 +19,7 @@ Thumbnail photo size: 400x280
 			</tbody></table>
 
 			<table class="each">
-				<caption><b>VRST 2022</b>: Tsukuba, Japan (2022.11.29 ~ 2022.12.01)</caption>
+				<caption><b>ACM VRST 2022</b>: Tsukuba, Japan (2022.11.29 ~ 2022.12.01)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2022-VRST/1.jpg"><img class="photo" src="/photos/thumbnails/2022-VRST/1.jpg" alt="2022-VRST"></a></td>
 					<td class="three"><a href="/photos/pictures/2022-VRST/2.jpg"><img class="photo" src="/photos/thumbnails/2022-VRST/2.jpg" alt="2022-VRST"></a></td>
