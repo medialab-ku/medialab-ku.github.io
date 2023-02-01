@@ -3,6 +3,9 @@ layout: post
 title: Publications
 ---
 
+### 2023
+* Min Hyung Kee, Kiwon Um, Hyunmo Kang and JungHyun Han, "An Optimization-based SPH Solver for Simulation of Hyperelastic Solids", **Eurographics**, May 8-12, 2023 (to be published in **Computer Graphics Forum**)
+
 ### 2022
 * Seung-wook Kim and JungHyun Han, “Fast Stabilization of Inducible Magnet Simulation,” **SIGGRAPH ASIA**, December 6-9, 2022. [[video]](https://youtu.be/KO75vKLfJVU) [[doi]](https://doi.org/10.1145/3550469.3555410)
 

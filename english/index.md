@@ -12,6 +12,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2023.01
+* A paper is accepted for EuroGraphics 2023.
+
 #### 2022.10
 * A paper is accepted for ACM VRST 2022.
 
