@@ -16,6 +16,8 @@ Mailing List (media.lab.ku@gmail.com -> 필터 및 차단된 주소)
 김동민
 손재민
 하정호
+Nguyen
+이희성
 -->
 
 ### Professor

@@ -13,7 +13,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 #### 2023.01
-* A paper is accepted for EuroGraphics 2023.
+* A paper is accepted for Eurographics 2023.
 
 #### 2022.10
 * A paper is accepted for ACM VRST 2022.
@@ -57,7 +57,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 * Dr. HyeongYeop Kang is appointed as an assistant professor at Software Convergence Department of Kyung Hee University.
 
 #### 2020.01
-* A paper is conditionally accepted for EuroGraphics 2020.
+* A paper is conditionally accepted for Eurographics 2020.
 * Two papers are conditionally accepted for IEEE VR 2020.
 
 #### 2019.12
