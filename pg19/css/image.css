@@ -1,0 +1,47 @@
+#container li{
+display: inline;
+border: solid black 1px;
+}
+#container{
+	border: solid black 0px;
+	/* height: 600px; */
+}
+#mImg{
+	margin: 2px;
+	width: 18%;
+	height: 17%;
+}
+#images{
+	/* text-align: center; */
+}
+#days li{
+	border: 0px solid red;
+	/*color: #a2a2a2;*/
+}
+#days li button{
+	border-radius: 16px;
+	border: 1px solid #b4b4b4;
+	background-color: rgba(0,0,0,0);
+	text-align: center;
+	line-height: 0px;
+	height: 32px;
+	width: 80px;
+}
+#days li button:hover{
+	border-radius: 16px;
+	color : white;
+	border: 1px solid #0675c3;
+	background-color: #0675c3;
+	text-align: center;
+	line-height: 0px;
+	height: 32px;
+	width: 80px;
+}
+.dayNo{
+	font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto
+	color: #b4b4b4;
+	font-size: 14px;
+}
+#days{
+	/* margin-left: 30%; */
+}
