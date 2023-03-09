@@ -74,7 +74,7 @@ title: Books
 				<!--<li><a href="/books/notes/2/chapter 2 (math basics).ppt">Chapter 2 (math basics)</a></li>-->
 				<li><a href="https://drive.google.com/uc?id=1eUFQorP_yj9gHBza36Go15rrQ1UOKRJx&authuser=3&export=download">Chapter 2 (math basics)</a></li>
 				<!--<li><a href="/books/notes/2/chapter 3 (modeling).ppt">Chapter 3 (modeling)</a></li>-->
-				<li><a href="/https://drive.google.com/uc?id=1i-PMoSY9FoLF0ywx_b52K1vDZ7XyyqTx&authuser=3&export=download">Chapter 3 (modeling)</a></li>
+				<li><a href="https://drive.google.com/uc?id=1i-PMoSY9FoLF0ywx_b52K1vDZ7XyyqTx&authuser=3&export=download">Chapter 3 (modeling)</a></li>
 				<li><a href="/books/notes/2/chapter 4 (spaces and transforms).ppt">Chapter 4 (spaces and transforms)</a></li>
 				<li><a href="/books/notes/2/chapter 5 (vertex processing).ppt">Chapter 5 (vertex processing)</a></li>
 				<li><a href="/books/notes/2/chapter 6 (OpenGL ES and shader).ppt">Chapter 6 (OpenGL ES and shader)</a></li>
