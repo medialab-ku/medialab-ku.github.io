@@ -49,7 +49,7 @@ title: Books
 			<ul>
 				<li><a href="/books/notes/2/TOC and preface.pdf">TOC and Preface</a></li>
 				<!--<li><a href="/books/notes/2/chapter 1 (introduction).ppt">Chapter 1 (introduction)</a></li>-->
-				<li><a href="https://docs.google.com/presentation/d/1zr-CgUA7lJEzCN79ICY4x0GMRdZK8osS/edit?usp=share_link&ouid=110922780509571457905&rtpof=true&sd=true">Chapter 1 (introduction)</a></li>
+				<li><a href="https://drive.google.com/uc?id=1zr-CgUA7lJEzCN79ICY4x0GMRdZK8osS&authuser=3&export=download">Chapter 1 (introduction)</a></li>
 				<!--<li><a href="/books/notes/2/chapter 2 (math basics).ppt">Chapter 2 (math basics)</a></li>-->
 				<li><a href="https://drive.google.com/uc?id=1eUFQorP_yj9gHBza36Go15rrQ1UOKRJx&authuser=3&export=download">Chapter 2 (math basics)</a></li>
 				<!--<li><a href="/books/notes/2/chapter 3 (modeling).ppt">Chapter 3 (modeling)</a></li>-->
