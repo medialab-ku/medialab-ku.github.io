@@ -3,6 +3,21 @@ layout: post
 title: Awards
 ---
 
+### 2022 KU Achievement Award (2023.02.14)
+<br>
+<div class="row">
+    <div class="cell">
+        <img src="/awards/20230214_1.jpg" width="320">
+    </div>
+    <div class="cell">
+        <img src="/awards/20230214_2.jpg" width="320">
+    </div>
+</div>
+* Myoung Gon Kim
+  * 2022 KU Achievement Award
+
+<br>
+
 ### Lee Jong-hwan Foundation Scholarship certificate ceremony (2022.07.21)
 <br>
 <div class="row">

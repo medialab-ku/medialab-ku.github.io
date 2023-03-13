@@ -3,18 +3,18 @@ layout: post
 title: Awards
 ---
 
-### 관정 이종환 재단 장학금 수여식 (2022.07.21)
+### 2022 KU Achievement Award (2023.02.14)
 <br>
 <div class="row">
     <div class="cell">
-        <img src="/awards/20220721_1.jpg" width="320">
+        <img src="/awards/20230214_1.jpg" width="320">
     </div>
     <div class="cell">
-        <img src="/awards/20220721_2.jpg" width="320">
+        <img src="/awards/20230214_2.jpg" width="320">
     </div>
 </div>
-* 이재현
-  * 국내 장학생 선발
+* 김명곤
+  * 2022 KU Achievement Award
 
 <br>
 
