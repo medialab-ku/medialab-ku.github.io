@@ -18,6 +18,21 @@ title: Awards
 
 <br>
 
+### 관정 이종환 재단 장학금 수여식 (2022.07.21)
+<br>
+<div class="row">
+    <div class="cell">
+        <img src="/awards/20220721_1.jpg" width="320">
+    </div>
+    <div class="cell">
+        <img src="/awards/20220721_2.jpg" width="320">
+    </div>
+</div>
+* 이재현
+  * 국내 장학생 선발
+
+<br>
+
 ### 2021년도 가상증강현실 전문인력양성사업단 연구성과교류회 (2022.02.28)
 <br>
 <img src="/awards/20220228.png" width="320">
