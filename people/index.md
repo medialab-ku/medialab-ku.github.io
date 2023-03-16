@@ -25,12 +25,11 @@ Nguyen
 
 <hr>
 
-### Research Professors
+### Research Professor
 * [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associates
-* 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -50,12 +49,10 @@ Nguyen
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
 * 이동균 (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 이서준 (nytemute<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 이신유 (syee19<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 정희조 (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
@@ -70,6 +67,7 @@ Nguyen
 * 이중기 (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 * [김동한](https://www.linkedin.com/in/dhkim14/) (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
+* 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -84,6 +82,7 @@ Nguyen
 * [강형엽](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 경희대학교
 * 김상빈 (sang-bin<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — LINE
 * 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 엔씨소프트
+* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 고려대학교 초지능연구센터
 
 #### M.S.
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com) — NHN
@@ -118,3 +117,4 @@ Nguyen
 * [유기현](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 네이버랩스
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
+* 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)

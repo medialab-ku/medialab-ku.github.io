@@ -8,12 +8,11 @@ title: People
 
 <hr>
 
-### Research Professors
+### Research Professor
 * [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associates
-* Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
-* Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -33,12 +32,10 @@ title: People
 * Jung-ho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
 * Donggyun Lee (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Seojun Lee (nytemute<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Sinyoo Lee (syee19<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Heejo Jeong (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
@@ -53,6 +50,7 @@ title: People
 * Jeoung-Kee Lee (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 * [Donghan Kim](https://www.linkedin.com/in/dhkim14/) (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
+* Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -67,6 +65,7 @@ title: People
 * [HyeongYeop Kang](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Sang-bin Kim (sang-bin<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * SungIk Cho (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S.
 * InGu Kang (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
@@ -101,3 +100,4 @@ title: People
 * [Kihyun Yu](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
