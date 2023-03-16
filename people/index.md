@@ -28,7 +28,7 @@ Nguyen
 ### Research Professor
 * [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-### Research Associates
+### Research Associate
 * 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
