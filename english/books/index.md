@@ -55,7 +55,7 @@ title: Books
 				<!--<li><a href="/books/notes/2/chapter 3 (modeling).ppt">Chapter 3 (modeling)</a></li>-->
 				<li><a href="https://drive.google.com/uc?id=1i-PMoSY9FoLF0ywx_b52K1vDZ7XyyqTx&authuser=3&export=download">Chapter 3 (modeling)</a></li>
 				<li><a href="https://drive.google.com/uc?id=16PLiIrnDrRC0AWFLUmbCPvb0VEF4Y8R8&authuser=3&export=download">Chapter 4 (spaces and transforms)</a></li>
-				<li><a href="/books/notes/2/chapter 5 (vertex processing).ppt">Chapter 5 (vertex processing)</a></li>
+				<li><a href="https://drive.google.com/uc?id=1Br2DomCRjtYuU5H3JY5b2Xlfs5-ll1K0&authuser=3&export=download">Chapter 5 (vertex processing)</a></li>
 				<li><a href="/books/notes/2/chapter 6 (OpenGL ES and shader).ppt">Chapter 6 (OpenGL ES and shader)</a></li>
 				<li><a href="/books/notes/2/chapter 7 (rasterizer).ppt">Chapter 7 (rasterizer)</a></li>
 				<li><a href="/books/notes/2/chapter 8 (image texturing).ppt">Chapter 8 (image texturing)</a></li>
