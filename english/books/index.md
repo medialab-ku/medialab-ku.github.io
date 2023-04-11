@@ -59,7 +59,7 @@ title: Books
 				<li><a href="https://drive.google.com/uc?id=1NRgfPw9gewSbyd6e7xHwPJOBz5xdBqQ3&authuser=3&export=download">Chapter 6 (OpenGL ES and shader)</a></li>
 				<li><a href="https://drive.google.com/uc?id=1uyj5mC4OT8-Ng_6Ka5wyu3z0tztwgzaS&authuser=3&export=download">Chapter 7 (rasterizer)</a></li>
 				<li><a href="https://drive.google.com/uc?id=193PH8-SMyXbC_FFtyefNBXGDjJvxaSvi&authuser=3&export=download">Chapter 8 (image texturing)</a></li>
-				<li><a href="/books/notes/2/chapter 9 (lighting).ppt">Chapter 9 (lighting)</a></li>
+				<li><a href="https://drive.google.com/uc?id=15-Q-EMAF7lh9WSS8yRcdrsEYRU1uwUaO&authuser=3&export=download">Chapter 9 (lighting)</a></li>
 				<li><a href="/books/notes/2/chapter 10 (output merger).ppt">Chapter 10 (output merger)</a></li>
 				<li><a href="/books/notes/2/chapter 11 (Euler transforms and quaternions).ppt">Chapter 11 (Euler transforms and quaternions)</a></li>
 				<li><a href="/books/notes/2/chapter 12 (screen-space object manipulation).ppt">Chapter 12 (screen-space object manipulation)</a></li>
