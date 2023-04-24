@@ -12,6 +12,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+#### 2023.04
+* Jaehyung Doh (with M.S.) starts his career at JOYCITY.
+
 #### 2023.02
 * HuiSeong Lee is selected as a valedictorian of College of Science at the commencement of Korea University.
 
