@@ -84,7 +84,7 @@ title: Books
 				<li><a href="https://drive.google.com/uc?id=1zBOe9t7mkTfKXVcBMwuGpG6CZz7gzo0Z&authuser=3&export=download">Chapter 9 (lighting)</a></li>
 				<li><a href="https://drive.google.com/uc?id=1RTynaDWxRvMNQerJ5rzwf7wRe3-E30OH&authuser=3&export=download">Chapter 10 (output merger)</a></li>
 				<li><a href="/books/notes/2/chapter 11 (Euler transforms and quaternions).ppt">Chapter 11 (Euler transforms and quaternions)</a></li>
-				<li><a href="/books/notes/2/chapter 12 (screen-space object manipulation).ppt">Chapter 12 (screen-space object manipulation)</a></li>
+				<li><a href="https://drive.google.com/uc?id=1BFAXZlP6YXhDym2MmvZ7ylv1xGOYKLfH&authuser=3&export=download">Chapter 12 (screen-space object manipulation)</a></li>
 				<li><a href="/books/notes/2/chapter 13 (character animation).ppt">Chapter 13 (character animation)</a></li>
 				<li><a href="/books/notes/2/chapter 14 (normal mapping).ppt">Chapter 14 (normal mapping)</a></li>
 				<li><a href="/books/notes/2/chapter 15 (shadow mapping).ppt">Chapter 15 (shadow mapping)</a></li>
