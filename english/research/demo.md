@@ -13,7 +13,7 @@ title: Research
         <img class="img" src="/research/images/demo/digital_human.png" width="280">
     </div>
     <div class="cell">
-        <img class="img" src="/research/images/demo/0282.png" width="280">
+        <img class="img" src="/research/images/demo/physics.png" width="280">
     </div>
 </div>
 
