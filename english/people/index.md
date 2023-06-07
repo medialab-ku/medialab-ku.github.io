@@ -13,6 +13,8 @@ title: People
 
 ### Research Associate
 * Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Sanghoon Han (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -37,6 +39,7 @@ title: People
 #### Undergraduate Interns
 * Donggyun Lee (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Heejo Jeong (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Taesik Jeong (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 <hr>
 

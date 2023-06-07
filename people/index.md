@@ -30,6 +30,8 @@ Nguyen
 
 ### Research Associate
 * 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 한상훈 (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -54,6 +56,7 @@ Nguyen
 #### Undergraduate Interns
 * 이동균 (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 정희조 (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 정태식 (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 <hr>
 

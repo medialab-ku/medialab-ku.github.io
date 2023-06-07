@@ -4,6 +4,8 @@ title: Publications
 ---
 
 ### 2023
+* JaeHyun Lee, Seung-wook Kim, Kiwon Um, Min Hyung Kee, and JungHyun Han, “Inversion Alleviation for Stable Elastic Body Simulation,” **Computer Animation and Social Agents (CASA)**, May 29-31, 2023, Limassol, Cyprus (published in **Computer Animation and Virtual Worlds**, Vol. 34, No. 3-4, May 2023, pp. e2183). [[video]](https://youtu.be/4UWKqwnEQkk) [[doi]](https://doi.org/10.1002/cav.2183)
+
 * Min Hyung Kee, Kiwon Um, Hyunmo Kang, and JungHyun Han, "An Optimization-based SPH Solver for Simulation of Hyperelastic Solids," **Eurographics**, May 8-12, 2023 (to be published in **Computer Graphics Forum**). [[video]](https://youtu.be/GQ0K_FFV7hY) [[doi]](https://diglib.eg.org/xmlui/handle/10.1111/cgf14756)
 
 ### 2022
