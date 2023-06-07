@@ -9,9 +9,9 @@ title: Research
     <div class="cell">
         <img class="img" src="/research/images/ar/1.performancecapture_new.png" width="280">
     </div>
-    <div class="cell">
+    <!-- <div class="cell">
         <img class="img" src="/research/images/demo/digital_human.png" width="280">
-    </div>
+    </div> -->
     <div class="cell">
         <img class="img" src="/research/images/demo/physics.png" width="280">
     </div>
@@ -21,7 +21,7 @@ title: Research
 * We study technology that is designed to enable real-time pose estimation and matching from real-time video taken with a smartphone camera, etc., and gives immediate feedback to users. [[video]](https://youtube.com/shorts/b4VUgkE7YC4)
 
 #### Physics-based simulation
-* We study various physics-based simulations used in physics engines such as deformable bodies and fluids. [[video]](https://youtu.be/mhHivqV7MyM)
+* We study physics-based simulations that efficiently express various physical phenomena such as deformable bodies, fluids, and collisions between objects. [[video]](https://youtu.be/mhHivqV7MyM)
 
 <br><br>
 
