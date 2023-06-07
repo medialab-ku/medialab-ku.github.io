@@ -21,7 +21,7 @@ title: Research
 * 스마트폰 카메라 등으로 촬영한 실사 영상으로부터 실시간 포즈 추정 및 매칭이 가능하도록 설계되어 사용자에게 즉각적인 피드백을 주는 기술을 연구한다. [[video]](https://youtube.com/shorts/b4VUgkE7YC4)
 
 #### 물리 기반 시뮬레이션
-* 변형체, 유체 등 물리 엔진에 사용되는 여러 가지 물리 기반 시뮬레이션에 대해 연구한다. [[video]](https://youtu.be/mhHivqV7MyM)
+* 변형체, 유체, 물체 간 충돌 등 다양한 물리 현상을 효율적으로 표현하는 방법에 대해 연구한다. [[video]](https://youtu.be/mhHivqV7MyM)
 
 <br><br>
 
