@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>CASA 2023</b>: Limassol, Cyprus (2023.05.29 ~ 2023.05.31)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2023-CASA/1.png"><img class="photo" src="/photos/thumbnails/2023-CASA/1.png" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2023-CASA/2.png"><img class="photo" src="/photos/thumbnails/2023-CASA/2.png" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2023-CASA/3.png"><img class="photo" src="/photos/thumbnails/2023-CASA/3.png" alt="2022-sigasia"></a></td>
+				</tr>
+			</tbody></table>
+			
+			<table class="each">
 				<caption><b>SIGGRAPH Asia 2022</b>: EXCO, 대구 (2022.12.05 ~ 2022.12.09)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2022-sigasia/1.jpg"><img class="photo" src="/photos/thumbnails/2022-sigasia/1.jpg" alt="2022-sigasia"></a></td>
