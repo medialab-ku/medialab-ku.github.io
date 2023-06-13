@@ -13,7 +13,10 @@ title: Research
         <img class="img" src="/research/images/demo/digital_human.png" width="280">
     </div>
     <div class="cell">
-        <img class="img" src="/research/images/demo/000.png" width="280">
+        <img class="img" src="/research/images/demo/0137.png" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/demo/torus.png" width="280">
     </div>
 </div>
 
@@ -21,7 +24,7 @@ title: Research
 * 스마트폰 카메라 등으로 촬영한 실사 영상으로부터 실시간 포즈 추정 및 매칭이 가능하도록 설계되어 사용자에게 즉각적인 피드백을 주는 기술을 연구한다. [[video]](https://youtube.com/shorts/b4VUgkE7YC4)
 
 #### 물리 기반 시뮬레이션
-* 변형체, 유체, 물체 간 충돌 등 다양한 물리 현상을 효율적으로 표현하는 방법에 대해 연구한다. [[video]](https://youtu.be/mhHivqV7MyM)
+* 변형체, 유체, 물체 간 충돌 등 다양한 물리 현상을 효율적으로 표현하는 방법에 대해 연구한다. [[video]](https://youtu.be/y4VfJjDFmV8)
 
 <br><br>
 
@@ -32,14 +35,14 @@ title: Research
         <img class="img" src="/research/images/demo/arrowsNheatmap_2.jpg" width="280">
     </div>
     <div class="cell">
-        <img class="img" src="/research/images/demo/arrowsNheatmap_4.jpg" width="280">
+        <img class="img" src="/research/images/demo/airflow.png" width="280">
     </div>
     <div class="cell">
         <img class="img" src="/research/images/demo/pipe.png" width="280">
     </div>
-    <!-- <div class="cell">
-        <img class="img" src="/research/images/physics/4.experiment.jpg" width="280">
-    </div> -->
+    <div class="cell">
+        <img class="img" src="/research/images/demo/pipe2.png" width="280">
+    </div>
 </div>
 
 #### 기류 시뮬레이션 및 시각화

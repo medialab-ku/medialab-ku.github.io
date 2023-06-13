@@ -13,7 +13,6 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 #### 2023.04
-* A paper is accepted for CASA 2023.
 * Jaehyung Doh (with M.S.) starts his career at JOYCITY.
 
 #### 2023.02

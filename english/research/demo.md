@@ -13,7 +13,10 @@ title: Research
         <img class="img" src="/research/images/demo/digital_human.png" width="280">
     </div>
     <div class="cell">
-        <img class="img" src="/research/images/demo/000.png" width="280">
+        <img class="img" src="/research/images/demo/0137.png" width="280">
+    </div>
+    <div class="cell">
+        <img class="img" src="/research/images/demo/torus.png" width="280">
     </div>
 </div>
 
@@ -21,7 +24,7 @@ title: Research
 * We study technology that is designed to enable real-time pose estimation and matching from real-time video taken with a smartphone camera, etc., and gives immediate feedback to users. [[video]](https://youtube.com/shorts/b4VUgkE7YC4)
 
 #### Physics-based simulation
-* We study physics-based simulations that efficiently express various physical phenomena such as deformable bodies, fluids, and collisions between objects. [[video]](https://youtu.be/mhHivqV7MyM)
+* We study physics-based simulations that efficiently express various physical phenomena such as deformable bodies, fluids, and collisions between objects. [[video]](https://youtu.be/y4VfJjDFmV8)
 
 <br><br>
 
@@ -32,14 +35,14 @@ title: Research
         <img class="img" src="/research/images/demo/arrowsNheatmap_2.jpg" width="280">
     </div>
     <div class="cell">
-        <img class="img" src="/research/images/demo/arrowsNheatmap_4.jpg" width="280">
+        <img class="img" src="/research/images/demo/airflow.png" width="280">
     </div>
     <div class="cell">
         <img class="img" src="/research/images/demo/pipe.png" width="280">
     </div>
-    <!-- <div class="cell">
-        <img class="img" src="/research/images/physics/4.experiment.jpg" width="280">
-    </div> -->
+    <div class="cell">
+        <img class="img" src="/research/images/demo/pipe2.png" width="280">
+    </div>
 </div>
 
 #### Airflow simulation and visualization
