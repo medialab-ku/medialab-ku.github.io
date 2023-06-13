@@ -15,7 +15,7 @@ title: Photos
 			</tbody></table>
 			
 			<table class="each">
-				<caption><b>EG 2023</b>: Saarbrücken, Germany (2023.05.08 ~ 2023.05.12)</caption>
+				<caption><b>Eurographics 2023</b>: Saarbrücken, Germany (2023.05.08 ~ 2023.05.12)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2023-EG/1.jpg"><img class="photo" src="/photos/thumbnails/2023-EG/1.jpg" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2023-EG/2.jpg"><img class="photo" src="/photos/thumbnails/2023-EG/2.jpg" alt="2022-sigasia"></a></td>
