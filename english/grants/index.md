@@ -5,7 +5,7 @@ title: Grants
 
 ### Current
 * **Metaverse-based Real-time Airflow Analysis and Visualization** (LG Electronics, 2023.05.01-2024.04.30)
-* **Digital Twin-based Camera Tracking and AI/AR for Pipe Reconstruction** (㈜이안, 2023.01.01-2023.10.31)
+* **Digital Twin-based Camera Tracking and AI/AR techniques for Pipe Reconstruction** (㈜이안 산학과제, 2023.01.01-2023.10.31)
 * **Digital Twin + AR Visualization** ([KEA](http://www.xrpro.or.kr/), 2021.03.01-2025.02.28)
 * **Digital Twin-based Medical Superintelligence** (IITP [ICT Creative Consilience Program](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Researching Core Technologies and Fostering Talents for Simulated Reality Content** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)

@@ -11,7 +11,7 @@ title: People
 ### Research Professor
 * [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-### Research Associate
+### Research Associates
 * Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Sanghoon Han (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
