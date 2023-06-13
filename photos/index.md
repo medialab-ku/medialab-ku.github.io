@@ -5,6 +5,7 @@ title: Photos
 
 <!--
 Thumbnail photo size: 400x280
+Presentation photos, conference related photos, other photos in order
 -->
 
 <div id="contents">

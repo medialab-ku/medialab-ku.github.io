@@ -20,6 +20,10 @@ Nguyen
 이희성
 -->
 
+<!--
+Always check singular or plural according to the number of people
+-->
+
 ### Professor
 * [한정현](/people/jhan) (jhan<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
