@@ -120,7 +120,7 @@ Always check singular or plural according to the number of people
 * 박승빈 (seungbin201803<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) - Ph.D. Program, Purdue University (West Lafayette, USA)
 * 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 티맥스
 * 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 티맥스
-* [이건선](http://www.cs.umd.edu/~gsunlee/) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Maryland (Maryland, USA)
+* [이건선](http://www.cs.umd.edu/~gsunlee/) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Maryland (College Park, USA)
 * [유기현](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 네이버랩스
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
