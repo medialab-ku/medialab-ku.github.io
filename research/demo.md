@@ -21,8 +21,14 @@ title: Research
 </div> -->
 
 <div class="row">
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/b4VUgkE7YC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="cell">
+        <img class="img" src="/research/images/ar/1.performancecapture_new.png" width="280">
+    </div>
+    <iframe width="280" height="200" src="https://www.youtube.com/embed/b4VUgkE7YC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="cell">
+        <img class="img" src="/research/images/demo/digital_human.png" width="280">
+    </div>
+    <iframe width="280" height="200" src="https://www.youtube.com/embed/y4VfJjDFmV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 #### 디지털 휴먼
