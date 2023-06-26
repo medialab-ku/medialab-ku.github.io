@@ -3,51 +3,32 @@ layout: post
 title: Research
 ---
 
-### VR/AR and 3D Reconstruction
+### VR for Entertainment
 <br>
 <div class="row">
-    <div class="cell">
-        <img class="img" src="/research/images/ar/1.performancecapture.jpg" width="280">
-    </div>
-    <div class="cell">
-        <img class="img" src="/research/images/ar/2.reverseengineering.jpg" width="280">
-    </div>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/ZhNzgYobpEk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-#### Performance Capture
-* Studies are conducted to extract 3D models and motions at real time with RGB- or RGB-D cameras. It can be used to develop AR systems for virtual concerts, teleconferences, and so on.
+#### Digital human
+* An avatar is created by estimating an actor’s pose and shape from the live video, and virtual clothes are put on the avatar so that the clothes are simulated according to the motion of the avatar.
 
-#### Deep learning-based 3D Reconstruction and Reverse Engineering
-* We study automatic 3D CAD model reconstruction from the scanned data of industrial sites using an RGB-D camera.
-
+#### Physics-based simulation
+* We investigate simulation techniques that efficiently express various physical phenomena such as deformable bodies, fluids, and collisions between objects.
 
 <br><br>
 
-### Physics-based Simulation for Computer Graphics
+### AR for Industry
+
 <br>
+
 <div class="row">
-    <div class="cell">
-        <img class="img" src="/research/images/old/physics/2.jpg" width="280">
-    </div>
-    <div class="cell">
-        <img class="img" src="/research/images/physics/2.magnet.png" width="280">
-    </div>
-    <!-- <div class="cell">
-        <img class="img" src="/research/images/physics/3.deeplearning.png" width="280">
-    </div> -->
-    <div class="cell">
-        <img class="img" src="/research/images/physics/4.experiment.jpg" width="280">
-    </div>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/ttMZiVrtUAM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/ODRu0XRrQPI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-#### Deformable Body Simulation
-* Calculating the restoring forces determined in continuum mechanics, we mimic deformable bodies’ various motions such as deformation, collision, translation, and rotation.
+#### Airflow simulation and visualization
+* After reconstructing an indoor space in 3D, we simulate and visualize the airflow from the air conditioners in mobile AR.
 
-#### Magnetic Object Simulation
-* The forces exerted on magnetic objects are calculated using Maxwell’s equations to mimic the realistic motions of magnetic objects.
-
-#### Deep Learning-based Physical Simulation
-* We overcome the limitations of conventional physical simulation methods with deep neural networks.
-
-#### Virtual Science Experiments
-* We develop a simulation/rendering engine and an authoring tool specialized for science experiments in virtual worlds, and we conduct researches demonstrating the effectiveness of virtual science experiments.
+#### Wide-area camera tracking and 3D reconstruction
+* Tracking the pose of a mobile device in real time using the RGB-D images captured by its camera, we reconstruct the 3D model of a wide area environment.
