@@ -5,28 +5,13 @@ title: Research
 
 ### VR for Entertainment
 <br>
-<!-- <div class="row">
-    <div class="cell">
-        <img class="img" src="/research/images/ar/1.performancecapture_new.png" width="280">
-    </div>
-    <div class="cell">
-        <img class="img" src="/research/images/demo/digital_human.png" width="280">
-    </div>
-    <div class="cell">
-        <img class="img" src="/research/images/demo/0137.png" width="280">
-    </div>
-    <div class="cell">
-        <img class="img" src="/research/images/demo/torus.png" width="280">
-    </div>
-</div> -->
-
 <div class="row">
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/ZhNzgYobpEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/ZhNzgYobpEk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 #### 디지털 휴먼
-* 스마트폰 카메라 등으로 촬영한 실사 영상으로부터 실시간 포즈 추정 및 매칭이 가능하도록 설계되어 사용자에게 즉각적인 피드백을 주는 기술을 연구한다.
+* 실사 영상으로부터 사람의 포즈 및 외양을 추정하여 아바타를 생성하고, 여기에 옷을 입혀서 아바타의 동작에 따른 자연스러운 옷 움직임을 구현한다.
 
 #### 물리 기반 시뮬레이션
 * 변형체, 유체, 물체 간 충돌 등 다양한 물리 현상을 효율적으로 표현하는 방법에 대해 연구한다.
@@ -38,8 +23,8 @@ title: Research
 <br>
 
 <div class="row">
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/ttMZiVrtUAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/ODRu0XRrQPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/ttMZiVrtUAM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/ODRu0XRrQPI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 #### 기류 시뮬레이션 및 시각화
