@@ -67,7 +67,7 @@ title: Books
 				<li><a href="https://drive.google.com/uc?id=1anC1goSkQ5pGf3oZ16meNjKUCLtSJu1g&authuser=3&export=download">Chapter 14 (normal mapping)</a></li>
 				<li><a href="https://drive.google.com/uc?id=1Lj3PG7oWvzjC-_Orhp5fyJzL4w4BvM7x&authuser=3&export=download">Chapter 15 (shadow mapping)</a></li>
 				<li><a href="https://drive.google.com/uc?id=14vRYVIihVXVLIzc7z9A394sEIC2Ag7_-&authuser=3&export=download">Chapter 16 (texturing toward GI)</a></li>
-				<li><a href="/books/notes/2/chapter 17 (curves and surfaces).ppt">Chapter 17 (curves and surfaces)</a></li>
+				<li><a href="https://drive.google.com/uc?id=1Ctfo6fVMKr3yZWsSyuNP5lwWEtS-Fy43&authuser=3&export=download">Chapter 17 (curves and surfaces)</a></li>
 				<li><a href="/books/notes/2/chapter 18 (surface tessellation).ppt">Chapter 18 (surface tessellation)</a></li>
 				<li><a href="/books/notes/2/errata.jpg">Errata (2022-06-23)</a></li>
 			</ul>
