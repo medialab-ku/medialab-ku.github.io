@@ -37,6 +37,9 @@ Always check singular or plural according to the number of people
 * 한상훈 (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
+### Visiting Professor
+* [이태현](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
+
 <hr>
 
 ### Students
@@ -73,7 +76,7 @@ Always check singular or plural according to the number of people
 #### Research Associates
 * 이중기 (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
-* [김동한](https://www.linkedin.com/in/dhkim14/) (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
+* 김동한 (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 
 <hr>
