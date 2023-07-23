@@ -6,7 +6,7 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
-				<caption><b>KCGS 2023</b>: Phoenix Seopjikoji, Jeju (2023.07.11 ~ 2023.07.14)</caption>
+				<caption><b>KCGS 2023</b>: 휘닉스 섭지코지, 제주 (2023.07.11 ~ 2023.07.14)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2023-KCGS/1.jpg"><img class="photo" src="/photos/thumbnails/2023-KCGS/1.jpg" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2023-KCGS/2.jpg"><img class="photo" src="/photos/thumbnails/2023-KCGS/2.jpg" alt="2022-sigasia"></a></td>
@@ -14,8 +14,9 @@ title: Photos
 				</tr>
 			</tbody></table>
 
+
 			<table class="each">
-				<caption><b>KEA 2023</b>: Haevichi Hotel & Resort, Jeju (2023.07.05 ~ 2023.07.07)</caption>
+				<caption><b>KEA 총괄 워크숍 2023</b>: 해비치 리조트, 제주 (2023.07.05 ~ 2023.07.07)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2023-KEA/1.jpg"><img class="photo" src="/photos/thumbnails/2023-KEA/1.png" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2023-KEA/2.jpg"><img class="photo" src="/photos/thumbnails/2023-KEA/2.jpg" alt="2022-sigasia"></a></td>

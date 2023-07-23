@@ -21,7 +21,7 @@ Presentation photos, conference related photos, other photos in order
 
 
 			<table class="each">
-				<caption><b>KEA 2023</b>: 해비치 리조트, 제주 (2023.07.05 ~ 2023.07.07)</caption>
+				<caption><b>KEA 총괄 워크숍 2023</b>: 해비치 리조트, 제주 (2023.07.05 ~ 2023.07.07)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2023-KEA/1.jpg"><img class="photo" src="/photos/thumbnails/2023-KEA/1.png" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2023-KEA/2.jpg"><img class="photo" src="/photos/thumbnails/2023-KEA/2.jpg" alt="2022-sigasia"></a></td>
