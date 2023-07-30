@@ -43,7 +43,7 @@ title: People
 
 #### Undergraduate Interns
 * Donggyun Lee (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Heejo Jeong (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Heejo Jeong (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Taesik Jeong (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 <hr>
