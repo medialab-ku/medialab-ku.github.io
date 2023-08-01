@@ -4,6 +4,8 @@ title: Publications
 ---
 
 ### 2023
+* Dong-Min Kim, JeongHyeon Ahn, Seung-wook Kim, Jongmin Lee, Myungho Kim and JungHyun Han, "Real-time reconstruction of pipes using RGB-D cameras", **Computer Graphics International (CGI)**, August 28 to September 1, 2023, Shanghai, China (published in **Computer Animation and Virtual Worlds**). [[video]](https://www.youtube.com/watch?v=5IimDWdsIHc) [[doi]](https://doi.org/10.1002/cav.2197)
+
 * JaeHyun Lee, Seung-wook Kim, Kiwon Um, Min Hyung Kee, and JungHyun Han, “Inversion Alleviation for Stable Elastic Body Simulation,” **Computer Animation and Social Agents (CASA)**, May 29-31, 2023, Limassol, Cyprus (published in **Computer Animation and Virtual Worlds**, Vol. 34, No. 3-4, May 2023, pp. e2183). [[video]](https://youtu.be/4UWKqwnEQkk) [[doi]](https://doi.org/10.1002/cav.2183)
 
 * Min Hyung Kee, Kiwon Um, Hyunmo Kang, and JungHyun Han, "An Optimization-based SPH Solver for Simulation of Hyperelastic Solids," **Eurographics**, May 8-12, 2023 (published in **Computer Graphics Forum**, Vol. 42, No. 2, May 2023, pp. 225-233). [[video]](https://youtu.be/GQ0K_FFV7hY) [[doi]](https://doi.org/10.1111/cgf.14756)
