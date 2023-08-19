@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>Homecoming Day 2023</b>: 무르무르, 안암 (2023.08.17)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2023-Homecoming-day/1.jpg"><img class="photo" src="/photos/thumbnails/2023-Homecoming-day/1.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2023-Homecoming-day/2.jpg"><img class="photo" src="/photos/thumbnails/2023-Homecoming-day/2.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2023-Homecoming-day/3.jpg"><img class="photo" src="/photos/thumbnails/2023-Homecoming-day/3.jpg" alt="2022-sigasia"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>KCGS 2023</b>: 휘닉스 섭지코지, 제주 (2023.07.11 ~ 2023.07.14)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2023-KCGS/1.jpg"><img class="photo" src="/photos/thumbnails/2023-KCGS/1.jpg" alt="2022-sigasia"></a></td>
