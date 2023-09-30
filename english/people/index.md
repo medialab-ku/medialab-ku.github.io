@@ -44,7 +44,7 @@ title: People
 * Taesik Jeong (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Heejo Jeong (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-#### Undergraduate Interns
+#### Undergraduate Intern
 * Seohyun Park (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>

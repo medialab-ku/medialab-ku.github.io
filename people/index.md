@@ -67,7 +67,7 @@ Always check singular or plural according to the number of people
 * 정태식 (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 정희조 (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-#### Undergraduate Interns
+#### Undergraduate Intern
 * 박서현 (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
@@ -114,6 +114,7 @@ Always check singular or plural according to the number of people
 * 박광현 (pkh817<sub><i>at </i></sub>hotmail<sub><i>dot </i></sub>com) — 엔씨소프트
 * 김광혁 (kwanghyuk.a.kim<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 삼성전자
 * 김동석 (fallendos<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 드레이크마운트
+* Luhur Pidekso Arif (luhur.pidekso.arif<sub><i>at </i></sub>kominfo<sub><i>dot </i></sub>go<sub><i>dot </i></sub>id) — Ministry of Communication and Information Technology (Jakarta, Indonesia) and then back to 미디어 연구실
 * 윤원배 (ywbgkz<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 넥슨
 * 이남일 (2namil<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 엔씨소프트
 * 심예람 (yeram91<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
