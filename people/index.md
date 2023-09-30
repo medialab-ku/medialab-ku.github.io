@@ -37,9 +37,9 @@ Always check singular or plural according to the number of people
 * [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associates
+* 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 한상훈 (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 ### Visiting Professor
 * [이태현](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
@@ -51,10 +51,10 @@ Always check singular or plural according to the number of people
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 김명곤 (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Luhur Pidekso Arif (luhurpideksoarif<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S. Students
 * [이재현](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
@@ -63,11 +63,12 @@ Always check singular or plural according to the number of people
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 정태식 (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 정희조 (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
-* 이동균 (dlehdrbs729<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 정희조 (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 정태식 (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 박서현 (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
@@ -113,7 +114,6 @@ Always check singular or plural according to the number of people
 * 박광현 (pkh817<sub><i>at </i></sub>hotmail<sub><i>dot </i></sub>com) — 엔씨소프트
 * 김광혁 (kwanghyuk.a.kim<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 삼성전자
 * 김동석 (fallendos<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 드레이크마운트
-* Luhur Pidekso Arif (luhur.pidekso.arif<sub><i>at </i></sub>kominfo<sub><i>dot </i></sub>go<sub><i>dot </i></sub>id) — Ministry of Communication and Information Technology (Jakarta, Indonesia)
 * 윤원배 (ywbgkz<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 넥슨
 * 이남일 (2namil<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 엔씨소프트
 * 심예람 (yeram91<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
