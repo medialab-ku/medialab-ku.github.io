@@ -4,13 +4,10 @@ title: Awards
 ---
 
 
-### 2023 산업부 KEA 기상증강현실전문인력양성사업 최우수연구상 (2022.12.30)
+### 2023 산업부 KEA 기상증강현실전문인력양성사업 최우수연구상 (2023.08.31)
 <br>
-<div class="row">
-    <div class="cell">
-        <img src="/awards/20230831.png" width="320">
-    </div>
-</div>
+
+<img src="/awards/20230831.png" width="320">
 * 강현모, 이재현, 정승원, 채주환
   * 최우수 연구상
 
@@ -35,11 +32,8 @@ title: Awards
 
 ### 2022 산업부 KEA 기상증강현실전문인력양성사업 최우수연구상 (2022.12.30)
 <br>
-<div class="row">
-    <div class="cell">
-        <img src="/awards/20221230.png" width="320">
-    </div>
-</div>
+
+<img src="/awards/20221230.png" width="320">
 * 강현모, 김동한, 정우석, 조은찬, 채주환
   * 최우수 연구상
 
