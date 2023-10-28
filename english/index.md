@@ -12,6 +12,10 @@ If you're interested, send email to jhan@korea.ac.kr.
 <hr>
 
 ## News
+
+#### 2023.10
+* We ...
+
 #### 2023.04
 * Jaehyung Doh (with M.S.) starts his career at JOYCITY.
 
