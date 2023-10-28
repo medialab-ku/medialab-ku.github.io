@@ -11,7 +11,7 @@ Presentation photos, conference related photos, other photos in order
 <div id="contents">
 
 			<table class="each">
-				<caption><b>NC 재직 선배 방문 및 진로 상담 멘토링</b>: NCSOFT,판교  (2023.10.18)</caption>
+				<caption><b>NC 재직 선배 방문 및 진로 상담 멘토링</b>: NCSOFT, 판교 (2023.10.18)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2023-NCSoft/1.jpg"><img class="photo" src="/photos/thumbnails/2023-NCSoft/1.jpg" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2023-NCSoft/2.jpg"><img class="photo" src="/photos/thumbnails/2023-NCSoft/2.jpg" alt="2022-sigasia"></a></td>

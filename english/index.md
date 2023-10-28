@@ -14,7 +14,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 ## News
 
 #### 2023.10
-* We ...
+* We receive career mentoring from senior researchers during visiting at NCSoft
 
 #### 2023.04
 * Jaehyung Doh (with M.S.) starts his career at JOYCITY.
