@@ -8,12 +8,12 @@ title: Photos
 			<table class="each">
 				<caption><b>NC 재직 선배 방문 및 진로 상담 멘토링</b>: NCSOFT,판교  (2023.08.17)</caption>
 				<tbody><tr>
-					<td class="three"><a href="/photos/pictures/2023-NCSoft/1.jpg"><img class="photo" src="/photos/thumbnails/2023-NCSoft/1.jpg" alt="2022-sigasia"></a></td>
-					<td class="three"><a href="/photos/pictures/2023-NCSoft/2.jpg"><img class="photo" src="/photos/thumbnails/2023-NCSoft/2.jpg" alt="2022-sigasia"></a></td>
-					<td class="three"><a href="/photos/pictures/2023-NCSoft/3.jpg"><img class="photo" src="/photos/thumbnails/2023-NCSoft/3.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2023-NCSoft/1.png"><img class="photo" src="/photos/thumbnails/2023-NCSoft/1.png" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2023-NCSoft/2.png"><img class="photo" src="/photos/thumbnails/2023-NCSoft/2.png" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2023-NCSoft/3.png"><img class="photo" src="/photos/thumbnails/2023-NCSoft/3.png" alt="2022-sigasia"></a></td>
 				</tr>
 			</tbody></table>
-			
+
 			<table class="each">
 				<caption><b>Homecoming Day 2023</b>: 무르무르, 안암 (2023.08.17)</caption>
 				<tbody><tr>
