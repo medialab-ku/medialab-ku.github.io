@@ -11,7 +11,7 @@ title: Research
 </div>
 
 #### Digital human
-* An avatar is created by estimating an actor’s pose and shape from the live video, and virtual clothes are put on the avatar so that the clothes are simulated according to the motion of the avatar.
+* An avatar is created by estimating an actor’s pose and shape from the live video, and virtual clothes are put on the avatar so that the clothes are simulated in real time according to the actor's motion.
 
 #### Physics-based simulation
 * We investigate simulation techniques that efficiently express various physical phenomena such as deformable bodies, fluids, and collisions between objects.
