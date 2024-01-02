@@ -28,7 +28,6 @@ title: People
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Myoung Gon Kim (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Luhur Pidekso Arif (luhurpideksoarif<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S. Students
 * [JaeHyun Lee](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
