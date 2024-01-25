@@ -4,6 +4,15 @@ title: Awards
 ---
 
 
+### 2023 Industry-Academic Project Challenge Minister's award from Ministery of Trade, Industry and Energy (2023.11.21)
+<br>
+
+<img src="/awards/20231121.png" width="320">
+* JooHwan Chae, Myoung Gon Kim, JaeHyun Lee, Hyunmo Kang
+  * Minister's award
+
+<br>
+
 ### 2023 Professional Manpower Training for VR·AR Research Contest (2023.08.31)
 <br>
 
