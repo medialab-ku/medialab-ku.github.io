@@ -3,10 +3,10 @@ layout: post
 title: Research
 ---
 
-### VR for Entertainment
+### Computer Graphics and Vision for Entertainment
 <br>
 <div class="row">
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/ZhNzgYobpEk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
+    <iframe width="400" height="280" src="https://www.youtube.com/watch?v=Z8ZpUZ42v9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
     <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
