@@ -3,7 +3,7 @@ layout: home
 ---
 
 Our research interests lie in the following areas:
-* VR for Entertainment
+* Computer Graphics and Vision for Game and Entertainment
 * AR for Industry
 
 We are looking for undergraduate interns, graduate students, full-time interns/researchers and postdocs.
@@ -13,8 +13,12 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 
+#### 2024.03
+* Dr. Seungwook Kim is appointed as an assistant professor at Hankuk University of Foreign Studies (Division of Computer Engineering).
+* Jaemin Son (with M.S.) starts his career at KRAFTON.
+
 #### 2023.11
-Our lab's ["Visible Wind"](https://www.youtube.com/watch?v=CEkVu0DV_yg) team received the first prize, the Minister of Trade, Industry and Energy Award, in the Industry-Academic Project Challenge in which 489 teams participated.
+* Our lab's ["Visible Wind"](https://www.youtube.com/watch?v=CEkVu0DV_yg) team received the first prize, the Minister of Trade, Industry and Energy Award, in the Industry-Academic Project Challenge in which 489 teams participated.
 
 #### 2023.10
 * We receive career mentoring from senior researchers during visiting at NCSOFT.
