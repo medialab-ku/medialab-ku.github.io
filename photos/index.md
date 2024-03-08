@@ -12,7 +12,7 @@ Presentation photos, conference related photos, other photos in order
 
 
 			<table class="each">
-				<caption><b>송년회 2023</b>: 졸업식, 안암  (2024.02.23)</caption>
+				<caption><b>졸업식</b>: 안암  (2024.02.23)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2024-graduation/1.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/1.png" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2024-graduation/2.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/2.jpg" alt="2022-sigasia"></a></td>
