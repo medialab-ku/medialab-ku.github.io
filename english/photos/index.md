@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 			
 			<table class="each">
+				<caption><b>송년회 2023</b>: 졸업식, 안암  (2024.02.23)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2024-graduation/1.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/1.png" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-graduation/2.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/2.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-graduation/3.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/3.jpg" alt="2022-sigasia"></a></td>
+				</tr>
+			</tbody></table>
+			
+			<table class="each">
 				<caption><b>송년회 2023</b>: 녘, 강남  (2023.12.15)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2023-year-end-party/1.jpg"><img class="photo" src="/photos/thumbnails/2023-year-end-party/1.jpg" alt="2022-sigasia"></a></td>
