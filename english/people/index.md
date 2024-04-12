@@ -35,7 +35,7 @@ title: People
 * Dongmin Kim (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Jung-ho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)

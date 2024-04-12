@@ -11,7 +11,7 @@ title: Grants
 * **Two-way Interaction between Real Environments and Virtual Objects** (IITP [SW Star Lab](http://swstarlab.kr/page/page02_02.php?c=lab36), 2020.04.01-2027.12.31)
 
 ### Past
-* **Digital Twin-based Camera Tracking and AI/AR techniques for Pipe Reconstruction** (Iaan Co., 2023.01.01-2023.10.31)
+<!-- * **Digital Twin-based Camera Tracking and AI/AR techniques for Pipe Reconstruction** (Iaan Co., 2023.01.01-2023.10.31) -->
 * **Real-time Human Motion Capture from RGB Images and Retargeting to Virtual Characters** (Haegin Co., 2022.05.01-2023.04.30)
 * **Visible Airflow in AR** (LG Electronics, 2022.05.01-2023.04.30)
 * **Digital Twin-based Air Conditioner Installation and Airflow Simulation in AR** (LG Electronics, 2021.05.01-2022.04.30)
