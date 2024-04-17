@@ -107,5 +107,5 @@ title: People
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* [JaeHyun Lee](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) - Ph.D. Program, University of Wisconsin (Madison, USA) 
-* Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) - 크래프톤
+* [JaeHyun Lee](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
