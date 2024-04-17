@@ -8,8 +8,8 @@ title: People
 
 <hr>
 
-### Research Professor
-* [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+<!-- ### Research Professor
+* [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) -->
 
 ### Research Associates
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -30,10 +30,8 @@ title: People
 * Myoung Gon Kim (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
-* [JaeHyun Lee](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Dongmin Kim (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
@@ -109,3 +107,5 @@ title: People
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [JaeHyun Lee](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) - Ph.D. Program, University of Wisconsin (Madison, USA) 
+* Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) - 크래프톤

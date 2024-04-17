@@ -32,9 +32,9 @@ Always check singular or plural according to the number of people
 * [한정현](/people/jhan) (jhan<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
-
+<!-- 
 ### Research Professor
-* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) -->
 
 ### Research Associates
 * 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -53,10 +53,8 @@ Always check singular or plural according to the number of people
 * 김명곤 (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### M.S. Students
-* [이재현](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
@@ -96,7 +94,7 @@ Always check singular or plural according to the number of people
 * [강형엽](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 경희대학교
 * 김상빈 (sang-bin<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — LINE
 * 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 엔씨소프트
-* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 고려대학교 초지능연구센터
+* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 한국외국어대학교
 
 #### M.S.
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com) — NHN
@@ -132,3 +130,5 @@ Always check singular or plural according to the number of people
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
 * 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 조이시티
+* [이재현](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) - Ph.D. Program, University of Wisconsin (Madison, USA) 
+* 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) - 크래프톤
