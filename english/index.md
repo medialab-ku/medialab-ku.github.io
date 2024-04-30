@@ -18,7 +18,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 * Jaemin Son (with M.S.) starts his career at KRAFTON.
 
 #### 2023.11
-* Our lab's ["Visible Wind"](https://www.youtube.com/watch?v=CEkVu0DV_yg) team received the first prize, the Minister of Trade, Industry and Energy Award, in the Industry-Academic Project Challenge in which 489 teams participated.
+* Our lab's ["Visible Wind"](https://www.youtube.com/watch?v=CEkVu0DV_yg) team received [the first prize, the Minister of Trade, Industry and Energy Award](/awards/2020430.mp4), in the Industry-Academic Project Challenge in which 489 teams participated.
 
 #### 2023.10
 * We receive career mentoring from senior researchers during visiting at NCSOFT.

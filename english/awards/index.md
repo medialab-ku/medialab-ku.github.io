@@ -4,7 +4,7 @@ title: Awards
 ---
 
 
-### 2023 Industry-Academic Project Challenge Minister's award from Ministery of Trade, Industry and Energy (2023.11.21)
+### 2023 Industry-Academic Project Challenge [Minister's award from Ministery of Trade, Industry and Energy](/awards/2020430.mp4)(2023.11.21)
 <br>
 
 <img src="/awards/20231121.png" width="320">
