@@ -4,7 +4,7 @@ layout: home
 
 고려대학교 미디어 연구실의 연구 분야는 다음과 같습니다.
 * Computer Graphics and Vision for Game and Entertainment
-* AR for Industry
+* Augmented Reality for Industrial Applications
 
 우리 연구실에서는 학부 연구생, 석박사과정 대학원생, 단기 인턴, 전임연구원, 연구교수를 상시 모집하고 있습니다.
 관심 있는 분은 jhan@korea.ac.kr로 연락 주시기 바랍니다.

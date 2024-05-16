@@ -18,7 +18,7 @@ title: Research
 
 <br><br>
 
-### AR for Industry
+### Augmented Reality for Industrial Applications
 
 <br>
 

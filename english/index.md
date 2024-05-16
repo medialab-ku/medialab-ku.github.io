@@ -4,7 +4,8 @@ layout: home
 
 Our research interests lie in the following areas:
 * Computer Graphics and Vision for Game and Entertainment
-* AR for Industry
+* Augmented Reality for Industrial Applications
+
 
 We are looking for undergraduate interns, graduate students, full-time interns/researchers and postdocs.
 If you're interested, send email to jhan@korea.ac.kr.
