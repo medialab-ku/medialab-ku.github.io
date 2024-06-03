@@ -12,11 +12,11 @@ Presentation photos, conference related photos, other photos in order
 
 
 			<table class="each">
-				<caption><b>졸업식</b>: 안암  (2024.02.23)</caption>
+				<caption><b>메타버스랩 현판식</b>: 안암  (2024.02.23)</caption>
 				<tbody><tr>
-					<td class="three"><a href="/photos/pictures/2024-graduation/1.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/1.png" alt="2022-sigasia"></a></td>
-					<td class="three"><a href="/photos/pictures/2024-graduation/2.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/2.jpg" alt="2022-sigasia"></a></td>
-					<td class="three"><a href="/photos/pictures/2024-graduation/3.jpg"><img class="photo" src="/photos/thumbnails/2024-graduation/3.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-metaverse_lab/1.jpg"><img class="photo" src="/photos/thumbnails/2024-metaverse_lab/1.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-metaverse_lab/2.JPG"><img class="photo" src="/photos/thumbnails/2024-metaverse_lab/2.JPG" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-metaverse_lab/3.png"><img class="photo" src="/photos/thumbnails/2024-metaverse_lab/3.png" alt="2022-sigasia"></a></td>
 				</tr>
 			</tbody></table>
 
