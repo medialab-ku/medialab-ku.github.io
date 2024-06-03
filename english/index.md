@@ -14,6 +14,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 
+#### 2024.06
+* Media Lab is appointed as the Metaverse Lab by the Ministry of Science and ICT.
+
 #### 2024.03
 * Dr. Seungwook Kim is appointed as an assistant professor at Hankuk University of Foreign Studies (Division of Computer Engineering).
 * Jaemin Son (with M.S.) starts his career at KRAFTON.
