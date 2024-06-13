@@ -15,6 +15,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 ## News
 
 #### 2024.06
+Master's student Kang Hyeonmo won the best paper award at CASA 2024.
+
+#### 2024.05
 * Media Lab is appointed as the Metaverse Lab by the Ministry of Science and ICT.
 
 #### 2024.03
