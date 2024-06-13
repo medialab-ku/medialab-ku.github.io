@@ -11,7 +11,7 @@ title: Publications
 
 ### 2023
 
-* Hong Son Nguyen, Myoung Gon Kim, Changbin Im, Sanghoon Han and JungHyun Han, "ConvNeXtPose: A Fast Accurate Method for 3D Human Pose Estimation and Its AR Fitness Application in Mobile Devices", **EEE Access**  (published in **EEE Access**, Vol. 11, pp. 117393-117402, 2023). [[video]](https://youtu.be/7wZ7EcVKD8c) [[doi]](http://dx.doi.org/10.1109/ACCESS.2023.3326343)
+* Hong Son Nguyen, Myoung Gon Kim, Changbin Im, Sanghoon Han and JungHyun Han, "ConvNeXtPose: A Fast Accurate Method for 3D Human Pose Estimation and Its AR Fitness Application in Mobile Devices", **IEEE Access**  (published in **IEEE Access**, Vol. 11, pp. 117393-117402, 2023). [[video]](https://youtu.be/7wZ7EcVKD8c) [[doi]](http://dx.doi.org/10.1109/ACCESS.2023.3326343)
 
 * Dong-Min Kim, JeongHyeon Ahn, Seung-wook Kim, Jongmin Lee, Myungho Kim and JungHyun Han, "Real-time reconstruction of pipes using RGB-D cameras", **Computer Graphics International (CGI)**, August 28 to September 1, 2023, Shanghai, China (published in **Computer Animation and Virtual Worlds**, Vol. 35, No.1, July 2023, pp. e2197). [[video]](https://www.youtube.com/watch?v=5IimDWdsIHc) [[doi]](https://doi.org/10.1002/cav.2197)
 
