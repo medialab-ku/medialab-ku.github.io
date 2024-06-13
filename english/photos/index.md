@@ -6,7 +6,7 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
-				<caption><b>CASA 2024</b>: Wuhan, China  (2024.06.05~2024.06.07)</caption>
+				<caption><b>CASA 2024</b>: Wuhan, China  (2024.06.05 ~ 2024.06.07)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2024-CASA/1.jpg"><img class="photo" src="/photos/thumbnails/2024-CASA/1.jpg" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2024-CASA/2.jpg"><img class="photo" src="/photos/thumbnails/2024-CASA/2.jpg" alt="2022-sigasia"></a></td>
