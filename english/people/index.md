@@ -14,7 +14,6 @@ title: People
 ### Research Associates
 * JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Sanghoon Han (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 
 ### Visiting Professor
@@ -57,6 +56,7 @@ title: People
 * Antonin Cheymol (antonin.cheymol<sub><i>at </i></sub>universite-paris-saclay<sub><i>dot </i></sub>fr)
 * Donghan Kim (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
+* Sanghoon Han (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 <hr>
 
