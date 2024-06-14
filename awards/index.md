@@ -5,7 +5,7 @@ title: Awards
 
 
 
-### CASA2024 Best Paper Award  (2023.11.21)
+### CASA2024 Best Paper Award  (2024.06.06)
 <br>
 
 <img src="/awards/20240614.png" width="320">
