@@ -4,6 +4,15 @@ title: Awards
 ---
 
 
+### CASA2024 Best Paper Award  (2023.11.21)
+<br>
+
+<img src="/awards/20240614.png" width="320">
+* 강현모
+  * Best Paper Award
+
+<br>
+
 ### 2023 Industry-Academic Project Challenge [Minister's award from Ministery of Trade, Industry and Energy](/awards/20240430.mp4)(2023.11.21)
 <br>
 

@@ -5,6 +5,15 @@ title: Awards
 
 
 
+### CASA2024 Best Paper Award  (2023.11.21)
+<br>
+
+<img src="/awards/20240614.png" width="320">
+* 강현모
+  * Best Paper Award
+
+<br>
+
 ### 2023 산업부 산학프로젝트 챌린지 [산업통상자원부 장관상](/awards/20240430.mp4) (2023.11.21)
 <br>
 
