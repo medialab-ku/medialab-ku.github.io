@@ -12,7 +12,7 @@ Presentation photos, conference related photos, other photos in order
 
 
 			<table class="each">
-				<caption><b>종강 파티</b>: 안암  (2024.06.24)</caption>
+				<caption><b>종강 파티</b>: The table, 안암  (2024.06.24)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2024-semester-end-party/1.jpg"><img class="photo" src="/photos/thumbnails/2024-semester-end-party/1.jpg" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2024-semester-end-party/2.jpg"><img class="photo" src="/photos/thumbnails/2024-semester-end-party/2.jpg" alt="2022-sigasia"></a></td>
