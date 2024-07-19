@@ -130,5 +130,5 @@ Always check singular or plural according to the number of people
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
 * 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 조이시티
-* [이재현](https://www.leejaehyun179.com/) (leejaehyun1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) - Ph.D. Program, University of Wisconsin (Madison, USA) 
+* [이재현](https://www.leejaehyun179.com/) (jaehyun.lee<sub><i>at </i></sub>wisc<sub><i>dot </i></sub>edu) - Ph.D. Program, University of Wisconsin (Madison, USA) 
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) - 크래프톤
