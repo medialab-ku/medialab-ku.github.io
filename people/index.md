@@ -122,7 +122,7 @@ Always check singular or plural according to the number of people
 * 김명곤 (godjilla<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자 and then back to 미디어 연구실
 * 최진우 (aufheben_1<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 삼성전자
 * Paul C. Gloumeau (PCTGloumeau<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Manchester (Manchester, UK)
-* 박승빈 (seungbin201803<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) - Ph.D. Program, Purdue University (West Lafayette, USA)
+* 박승빈 (seungbin201803<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, Purdue University (West Lafayette, USA)
 * 권성수 (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 티맥스
 * 박인범 (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 티맥스
 * [이건선](http://www.cs.umd.edu/~gsunlee/) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Maryland (College Park, USA)
@@ -130,5 +130,5 @@ Always check singular or plural according to the number of people
 * 조준엽 (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 크래프톤
 * 이종민 (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 넥슨
 * 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 조이시티
-* [이재현](https://www.leejaehyun179.com/) (jaehyun.lee<sub><i>at </i></sub>wisc<sub><i>dot </i></sub>edu) - Ph.D. Program, University of Wisconsin (Madison, USA) 
-* 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) - 크래프톤
+* [이재현](https://www.leejaehyun179.com/) (jaehyun.lee<sub><i>at </i></sub>wisc<sub><i>dot </i></sub>edu) — Ph.D. Program, University of Wisconsin (Madison, USA) 
+* 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 크래프톤
