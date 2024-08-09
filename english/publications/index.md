@@ -5,7 +5,7 @@ title: Publications
 
 ### 2024
 
-[comment]: <>(* JeongHyeon Ahn, Jungho Ha, Jaemin Son, JungHyun Han, "Model-Based Segmentation-Supported Camera Tracking in Fab’s Indoor Environments," **IEEE Access**, Vol. 12, pp. 96911-96923, July 2024. [[video]](https://www.youtube.com/watch?v=1mnnYYwBTrE&t=6s) [[doi]](http://dx.doi.org/10.1109/ACCESS.2024.3427378))
+<!--* JeongHyeon Ahn, Jungho Ha, Jaemin Son, JungHyun Han, "Model-Based Segmentation-Supported Camera Tracking in Fab’s Indoor Environments," **IEEE Access**, Vol. 12, pp. 96911-96923, July 2024. [[video]](https://www.youtube.com/watch?v=1mnnYYwBTrE&t=6s) [[doi]](http://dx.doi.org/10.1109/ACCESS.2024.3427378)-->
 
 * Hyunmo Kang and JungHyun Han, “Screen-space Streamline Seeding Method for Visualizing Unsteady Flow in Augmented Reality,” **Computer Animation and Social Agents (CASA)**, June 5-7, 2024, Wuhan, China (**best paper award**, published in **Computer Animation and Virtual Worlds**, Vol. 35, No. 3, May 2024, pp. e2250). [[video]](https://youtu.be/JM8HQCtEPcM) [[doi]](https://doi.org/10.1002/cav.2250)
 
