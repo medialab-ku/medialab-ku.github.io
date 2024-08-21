@@ -6,7 +6,7 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
-				<caption><b>20주년 기념 행사</b>: 신라호텔, 서울  (2024.06.24)</caption>
+				<caption><b>20주년 기념 행사</b>: 신라호텔, 서울  (2024.08.09)</caption>
 				<tbody>
 				<tr>
 					<td class="three"><a href="/photos/pictures/2024-20th-anniversary/1.jpg"><img class="photo" src="/photos/thumbnails/2024-20th-anniversary/1.jpg" alt="2022-sigasia"></a></td>
