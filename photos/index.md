@@ -10,6 +10,20 @@ Presentation photos, conference related photos, other photos in order
 
 <div id="contents">
 
+			<table class="each">
+				<caption><b>20주년 기념 행사</b>: The table, 안암  (2024.06.24)</caption>
+				<tbody>
+				<tr>
+					<td class="three"><a href="/photos/pictures/2024-20th-anniversary/1.jpg"><img class="photo" src="/photos/thumbnails/2024-20th-anniversary/1.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-20th-anniversary/2.jpg"><img class="photo" src="/photos/thumbnails/2024-20th-anniversary/2.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-20th-anniversary/3.jpg"><img class="photo" src="/photos/thumbnails/2024-20th-anniversary/3.jpg" alt="2022-sigasia"></a></td>
+				</tr>
+				<tr>
+					<td class="three"><a href="/photos/pictures/2024-20th-anniversary/4.jpg"><img class="photo" src="/photos/thumbnails/2024-2024-20th-anniversary/4.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-20th-anniversary/5.jpg"><img class="photo" src="/photos/thumbnails/2024-2024-20th-anniversary/5.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-20th-anniversary/6.jpg"><img class="photo" src="/photos/thumbnails/2024-2024-20th-anniversary/6.jpg" alt="2022-sigasia"></a></td>
+				</tr>
+			</tbody></table>
 
 			<table class="each">
 				<caption><b>종강 파티</b>: The table, 안암  (2024.06.24)</caption>
