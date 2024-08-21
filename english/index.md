@@ -14,6 +14,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 
+#### 2024.08
+* A paper is accepted for ACM VRST 2024.
+
 #### 2024.06
 * Master's student Kang Hyeonmo won the best paper award at CASA 2024.
 

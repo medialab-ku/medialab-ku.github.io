@@ -13,6 +13,10 @@ layout: home
 
 ## News
 
+
+#### 2024.08
+* ACM VRST 2024에 한 편의 논문이 채택되었습니다.
+
 #### 2024.06
 * 석사과정 강현모 군이 CASA 2024에서 best paper award를 수상했습니다.
 
