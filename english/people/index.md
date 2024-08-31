@@ -11,13 +11,13 @@ title: People
 <!-- ### Research Professor
 * [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) -->
 
-### Research Associates
-* JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+### Research Associate
 * Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
-### Visiting Professor
-* [Taehyun Rhee](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
+<!-- 
+### Visiting Professor-->
+
 
 
 <hr>
@@ -31,13 +31,9 @@ title: People
 #### M.S. Students
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Dongmin Kim (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
-* Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Taesik Jeong (jts1535<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Heejo Jeong (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Intern
@@ -50,6 +46,7 @@ title: People
 * Ji-Young Park (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JongWook Jin (jwjin92<sub><i>at </i></sub>kaist<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Taehyun Rhee](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
 
 #### Research Associates
 * Jeoung-Kee Lee (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -109,3 +106,7 @@ title: People
 * Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * [JaeHyun Lee](https://www.leejaehyun179.com/) (jaehyun.lee<sub><i>at </i></sub>wisc<sub><i>dot </i></sub>edu)
 * Jaemin Son (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* JooHwan Chae (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
+* Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
