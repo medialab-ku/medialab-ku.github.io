@@ -63,9 +63,16 @@ Always check singular or plural according to the number of people
 * 박서현 (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 황정호
 * 박세현 (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 박승현
+* 박승현 (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 손호재
 * 박건호 (rascal050902<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+
+
+<!-- 
+1.안준성 alumni
+2. 위에 이메일
+3. KIST 이재현씨
+-->
 
 <hr>
 
