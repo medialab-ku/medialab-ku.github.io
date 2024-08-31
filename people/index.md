@@ -61,10 +61,10 @@ Always check singular or plural according to the number of people
 
 #### Undergraduate Intern
 * 박서현 (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 황정호
+* 황정호 (wjdgh9806<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 박세현 (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 박승현 (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 손호재
+* 손호재 (mebam<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 박건호 (rascal050902<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 
@@ -143,5 +143,5 @@ Always check singular or plural according to the number of people
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 크래프톤
 * 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 엘지전자
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Melbourne (Melbourne, Australia)
-* 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai) — 
+* 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai) — 이마고웍스
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 이안
