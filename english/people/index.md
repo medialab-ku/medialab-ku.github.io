@@ -15,10 +15,6 @@ title: People
 * Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
-<!-- 
-### Visiting Professor-->
-
-
 
 <hr>
 
@@ -27,7 +23,7 @@ title: People
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Myoung Gon Kim (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Jaehyeon Lee 
+<!-- * Jaehyeon Lee -->
 
 #### M.S. Students
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
@@ -48,11 +44,15 @@ title: People
 <hr>
 
 ### Former Research Members
+
+#### Visiting Professor
+* [Taehyun Rhee](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
+
 #### Research Professors
 * Ji-Young Park (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JongWook Jin (jwjin92<sub><i>at </i></sub>kaist<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [Taehyun Rhee](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
+
 
 #### Research Associates
 * Jeoung-Kee Lee (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)

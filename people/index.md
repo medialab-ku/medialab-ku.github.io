@@ -40,9 +40,6 @@ Always check singular or plural according to the number of people
 * 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
-<!-- 
-### Visiting Professor-->
-
 <hr>
 
 ### Students
@@ -50,7 +47,7 @@ Always check singular or plural according to the number of people
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 김명곤 (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 이재현
+<!-- * 이재현-->
 
 #### M.S. Students
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
@@ -73,11 +70,14 @@ Always check singular or plural according to the number of people
 <hr>
 
 ### Former Research Members
+
+#### Visiting Professor
+* [이태현](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
+
 #### Research Professors
 * 박지영 (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 진종욱 (jwjin92<sub><i>at </i></sub>kaist<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 조은찬 (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [이태현](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
 
 #### Research Associates
 * 이중기 (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -137,7 +137,7 @@ Always check singular or plural according to the number of people
 * 도재형 (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 조이시티
 * [이재현](https://www.leejaehyun179.com/) (jaehyun.lee<sub><i>at </i></sub>wisc<sub><i>dot </i></sub>edu) — Ph.D. Program, University of Wisconsin (Madison, USA) 
 * 손재민 (jasson31<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) — 크래프톤
-* 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 엘지전자
+* 채주환 (june2373<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — LG전자
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Melbourne (Melbourne, Australia)
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai) — 이마고웍스
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 이안
