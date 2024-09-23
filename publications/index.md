@@ -5,7 +5,7 @@ title: Publications
 
 ### 2024
 
-* Myoung Gon Kim, SeungWon Jeong, Seohyeon Park, JungHyun Han, "Superpixel-guided Sampling for Compact 3D Gaussian Splatting," **ACM VRST**, Octoboer 9-11, 2024, Trier, Germany. 
+* Myoung Gon Kim, SeungWon Jeong, Seohyeon Park, JungHyun Han, "Superpixel-guided Sampling for Compact 3D Gaussian Splatting," **ACM VRST**, Octoboer 9-11, 2024, Trier, Germany.  [[video]](https://www.youtube.com/watch?v=1mnnYYwBTrE&t=6s) [[doi]](https://dl.acm.org/doi/10.1145/3641825.3687719)
 
 * JeongHyeon Ahn, Jungho Ha, Jaemin Son, JungHyun Han, "Model-Based Segmentation-Supported Camera Tracking in Fab’s Indoor Environments," **IEEE Access**, Vol. 12, pp. 96911-96923, July 2024. [[video]](https://www.youtube.com/watch?v=1mnnYYwBTrE&t=6s) [[doi]](http://dx.doi.org/10.1109/ACCESS.2024.3427378)
 
