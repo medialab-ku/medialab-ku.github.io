@@ -13,7 +13,8 @@ title: JungHyun Han
 > Korea University
 
 ---
-## Education
+## Education and Technology (NIST), US Department of Commerce  
+
 Ph.D. Computer Science, University of Southern California (USC), 1996  
 M.Sc. Computer Science, University of Cincinnati, 1991  
 B.Sc. Computer Engineering, Seoul National University, 1988  
@@ -25,10 +26,15 @@ B.Sc. Computer Engineering, Seoul National University, 1988
 2004 ~ present: Associate and Full Professors, Korea University  
 2007 ~ 2009: Project Manager in Digital Content, Korea Ministry of Information and Communication  
 1997 ~ 2004: Assistant and Associate Professors, Sungkyunkwan University  
-1996 ~ 1997: Researcher, Manufacturing Systems Integration Division, National Institute of Standards and Technology (NIST), US Department of Commerce  
-
+1996 ~ 1997: Researcher, Manufacturing Systems Integration Division, National Institute of Standards
 ---
 ## Invited Talks
+
+* 2024.10.08 현대자동차그룹 AR/VR 컨퍼런스 (경기 화성 롤링힐스호텔) "증강현실 기술의 산업계 접목 소개 및 향후 기술 개발 동향"
+* 2024.09.27 Industrial Digital Twin Forum (서울 양재 엘타워) "인공지능x디지털트윈 기술 개발 방향"
+* 2021.09.30 LG전자 (서울) "Augmented Reality and 3D Reconstruction"    
+* 2020.07.07 선도소프트 (서울) "Virtual and Augmented Reality"
+* 2019.04.01 숙명여자대학교 (서울) "Computer Graphics and Mixed Reality"
 * 2017.05.31 숙명여자대학교 (서울) “컴퓨터 그래픽스, 가상현실, 증강현실”
 * 2017.05.29 고려대학교 의료원 미래의료심포지엄 (서울) “증강현실 보조 수술”
 * 2017.05.16 고려대학교 안산병원 제3차 Ansan Research Open Lecture (안산) “Medicine 분야에 이용 가능한 VR/AR”
