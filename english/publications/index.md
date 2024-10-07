@@ -7,9 +7,10 @@ title: Publications
 
 * Hong Son Nguyen, Andrew Chalmers, DaEun Cheong, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "A Simple but Effective AR Framework for Human-Object Interaction," **EuroXR**, November 27-29, 2024, Athens, Greece. 
 
-* Jangyeong Kim, Donggoo Kang, Junyoung Choi, Jeonga Wi, Junho Gwon, Jiun Bae, Dumim Yoon, Junghyun Han, "RoCoTex: A Robust Method for Consistent Texture Synthesis with Diffusion Models," **arXiv preprint**, September, 2024. [[doi]](https://doi.org/10.48550/arXiv.2409.19989)
 
 * Myoung Gon Kim, SeungWon Jeong, Seohyeon Park, JungHyun Han, "Superpixel-guided Sampling for Compact 3D Gaussian Splatting," **ACM VRST**, Octoboer 9-11, 2024, Trier, Germany.  [[video]](https://www.youtube.com/watch?v=1mnnYYwBTrE&t=6s) [[doi]](https://dl.acm.org/doi/10.1145/3641825.3687719)
+
+* Jangyeong Kim, Donggoo Kang, Junyoung Choi, Jeonga Wi, Junho Gwon, Jiun Bae, Dumim Yoon, Junghyun Han, "RoCoTex: A Robust Method for Consistent Texture Synthesis with Diffusion Models," **arXiv preprint**, September, 2024. [[doi]](https://doi.org/10.48550/arXiv.2409.19989)
 
 * JeongHyeon Ahn, Jungho Ha, Jaemin Son, JungHyun Han, "Model-Based Segmentation-Supported Camera Tracking in Fab’s Indoor Environments," **IEEE Access**, Vol. 12, pp. 96911-96923, July 2024. [[video]](https://www.youtube.com/watch?v=1mnnYYwBTrE&t=6s) [[doi]](http://dx.doi.org/10.1109/ACCESS.2024.3427378)
 
