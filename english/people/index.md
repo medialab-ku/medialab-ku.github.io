@@ -40,6 +40,7 @@ title: People
 * Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Hojae Son (mebam<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Geonho Park (rascal050902<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Jonghyuck Park(landshark007<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 <hr>
 
