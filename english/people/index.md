@@ -33,7 +33,7 @@ title: People
 * Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Heejo Jeong (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-#### Undergraduate Intern
+#### Undergraduate Interns
 * Seohyun Park (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jungho Hwang (wjdgh9806<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Sehyeon Park (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)

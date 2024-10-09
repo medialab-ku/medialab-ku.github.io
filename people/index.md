@@ -57,7 +57,7 @@ Always check singular or plural according to the number of people
 * 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 정희조 (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
-#### Undergraduate Intern
+#### Undergraduate Interns
 * 박서현 (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 황정호 (wjdgh9806<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 박세현 (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
