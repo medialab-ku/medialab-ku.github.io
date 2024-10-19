@@ -11,7 +11,7 @@ Presentation photos, conference related photos, other photos in order
 <div id="contents">
 
 			<table class="each">
-				<caption><b>CASA 2024</b>: Trier, Germany  (2024.06.05 ~ 2024.06.07)</caption>
+				<caption><b>CASA 2024</b>: Trier, Germany  (2024.10.09 ~ 2024.10.11)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2024-VRST/1.jpg"><img class="photo" src="/photos/thumbnails/2024-VRST/1.jpg" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2024-VRST/2.jpg"><img class="photo" src="/photos/thumbnails/2024-VRST/2.jpg" alt="2022-sigasia"></a></td>
