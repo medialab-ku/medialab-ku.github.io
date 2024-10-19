@@ -11,6 +11,15 @@ Presentation photos, conference related photos, other photos in order
 <div id="contents">
 
 			<table class="each">
+				<caption><b>CASA 2024</b>: Trier, Germany  (2024.06.05 ~ 2024.06.07)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2024-VRST/1.jpg"><img class="photo" src="/photos/thumbnails/2024-VRST/1.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-VRST/2.jpg"><img class="photo" src="/photos/thumbnails/2024-VRST/2.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-VRST/3.jpg"><img class="photo" src="/photos/thumbnails/2024-VRST/3.jpg" alt="2022-sigasia"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>20주년 기념 행사</b>: 신라호텔, 서울  (2024.08.09)</caption>
 				<tbody>
 				<tr>
