@@ -16,7 +16,7 @@ title: Publications
 
 * Hyunmo Kang and JungHyun Han, “Screen-space Streamline Seeding Method for Visualizing Unsteady Flow in Augmented Reality,” **Computer Animation and Social Agents (CASA)**, June 5-7, 2024, Wuhan, China (**best paper award**, published in **Computer Animation and Virtual Worlds**, Vol. 35, No. 3, May 2024, pp. e2250). [[video]](https://youtu.be/JM8HQCtEPcM) [[doi]](https://doi.org/10.1002/cav.2250)
 
-* Heejo Jeong, Seung-wook Kim, JaeHyun Lee, Kiwon Um, Min Hyung Kee, and JungHyun Han, “Momentum-preserving Inversion Alleviation for Elastic Material Simulation," **Computer Animation and Social Agents (CASA)**, June 5-7, 2024, Wuhan, China (published in **Computer Animation and Virtual Worlds**, Vol. 35, No. 3, May 2024, pp. e2249). [[video]](https://youtu.be/xvWl_QX5cf0) [[doi]](https://doi.org/10.1002/cav.2249)
+* Heejo Jeong, Seung-wook Kim, JaeHyun Lee, Kiwon Um, Min Hyung Kee, and JungHyun Han, “Momentum-preserving Inversion Alleviation for Elastic Material Simulation," **Computer Animation and Social Agents (CASA)**, June 5-7, 2024, Wuhan, China (published in **Computer Animation and Virtual Worlds**, Vol. 35, No. 3, May 2024, pp. e2249). [[video]](https://youtu.be/ht_7iMMiJic) [[doi]](https://doi.org/10.1002/cav.2249)
 
 
 ### 2023
