@@ -60,6 +60,7 @@ Always check singular or plural according to the number of people
 #### Undergraduate Interns
 * 박서현 (seohyun423<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 황정호 (wjdgh9806<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 오현준 (ohjacob0617<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 박세현 (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 박승현 (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 손호재 (mebam<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
