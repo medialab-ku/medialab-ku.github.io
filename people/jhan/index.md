@@ -13,7 +13,7 @@ title: JungHyun Han
 > Korea University
 
 ---
-## Education and Technology (NIST), US Department of Commerce  
+## Education
 
 Ph.D. Computer Science, University of Southern California (USC), 1996  
 M.Sc. Computer Science, University of Cincinnati, 1991  
@@ -26,10 +26,11 @@ B.Sc. Computer Engineering, Seoul National University, 1988
 2004 ~ present: Associate and Full Professors, Korea University  
 2007 ~ 2009: Project Manager in Digital Content, Korea Ministry of Information and Communication  
 1997 ~ 2004: Assistant and Associate Professors, Sungkyunkwan University  
-1996 ~ 1997: Researcher, Manufacturing Systems Integration Division, National Institute of Standards
+1996 ~ 1997: Researcher, Manufacturing Systems Integration Division, National Institute of Standards and Technology (NIST), US Department of Commerce  
+
 ---
 ## Invited Talks
-
+* 2024.11.19 Texas A&M University (USA) “Digital Twin-based Projects in Korea University”
 * 2024.10.08 현대자동차그룹 AR/VR 컨퍼런스 (경기 화성 롤링힐스호텔) "증강현실 기술의 산업계 접목 소개 및 향후 기술 개발 동향"
 * 2024.09.27 Industrial Digital Twin Forum (서울 양재 엘타워) "인공지능x디지털트윈 기술 개발 방향"
 * 2021.09.30 LG전자 (서울) "Augmented Reality and 3D Reconstruction"    
