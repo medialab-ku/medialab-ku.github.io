@@ -10,7 +10,7 @@ TODO 1.md update
 -->
 
 
-* Hong Son Nguyen, Andrew Chalmers, DaEun Cheong, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "A Simple but Effective AR Framework for Human-Object Interaction," **EuroXR**, November 27-29, 2024, Athens, Greece. 
+* Hong Son Nguyen, Andrew Chalmers, DaEun Cheong, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "A Simple but Effective AR Framework for Human-Object Interaction," **EuroXR**, November 27-29, 2024, Athens, Greece. [[doi]](https://doi.org/10.32040/2242-122X.2024.T432)
 
 * Myoung Gon Kim, SeungWon Jeong, Seohyeon Park, JungHyun Han, "Superpixel-guided Sampling for Compact 3D Gaussian Splatting," **ACM VRST**, Octoboer 9-11, 2024, Trier, Germany. [[video]](https://www.youtube.com/watch?v=EHcQtjdHFmg) [[doi]](https://dl.acm.org/doi/10.1145/3641825.3687719)
 
