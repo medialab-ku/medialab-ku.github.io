@@ -38,6 +38,7 @@ title: People
 * Jungho Hwang (wjdgh9806<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Hyun Jun Oh (ohjacob0617<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Donggyu Lee (tony7078<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Sehyeon Park (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Hojae Son (mebam<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
