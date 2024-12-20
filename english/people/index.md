@@ -110,7 +110,7 @@ title: People
 * Seongsu Kwon (tjdtn5683<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Inbum Park (the.nulledge<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * [Geonsun Lee](http://www.cs.umd.edu/~gsunlee/) (goeka329<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* [Kihyun Yu](https://www.linkedin.com/in/kihyun-yu-5232b8148) (robustalgorithm<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Kihyun Yu](https://www.linkedin.com/in/kihyun-yu-5232b8148) (wholesomemoon<sub><i>at </i></sub>icloud<sub><i>dot </i></sub>com)
 * JunYeup Cho (abslon1223<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jongmin Lee (leejm8304<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaehyung Doh (djhdjh<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
