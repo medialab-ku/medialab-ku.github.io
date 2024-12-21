@@ -9,7 +9,16 @@ Presentation photos, conference related photos, other photos in order
 -->
 
 <div id="contents">
-
+			
+			<table class="each">
+				<caption><b>송년회 2024</b>: 신사890, 강남  (2024.12.12)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2024-year-end-party/1.jpg"><img class="photo" src="/photos/thumbnails/2024-year-end-party/1.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-year-end-party/2.jpg"><img class="photo" src="/photos/thumbnails/2024-year-end-party/2.jpg" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-year-end-party/3.jpg"><img class="photo" src="/photos/thumbnails/2024-year-end-party/3.jpg" alt="2022-sigasia"></a></td>
+				</tr>
+			</tbody></table>
+			
 			<table class="each">
 				<caption><b>VRST 2024</b>: Trier, Germany  (2024.10.09 ~ 2024.10.11)</caption>
 				<tbody><tr>
