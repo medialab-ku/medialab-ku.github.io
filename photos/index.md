@@ -7,6 +7,18 @@ title: Photos
 Thumbnail photo size: 400x280
 Presentation photos, conference related photos, other photos in order
 -->
+<style>
+  #contents .photo {
+    max-width: 100%; 
+    height: auto;   
+    display: block;  
+    margin: 0 auto; 
+  }
+
+  #contents td {
+    text-align: center;
+  }
+</style>
 
 <div id="contents">
 			
