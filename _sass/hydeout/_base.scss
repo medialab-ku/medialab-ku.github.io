@@ -100,33 +100,3 @@ button, input[type="submit"] {
   }
 }
 
-#contents .photo {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  border-radius: 0;
-}
-
-.each td {
-  vertical-align: middle; /* 이미지가 테이블 셀 중간에 정렬 */
-}
-
-table img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  border-radius: 0;
-}
-
-// Media Query (모바일 대응)
-@media (max-width: 768px) {
-  #contents .photo {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
