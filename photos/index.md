@@ -23,7 +23,6 @@ Presentation photos, conference related photos, other photos in order
 </style>
 
 
-
 <div id="contents">
 			
 			<table class="each">
