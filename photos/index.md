@@ -8,22 +8,6 @@ Thumbnail photo size: 400x280
 Presentation photos, conference related photos, other photos in order
 -->
 
-<style>
-  /* 모바일 화면에서 적용 */
-  @media (max-width: 768px) {
-    #contents a {
-      display: block !important;
-      width: 100% !important; /* 링크 크기를 화면 너비에 맞춤 */
-    }
-
-    #contents a img {
-      max-width: 100% !important; /* 이미지가 화면을 넘지 않도록 제한 */
-      height: auto !important; /* 비율을 유지하며 크기 조정 */
-      display: block !important;
-      margin: 0 auto !important; /* 중앙 정렬 */
-    }
-  }
-</style>
 
 <div id="contents">
 			
