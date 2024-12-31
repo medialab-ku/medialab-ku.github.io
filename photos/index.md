@@ -5,6 +5,7 @@ title: Photos
 
 <!--
 Thumbnail photo size: 400x280
+img photo size = 1440X***
 Presentation photos, conference related photos, other photos in order
 -->
 
@@ -65,7 +66,7 @@ Presentation photos, conference related photos, other photos in order
 				<caption><b>메타버스랩 현판식</b>: 안암  (2024.05.24)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2024-metaverse_lab/1.jpg"><img class="photo" src="/photos/thumbnails/2024-metaverse_lab/1.jpg" alt="2022-sigasia"></a></td>
-					<td class="three"><a href="/photos/pictures/2024-metaverse_lab/2.JPG"><img class="photo" src="/photos/thumbnails/2024-metaverse_lab/2.JPG" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2024-metaverse_lab/2.JPG"><img class="photo" src="/photos/thumbnails/2024-metaverse_lab/2.jpg" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2024-metaverse_lab/3.png"><img class="photo" src="/photos/thumbnails/2024-metaverse_lab/3.png" alt="2022-sigasia"></a></td>
 				</tr>
 			</tbody></table>
