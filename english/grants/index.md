@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Grants
+title: Grants/Projects
 ---
 
 ### Current
 * **Real-time Airflow Analysis and its Visualization in AR** (LG Electronics, 2024.05.01-2026.04.30)
 * **XR Solutions for Digital Twin-based Inspection Tasks** ([RAPA METAVERSE Lab](https://www.meta-lab.or.kr/), 2024.05.01-2026.12.31)
-* **Digital Twin + AR Visualization** ([KEA](http://www.xrpro.or.kr/), 2021.03.01-2025.02.28)
 * **Digital Twin-based Medical Superintelligence** (IITP [ICT Creative Consilience Program](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Researching Core Technologies and Fostering Talents for Simulated Reality Content** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)
 * **Two-way Interaction between Real Environments and Virtual Objects** (IITP [SW Star Lab](http://swstarlab.kr/page/page02_02.php?c=lab36), 2020.04.01-2027.12.31)
+* **High-Speed Rendering of Large-Scale BIM Data** (Iaan Co., 2025.01.01 - 2025.12.31)
+* **Development of Deep Learning-Based Camera Tracking and Point Cloud Consistency Verification Technology** (Iaan Co., 2024.11.01 - 2025.10.31)
+* **Real-Time Visualization of Data Center Airflow and Temperature** (LG Electronics, 2024.11.01 - 2025.10.31)
 
 ### Past
 * **Metaverse-based Real-time Airflow Analysis and Visualization** (LG Electronics, 2023.05.01-2024.04.30)
