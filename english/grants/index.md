@@ -4,14 +4,14 @@ title: Grants/Projects
 ---
 
 ### Current
+* **High-Speed Rendering of Large-Scale BIM Data** (Iaan Co., 2025.01.01 - 2025.12.31)
+* **Development of Deep Learning-Based Camera Tracking and Point Cloud Consistency Verification Technology** (Iaan Co., 2024.11.01 - 2025.10.31)
+* **Real-Time Visualization of Data Center Airflow and Temperature** (LG Electronics, 2024.11.01 - 2025.10.31)
 * **Real-time Airflow Analysis and its Visualization in AR** (LG Electronics, 2024.05.01-2026.04.30)
 * **XR Solutions for Digital Twin-based Inspection Tasks** ([RAPA METAVERSE Lab](https://www.meta-lab.or.kr/), 2024.05.01-2026.12.31)
 * **Digital Twin-based Medical Superintelligence** (IITP [ICT Creative Consilience Program](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Researching Core Technologies and Fostering Talents for Simulated Reality Content** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)
 * **Two-way Interaction between Real Environments and Virtual Objects** (IITP [SW Star Lab](http://swstarlab.kr/page/page02_02.php?c=lab36), 2020.04.01-2027.12.31)
-* **High-Speed Rendering of Large-Scale BIM Data** (Iaan Co., 2025.01.01 - 2025.12.31)
-* **Development of Deep Learning-Based Camera Tracking and Point Cloud Consistency Verification Technology** (Iaan Co., 2024.11.01 - 2025.10.31)
-* **Real-Time Visualization of Data Center Airflow and Temperature** (LG Electronics, 2024.11.01 - 2025.10.31)
 
 ### Past
 * **Metaverse-based Real-time Airflow Analysis and Visualization** (LG Electronics, 2023.05.01-2024.04.30)
@@ -19,6 +19,7 @@ title: Grants/Projects
 * **Real-time Human Motion Capture from RGB Images and Retargeting to Virtual Characters** (Haegin Co., 2022.05.01-2023.04.30)
 * **Visible Airflow in AR** (LG Electronics, 2022.05.01-2023.04.30)
 * **Digital Twin-based Air Conditioner Installation and Airflow Simulation in AR** (LG Electronics, 2021.05.01-2022.04.30)
+* **Digital Twin + AR Visualization** ([KEA](http://www.xrpro.or.kr/), 2021.03.01-2025.02.28)
 * **Next-gen Physics Simulation = Particle-based Universal Simulation + Deep Learning** ([Samsung Science & Technology Foundation](http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=240&pageIndex=6&searchCondition=all&searchKeyword=&searchResearchProgram=ICT&searchResearchDepth1=&searchResearchDepth2=&searchResearchBelong=&searchResearchSelectYear=&searchResearchState=), 2019.12.01-2022.11.30)
 * **AR-based Layout Inspection for Smart Factory** (Iaan Co., 2018.05.01-2019.01.31)
 * **GLSL Framework for LF** (KETI, 2017.09.08-2017.11.30)
