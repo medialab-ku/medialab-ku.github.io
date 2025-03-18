@@ -9,7 +9,7 @@ title: Grants/Projects
 * **데이터센터 기류 및 온도 실시간 가시화** (LG전자 산학과제, 2024.11.01-2025.10.31)
 * **실시간 기류해석 기반 AR 가시화** (LG전자 산학과제, 2024.05.01-2026.04.30)
 * **디지털 트윈 기반 시공 점검 XR 솔루션 개발** ([RAPA 메타버스랩](https://www.meta-lab.or.kr/), 2024.05.01-2026.12.31)
-* **디지털 트윈 기반 의료 초지능** (IITP [ICT명품인재양성사업](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
+* **디지털 트윈 기반 초지능** (IITP [ICT명품인재양성사업](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Simulated Reality 콘텐츠 구현을 위한 핵심기술 연구 및 인력양성** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)
 * **실제 환경과 가상 물체 간 양방향 상호작용을 지원하는 혼합현실 기술 개발** (IITP [SW스타랩](http://swstarlab.kr/page/page02_02.php?c=lab36), 2020.04.01-2027.12.31)
 
