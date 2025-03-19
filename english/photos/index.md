@@ -6,6 +6,15 @@ title: Photos
 <div id="contents">
 
 			<table class="each">
+				<caption><b>Telecom Paris 방문연구 2024</b>: Télécom Paris, France (2025.01.03 ~ 2025.02.24)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2025-TelecomParis/1.png"><img class="photo" src="/photos/thumbnails/2025-TelecomParis/1.png" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2025-TelecomParis/2.png"><img class="photo" src="/photos/thumbnails/2025-TelecomParis/2.png" alt="2022-sigasia"></a></td>
+					<td class="three"><a href="/photos/pictures/2025-TelecomParis/3.png"><img class="photo" src="/photos/thumbnails/2025-TelecomParis/3.png" alt="2022-sigasia"></a></td>
+				</tr>
+			</tbody></table>
+
+			<table class="each">
 				<caption><b>송년회 2024</b>: 신사890, 강남  (2024.12.12)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2024-year-end-party/1.jpg"><img class="photo" src="/photos/thumbnails/2024-year-end-party/1.jpg" alt="2022-sigasia"></a></td>

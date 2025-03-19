@@ -12,7 +12,7 @@ Presentation photos, conference related photos, other photos in order
 <div id="contents">
 			
 			<table class="each">
-				<caption><b>Telecom Paris 방문연구 2024</b>: Télécom Paris, France  (2024.12.12)</caption>
+				<caption><b>Telecom Paris 방문연구 2024</b>: Télécom Paris, France (2025.01.03 ~ 2025.02.24)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2025-TelecomParis/1.png"><img class="photo" src="/photos/thumbnails/2025-TelecomParis/1.png" alt="2022-sigasia"></a></td>
 					<td class="three"><a href="/photos/pictures/2025-TelecomParis/2.png"><img class="photo" src="/photos/thumbnails/2025-TelecomParis/2.png" alt="2022-sigasia"></a></td>
