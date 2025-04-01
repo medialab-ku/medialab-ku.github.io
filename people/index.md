@@ -58,7 +58,6 @@ Always check singular or plural according to the number of people
 * 오현준 (ohjacob0617<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
-
 #### Undergraduate Interns
 * 김혜미 (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 박건호 (rascal050902<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -66,7 +65,6 @@ Always check singular or plural according to the number of people
 * 박승현 (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 임재혁 (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 이동규 (tony7078<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 황정호 (wjdgh9806<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 
 
