@@ -30,6 +30,8 @@ B.Sc. Computer Engineering, Seoul National University, 1988
 
 ---
 ## Invited Talks
+* 2025.06.17 University of Texas (USA) "Airflow visualization with virtual and physical air conditioners"
+* 2025.04.14 Texas A&M University (USA) "Augmented Reality Applications for Air Conditioner and Construction Industries"
 * 2024.11.19 Texas A&M University (USA) “Digital Twin-based Projects in Korea University”
 * 2024.10.08 현대자동차그룹 AR/VR 컨퍼런스 (경기 화성 롤링힐스호텔) "증강현실 기술의 산업계 접목 소개 및 향후 기술 개발 동향"
 * 2024.09.27 Industrial Digital Twin Forum (서울 양재 엘타워) "인공지능x디지털트윈 기술 개발 방향"
