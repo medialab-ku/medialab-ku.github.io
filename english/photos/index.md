@@ -4,7 +4,15 @@ title: Photos
 ---
 
 <div id="contents">
-
+			<table class="each">
+				<caption><b>KCGS 2025</b>: 델피노 리조트, 속초 (2025.07.08 ~ 2025.07.11)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2025-KCGS/1.png"><img class="photo" src="/photos/thumbnails/2025-KCGS/1.png" alt="2025-KCGS"></a></td>
+					<td class="three"><a href="/photos/pictures/2025-KCGS/2.png"><img class="photo" src="/photos/thumbnails/2025-KCGS/2.png" alt="2025-KCGS"></a></td>
+					<td class="three"><a href="/photos/pictures/2025-KCGS/3.png"><img class="photo" src="/photos/thumbnails/2025-KCGS/3.png" alt="2025-KCGS"></a></td>
+				</tr>
+			</tbody></table>
+	
 			<table class="each">
 				<caption><b>Telecom Paris 방문연구</b>: Télécom Paris, France (2025.01.03 ~ 2025.02.24)</caption>
 				<tbody><tr>
