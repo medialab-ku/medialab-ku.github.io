@@ -32,15 +32,15 @@ Always check singular or plural according to the number of people
 * [한정현](/people/jhan) (jhan<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
-<!-- 
+
 ### Research Professor
-* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) -->
+* 박한길 (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
 
 ### Research Associates
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 정희조 (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 임재혁 (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
 
 <hr>
 
@@ -51,21 +51,19 @@ Always check singular or plural according to the number of people
 * [김명곤](https://m-gon-kim.github.io/) (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이재현 (jaehyeonlee<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S. Students
 * 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 정희조 (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 오현준 (ohjacob0617<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김혜미 (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 박세현 (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 박승현 (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 이동규 (tony7078<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 
 #### Undergraduate Interns
-* 김혜미 (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* 박건호 (rascal050902<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 박세현 (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 박승현 (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 임재혁 (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 이동규 (tony7078<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-
+* 류승목 (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 안진형 (ajinn720<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
 <hr>
@@ -86,6 +84,7 @@ Always check singular or plural according to the number of people
 * 김동한 (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * 한상훈 (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
