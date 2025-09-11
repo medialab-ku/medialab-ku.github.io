@@ -63,7 +63,7 @@ Always check singular or plural according to the number of people
 
 #### Undergraduate Interns
 * 류승목 (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 안진형 (ajinn720<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 안진형 (ajhh98<sub><i>at </i></sub>yonsei<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 
 <hr>
