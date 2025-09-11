@@ -33,7 +33,7 @@ title: People
 * Hyemi Kim (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Sehyun Park (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Donggyu Lee (tony7078<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Donggyu Lee (tony7078<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 #### Undergraduate Interns
 * Seungmok Ryu (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
