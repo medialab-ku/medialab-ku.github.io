@@ -8,14 +8,14 @@ title: People
 
 <hr>
 
-<!-- ### Research Professor
-* [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) -->
+### Research Professor
+* Hangil Park (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
 
 ### Research Associates
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* Dongmin Kim(kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Heejo Jeong (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -26,19 +26,18 @@ title: People
 * [Myoung Gon Kim](https://m-gon-kim.github.io/) (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jaehyeon Lee (jaehyeonlee<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Dong-min Kim(kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S. Students
 * Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Heejo Jeong (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Hyun Jun Oh (ohjacob0617<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Hyemi Kim (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Sehyun Park (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Donggyu Lee (tony7078<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* Hyemi Kim (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
-* Geonho Park (rascal050902<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Sehyeon Park (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Donggyu Lee (tony7078<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Seungmok Ryu (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jinhyung Ahn (ajinn720<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -59,6 +58,7 @@ title: People
 * Donghan Kim (donghan.kim<sub><i>at </i></sub>columbia<sub><i>dot </i></sub>edu)
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * Sanghoon Han (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
+* Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
