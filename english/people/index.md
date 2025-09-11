@@ -37,7 +37,7 @@ title: People
 
 #### Undergraduate Interns
 * Seungmok Ryu (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Jinhyung Ahn (ajinn720<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jinhyung Ahn (ajhh98<sub><i>at </i></sub>yonsei<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
