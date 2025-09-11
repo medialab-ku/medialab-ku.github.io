@@ -18,7 +18,7 @@ title: People
 * Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
-
+ 
 ### Students
 #### Ph.D. Students
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
