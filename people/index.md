@@ -39,7 +39,7 @@ Always check singular or plural according to the number of people
 ### Research Associates
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 정희조 (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [정희조](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 임재혁 (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
 
 <hr>

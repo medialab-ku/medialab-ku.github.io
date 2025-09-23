@@ -14,7 +14,7 @@ title: People
 ### Research Associates
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Heejo Jeong (jhj1629343<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [Heejo Jeong](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
