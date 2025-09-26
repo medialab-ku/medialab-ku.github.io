@@ -12,7 +12,7 @@ TODO 1.md update
 
 * HuiSeong Lee, Myoung Gon Kim, Hyemi Kim, JungHyun Han, "Visualizing Simulated Airflow and Thermal Comfort in Extended Reality", **ACM VRST**, November 12-14, 2025, Montreal, Canada (poster).
 
-* Hyunmo Kang, Joohwan Chae, MyoungGon Kim, Junghyun Han, "A user study on air conditioner’s airflow visualization in mobile AR", Journal of Visualization, Vol. 28, No.5, August 2025, pp.975-985. [[doi]]https://doi.org/10.1007/s12650-025-01078-1
+* Hyunmo Kang, Joohwan Chae, MyoungGon Kim, Junghyun Han, "A user study on air conditioner’s airflow visualization in mobile AR", Journal of Visualization, Vol. 28, No.5, August 2025, pp.975-985. [[doi]](https://doi.org/10.1007/s12650-025-01078-1)
 
 * Hong Son Nguyen, DaEun Cheong, Andrew Chalmers, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "Full-Body Interaction in Mixed Reality using 3D Pose and Shape Estimation", **Computer Animation and Social Agents (CASA)**, June 2-4, 2025, Strasbourg, France. [[doi]](https://doi.org/10.1002/cav.70046)
 
