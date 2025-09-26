@@ -11,7 +11,7 @@ TODO 1.md update
 -->
 
 
-* HuiSeong Lee, Myoung Gon Kim, Hyemi Kim, "Visualizing Simulated Airflow and Thermal Comfort in Extended Reality", **ACM VRST**, November 12-14, 2025, Montreal, Canada (poster).
+* HuiSeong Lee, Myoung Gon Kim, Hyemi Kim, JungHyun Han, "Visualizing Simulated Airflow and Thermal Comfort in Extended Reality", **ACM VRST**, November 12-14, 2025, Montreal, Canada (poster).
 
 * Hong Son Nguyen, DaEun Cheong, Andrew Chalmers, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "Full-Body Interaction in Mixed Reality using 3D Pose and Shape Estimation", **Computer Animation and Social Agents (CASA)**, June 2-4, 2025, Strasbourg, France. [[doi]](https://doi.org/10.1002/cav.70046)
 
