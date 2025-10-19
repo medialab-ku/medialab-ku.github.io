@@ -99,7 +99,7 @@ Always check singular or plural according to the number of people
 * [강형엽](https://iiixr.korea.ac.kr/home) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 고려대학교 컴퓨터학과
 * 김상빈 (sang-bin<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — LINE
 * 조성익 (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 엔씨소프트
-* [김승욱](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 한국외국어대학교 컴퓨터공학과
+* [김승욱](https://rtg.hufs.ac.kr/) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) — 한국외국어대학교 컴퓨터공학과
 
 #### M.S.
 * 강인구 (kangin9<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com) — NHN
