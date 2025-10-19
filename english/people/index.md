@@ -70,7 +70,7 @@ title: People
 * [Kiwon Um](https://perso.telecom-paristech.fr/kum/) (um.kiwon<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * YoungBeom Kim (talesoff<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Seungho Baek (bshsqa<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* [HyeongYeop Kang](https://siamiz88.github.io) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [HyeongYeop Kang](https://www.korea.ac.kr/sites/ko/index.do) (siamiz88<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Sang-bin Kim (sang-bin<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * SungIk Cho (irunarae<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * [Seung-wook Kim](https://www.linkedin.com/in/seung-wook-kim-b332901a5) (wook0249<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
