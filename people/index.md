@@ -21,7 +21,7 @@ Nguyen
 정희조
 정태식
 정다은
-이동균
+이동규
 -->
 
 <!--
@@ -64,7 +64,7 @@ Always check singular or plural according to the number of people
 #### Undergraduate Interns
 * 류승목 (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 안진형 (ajhh98<sub><i>at </i></sub>yonsei<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-
+* 김창진 (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
