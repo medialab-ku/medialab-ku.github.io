@@ -14,7 +14,7 @@ TODO 1.md update
 
 * Hyunmo Kang, Joohwan Chae, MyoungGon Kim, Junghyun Han, "A user study on air conditioner’s airflow visualization in mobile AR", **Journal of Visualization**, Vol. 28, No.5, August 2025, pp.975-985. [[doi]](https://doi.org/10.1007/s12650-025-01078-1)
 
-* Hong Son Nguyen, DaEun Cheong, Andrew Chalmers, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "Interaction With Virtual Objects Using Human Pose and Shape Estimation", **Computer Animation and Social Agents (CASA)**, June 2-4, 2025, Strasbourg, France. [[doi]](https://doi.org/10.1002/cav.70046)
+* Hong Son Nguyen, DaEun Cheong, Andrew Chalmers, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "Interaction With Virtual Objects Using Human Pose and Shape Estimation", **Computer Animation and Social Agents (CASA)**, June 2-4, 2025, Strasbourg, France (published in **Computer Animation and Virtual Worlds**, Vol. 36, No. 3, May 2025, pp. e70046). [[doi]](https://doi.org/10.1002/cav.70046)
 
 * Hong Son Nguyen, Andrew Chalmers, DaEun Cheong, Myoung Gon Kim, Taehyun Rhee, JungHyun Han, "Full-Body Interaction in Mixed Reality using 3D Pose and Shape Estimation", **IEEE VR**, March 8-12, 2025, Saint-Malo, France (poster). [[doi]](https://doi.org/10.1109/VRW66409.2025.00299)
 
