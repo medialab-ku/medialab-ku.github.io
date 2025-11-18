@@ -14,6 +14,10 @@ If you're interested, send email to jhan@korea.ac.kr.
 
 ## News
 
+
+#### 2025.11
+* A paper is accepted for WACV 2026.
+
 #### 2025.03
 * Dongwook Ha has been appointed CTO of Pearl Abyss, the developer of Black Desert.
 
