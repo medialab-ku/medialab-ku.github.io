@@ -71,7 +71,7 @@ Always check singular or plural according to the number of people
 ### Former Research Members
 
 #### Visiting Professor
-* [이태현](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
+* [이태현](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>unimelb<sub><i>dot </i></sub>edu<sub><i>dot </i></sub>au)
 
 #### Research Professors
 * 박지영 (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
