@@ -45,7 +45,7 @@ title: People
 ### Former Research Members
 
 #### Visiting Professor
-* [Taehyun Rhee](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>vuw<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>nz)
+* [Taehyun Rhee](https://www.linkedin.com/in/taehyun-james-tj-rhee/) (taehyun<sub><i>dot </i></sub>rhee<sub><i>at </i></sub>unimelb<sub><i>dot </i></sub>edu<sub><i>dot </i></sub>au)
 
 #### Research Professors
 * Ji-Young Park (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
