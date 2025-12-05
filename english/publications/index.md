@@ -13,7 +13,7 @@ TODO 1.md update
 
 * Seung-wook Kim, HuiSeong Lee, JaeHyun Lee, Kiwon Um, JungHyun Han, "Dimension Expansion for Untangling Mass-Spring System", **Computer Animation and Virtual Worlds**, Vol. 36, No. 6, November 2025, pp. e70079. [[doi]](http://dx.doi.org/10.1002/cav.70079)
 
-* HuiSeong Lee, Myoung Gon Kim, Hyemi Kim, JungHyun Han, "Visualizing Simulated Airflow and Thermal Comfort in Extended Reality", **ACM VRST**, November 12-14, 2025, Montreal, Canada (poster).
+* HuiSeong Lee, Myoung Gon Kim, Hyemi Kim, JungHyun Han, "Visualizing Simulated Airflow and Thermal Comfort in Extended Reality", **ACM VRST**, November 12-14, 2025, Montreal, Canada (poster). [[doi]](https://doi.org/10.1145/3756884.3772055)
 
 * Hyunmo Kang, Joohwan Chae, MyoungGon Kim, Junghyun Han, "A user study on air conditioner’s airflow visualization in mobile AR", **Journal of Visualization**, Vol. 28, No.5, August 2025, pp.975-985. [[doi]](https://doi.org/10.1007/s12650-025-01078-1)
 
