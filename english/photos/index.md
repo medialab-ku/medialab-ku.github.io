@@ -4,6 +4,16 @@ title: Photos
 ---
 
 <div id="contents">
+	
+			<table class="each">
+				<caption><b>송년회 2025</b>: 녘, 강남 (2025.12.04)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2025-year-and-party/2.jpg"><img class="photo" src="/photos/thumbnails/2025-year-and-party/sum_2.png" alt="2025-year-and-party"></a></td>
+					<td class="three"><a href="/photos/pictures/2025-year-and-party/6.jpg"><img class="photo" src="/photos/thumbnails/2025-year-and-party/sum_6.png" alt="2025-year-and-party"></a></td>
+					<td class="three"><a href="/photos/pictures/2025-year-and-party/7.jpg"><img class="photo" src="/photos/thumbnails/2025-year-and-party/sum_7.png" alt="2025-year-and-party"></a></td>
+				</tr>
+			</tbody></table>
+	
 			<table class="each">
 				<caption><b>KCGS 2025</b>: 델피노 리조트, 속초 (2025.07.08 ~ 2025.07.11)</caption>
 				<tbody><tr>
