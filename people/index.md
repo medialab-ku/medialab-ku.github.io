@@ -39,8 +39,7 @@ Always check singular or plural according to the number of people
 ### Research Associates
 * 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* [정희조](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 임재혁 (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
+
 
 <hr>
 
@@ -54,17 +53,18 @@ Always check singular or plural according to the number of people
 * 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S. Students
-* 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김혜미 (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 박세현 (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 박승현 (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이동규 (tony7078<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* 임재혁 (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
+* 류승목 (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김창진 (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
 #### Undergraduate Interns
-* 류승목 (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* 안진형 (ajhh98<sub><i>at </i></sub>yonsei<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 김창진 (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 최준기 (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김제현 (yisl.dev<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -85,7 +85,8 @@ Always check singular or plural according to the number of people
 * 이승직 (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * 한상훈 (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 임창빈 (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-
+* 안진형 (ajhh98<sub><i>at </i></sub>yonsei<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+  
 <hr>
 
 ### Alumni
@@ -141,3 +142,5 @@ Always check singular or plural according to the number of people
 * 정승원 (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Melbourne (Melbourne, Australia)
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai) — 이마고웍스
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 이안
+* [정희조](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
