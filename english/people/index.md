@@ -14,8 +14,6 @@ title: People
 ### Research Associates
 * Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* [Heejo Jeong](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
  
@@ -29,16 +27,17 @@ title: People
 * Dong-min Kim(kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### M.S. Students
-* Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Hyemi Kim (hams2401<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Sehyun Park (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Donggyu Lee (tony7078<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Seungmok Ryu (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Changjin Kim (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* Seungmok Ryu (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Jinhyung Ahn (ajhh98<sub><i>at </i></sub>yonsei<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Changjin Kim (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jungi Choi (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jaehyun Kim (yisl.dev<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -60,6 +59,7 @@ title: People
 * Seungjik Lee (homepi12<sub><i>at </i></sub>paran<sub><i>dot </i></sub>com)
 * Sanghoon Han (tkdgns0917<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Changbin Im (changbinpersona<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jinhyung Ahn (ajhh98<sub><i>at </i></sub>yonsei<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
@@ -116,3 +116,5 @@ title: People
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* [Heejo Jeong](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
