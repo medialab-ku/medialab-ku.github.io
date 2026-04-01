@@ -12,8 +12,8 @@ title: People
 * Hangil Park (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
 
 ### Research Associates
-* Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
  
@@ -116,5 +116,5 @@ title: People
 * SeungWon Jeong (wjdtmd0105<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Junseong Ahn (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai)
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Hyunmo Kang (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * [Heejo Jeong](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
