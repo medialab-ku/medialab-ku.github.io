@@ -5,7 +5,7 @@ title: Publications
 
 ### 2026
 
-* MyoungGon Kim, JeongHyeon Ahn, Seohyeon Park, Hyemi Kim, Seunghyun Park, Jung Ho Hwang, JungHyun Han, "EllipssianNet: Image-guided Sampling of 2D Gaussians for Gaussian Splatting", **Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision**, March 6-10, 2026, pp. 2104-2113.
+* MyoungGon Kim, JeongHyeon Ahn, Seohyeon Park, Hyemi Kim, Seunghyun Park, Jung Ho Hwang, JungHyun Han, "EllipssianNet: Image-guided Sampling of 2D Gaussians for Gaussian Splatting", **Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, March 6-10, 2026, pp. 2104-2113.
 
 
 
