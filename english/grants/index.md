@@ -4,8 +4,8 @@ title: Grants/Projects
 ---
 
 ### Current
-* **BIM Streaming-based Remote Rendering** (Iaan Co., 2025.01.01 - 2025.12.31)
-* **Deep Learning-based Edge Registration Maintenance and Extended Tracking Technologies** (Iaan Co., 2024.11.01 - 2025.10.31)
+* **BIM Streaming-based Remote Rendering** (Iaan Co., 2026.01.01 - 2027.03.31)
+* **Deep Learning-based Edge Registration Maintenance and Extended Tracking Technologies** (Iaan Co., 2025.12.01 - 2027.03.31)
 * **XR Solutions for Digital Twin-based Inspection Tasks** ([RAPA METAVERSE Lab](https://www.meta-lab.or.kr/), 2024.05.01-2026.12.31)
 * **Digital Twin-based Superintelligence** (IITP [ICT Creative Consilience Program](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Researching Core Technologies and Fostering Talents for Simulated Reality Content** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)
