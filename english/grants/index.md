@@ -4,15 +4,17 @@ title: Grants/Projects
 ---
 
 ### Current
-* **High-speed Rendering of Large-scale BIM Data** (Iaan Co., 2025.01.01 - 2025.12.31)
-* **Deep Learning-based Camera Tracking and Point Cloud Consistency Verification** (Iaan Co., 2024.11.01 - 2025.10.31)
-* **Real-time Visualization of Data Center's Airflow and Temperature** (LG Electronics, 2024.11.01 - 2025.10.31)
+* **BIM Streaming-based Remote Rendering** (Iaan Co., 2025.01.01 - 2025.12.31)
+* **Deep Learning-based Edge Registration Maintenance and Extended Tracking Technologies** (Iaan Co., 2024.11.01 - 2025.10.31)
 * **XR Solutions for Digital Twin-based Inspection Tasks** ([RAPA METAVERSE Lab](https://www.meta-lab.or.kr/), 2024.05.01-2026.12.31)
 * **Digital Twin-based Superintelligence** (IITP [ICT Creative Consilience Program](https://mpij.korea.ac.kr/mpij/intro/greeting.do), 2020.07.01-2029.12.31)
 * **Researching Core Technologies and Fostering Talents for Simulated Reality Content** (IITP [ITRC](http://itrc.ewha.ac.kr/), 2020.07.01-2027.12.31)
 * **Two-way Interaction between Real Environments and Virtual Objects** (IITP [SW Star Lab](http://swstarlab.kr/page/page02_02.php?c=lab36), 2020.04.01-2027.12.31)
 
 ### Past
+* **High-speed Rendering of Large-scale BIM Data** (Iaan Co., 2025.01.01 - 2025.12.31)
+* **Deep Learning-based Camera Tracking and Point Cloud Consistency Verification** (Iaan Co., 2024.11.01 - 2025.10.31)
+* **Real-time Visualization of Data Center's Airflow and Temperature** (LG Electronics, 2024.11.01 - 2025.10.31)
 * **Real-time Airflow Analysis and its Visualization in AR** (LG Electronics, 2024.05.01-2025.04.30)
 * **Metaverse-based Real-time Airflow Analysis and Visualization** (LG Electronics, 2023.05.01-2024.04.30)
 * **Digital Twin-based Camera Tracking and AI/AR techniques for Pipe Reconstruction** (Iaan Co., 2023.01.01-2023.10.31)
