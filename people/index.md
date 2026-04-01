@@ -37,7 +37,6 @@ Always check singular or plural according to the number of people
 * 박한길 (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
 
 ### Research Associates
-* 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com)
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 
@@ -143,4 +142,5 @@ Always check singular or plural according to the number of people
 * 안준성 (junseong<sub><i>at </i></sub>imagoworks<sub><i>dot </i></sub>ai) — 이마고웍스
 * Hong Son Nguyen (nguyenhongson303<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — 이안
 * [정희조](https://heejojeong.github.io/) (wjdgmlwh1629343<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) — Ph.D. Program, University of Melbourne (Melbourne, Australia)
+* 강현모 (hyunmokang<sub><i>at </i></sub>naver<sub><i>dot </i></sub>com) - 대한민국 육군
 * 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
