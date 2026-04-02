@@ -10,7 +10,15 @@ Presentation photos, conference related photos, other photos in order
 -->
 
 <div id="contents">
-
+			<table class="each">
+				<caption><b>WACV 2026</b>: Tucson, USA (2026.03.06 ~ 2026.03.10)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2026-WACV/5.jpg"><img class="photo" src="/photos/thumbnails/2026-WACV/sum_5.png" alt="2026-WACV"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-WACV/7.jpg"><img class="photo" src="/photos/thumbnails/2026-WACV/sum_7.png" alt="2026-WACV"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-WACV/1.jpg"><img class="photo" src="/photos/thumbnails/2026-WACV/sum_1.png" alt="2026-WACV"></a></td>
+				</tr>
+			</tbody></table>
+			
 			<table class="each">
 				<caption><b>송년회 2025</b>: 녘, 강남 (2025.12.04)</caption>
 				<tbody><tr>
