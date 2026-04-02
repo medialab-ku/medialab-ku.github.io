@@ -36,7 +36,7 @@ title: People
 * Changjin Kim (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
-* Jungi Choi (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Joongi Choi (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaehyun Kim (yisl.dev<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
