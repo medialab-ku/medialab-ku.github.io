@@ -31,13 +31,13 @@ title: People
 * Sehyun Park (rhth52<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Donggyu Lee (tony7078<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Jaehyuk Lim (huni1260<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jaehyuk Lim (imhyuk98<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Seungmok Ryu (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Changjin Kim (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Undergraduate Interns
 * Joongi Choi (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-* Jehyeon Kim (yisl.dev<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jehyeon Kim (charmyisl<sub><i>at </i></sub>icloud<sub><i>dot </i></sub>com)
 
 <hr>
 
