@@ -13,9 +13,9 @@ Presentation photos, conference related photos, other photos in order
 			<table class="each">
 				<caption><b>CASA 2026</b>: Geneva, Switzerland (2026.06.01 ~ 2026.06.03)</caption>
 				<tbody><tr>
-					<td class="three"><a href="/photos/pictures/2026-CASA/2.png"><img class="photo" src="/photos/thumbnails/2026-CASA/2.png" alt="2026-CASA"></a></td>
-					<td class="three"><a href="/photos/pictures/2026-CASA/4.png"><img class="photo" src="/photos/thumbnails/2026-CASA/4.png" alt="2026-CASA"></a></td>
-					<td class="three"><a href="/photos/pictures/2026-CASA/6.png"><img class="photo" src="/photos/thumbnails/2026-CASA/6.png" alt="2026-CASA"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-CASA/2.png"><img class="photo" src="/photos/thumbnails/2026-CASA/2_sum.png" alt="2026-CASA"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-CASA/4.png"><img class="photo" src="/photos/thumbnails/2026-CASA/4_sum.png" alt="2026-CASA"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-CASA/6.png"><img class="photo" src="/photos/thumbnails/2026-CASA/6_sum.png" alt="2026-CASA"></a></td>
 				</tr>
 			</tbody></table>
 	
