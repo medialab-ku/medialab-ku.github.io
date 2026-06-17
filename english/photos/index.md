@@ -5,6 +5,15 @@ title: Photos
 
 <div id="contents">
 			<table class="each">
+				<caption><b>CASA 2026</b>: Geneva, Switzerland (2026.06.01 ~ 2026.06.03)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2026-CASA/2.png"><img class="photo" src="/photos/thumbnails/2026-CASA/2_sum.png" alt="2026-CASA"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-CASA/4.png"><img class="photo" src="/photos/thumbnails/2026-CASA/4_sum.png" alt="2026-CASA"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-CASA/6.png"><img class="photo" src="/photos/thumbnails/2026-CASA/6_sum.png" alt="2026-CASA"></a></td>
+				</tr>
+			</tbody></table>
+	
+			<table class="each">
 				<caption><b>WACV 2026</b>: Tucson, USA (2026.03.06 ~ 2026.03.10)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2026-WACV/5.jpg"><img class="photo" src="/photos/thumbnails/2026-WACV/5.png" alt="2026-WACV"></a></td>
