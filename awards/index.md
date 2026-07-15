@@ -4,6 +4,13 @@ title: Awards
 ---
 
 
+### 서울미래인재재단 AI서울테크연구지원사업 장학금 수여식 (2026.06.19)
+<br>
+
+<img src="/awards/20260619.png" width="320">
+* 김혜미
+  * 국내 장학생 선발
+
 
 ### CASA2024 Best Paper Award  (2024.06.06)
 <br>
