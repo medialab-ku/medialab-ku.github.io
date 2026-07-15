@@ -15,6 +15,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 ## News
 
 
+#### 2026.06
+* Master's student Hyemi Kim has been selected as a scholarship recipient for the AI Seoul Tech Research Support Program by the Seoul Future Talent Foundation.
+
 #### 2025.11
 * A paper is accepted for WACV 2026.
 
