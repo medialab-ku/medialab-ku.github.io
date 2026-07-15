@@ -3,12 +3,21 @@ layout: post
 title: Awards
 ---
 
+### Seoul Future Talent Foundation AI Seoul Tech Research Support Program Scholarship Award Ceremony (2026.06.19)
+<br>
+
+<img src="/awards/20260619.jpg" width="320">
+* Hyemi Kim
+  * The selection of domestic scholorship students
+
+<br>
+
 
 ### CASA2024 Best Paper Award  (2024.06.06)
 <br>
 
 <img src="/awards/20240614.png" width="320">
-* 강현모
+* Hyunmo Kang
   * Best Paper Award
 
 <br>
