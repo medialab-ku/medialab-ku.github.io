@@ -5,6 +5,15 @@ title: Photos
 
 <div id="contents">
 			<table class="each">
+				<caption><b>AI서울테크연구지원사업 장학금 수여식 2026</b>: Seoul, Korea (2026.06.19)</caption>
+				<tbody><tr>
+					<td class="three"><a href="/photos/pictures/2026-AIMONEY/1.jpg"><img class="photo" src="/photos/thumbnails/2026-AIMONEY/1_thum.png" alt="2026-AIMONEY"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-AIMONEY/2.jpg"><img class="photo" src="/photos/thumbnails/2026-AIMONEY/2_thum.png" alt="2026-AIMONEY"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-AIMONEY/3.jpg"><img class="photo" src="/photos/thumbnails/2026-AIMONEY/3_thum.png" alt="2026-AIMONEY"></a></td>
+				</tr>
+			</tbody></table>
+	
+			<table class="each">
 				<caption><b>CASA 2026</b>: Geneva, Switzerland (2026.06.01 ~ 2026.06.03)</caption>
 				<tbody><tr>
 					<td class="three"><a href="/photos/pictures/2026-CASA/2.png"><img class="photo" src="/photos/thumbnails/2026-CASA/2_sum.png" alt="2026-CASA"></a></td>
