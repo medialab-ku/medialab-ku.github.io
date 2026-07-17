@@ -13,9 +13,9 @@ Presentation photos, conference related photos, other photos in order
 			<table class="each">
 				<caption><b>KCGS 2026</b>: 디오션 리조트, 여수 (2026.06.30 ~ 2026.07.03)</caption>
 				<tbody><tr>
-					<td class="three"><a href="/photos/pictures/2026-KCGS/1.jpg"><img class="photo" src="/photos/thumbnails/2026-KCGS/1_thum.png" alt="2026-KCGS"></a></td>
-					<td class="three"><a href="/photos/pictures/2026-KCGS/3.jpg"><img class="photo" src="/photos/thumbnails/2026-KCGS/3_thum.png" alt="2026-KCGS"></a></td>
-					<td class="three"><a href="/photos/pictures/2026-KCGS/2.jpg"><img class="photo" src="/photos/thumbnails/2026-KCGS/2_thum.png" alt="2026-KCGS"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-KCGS/1.jpg"><img class="photo" src="/photos/thumbnails/2026-KCGS/1_sum.png" alt="2026-KCGS"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-KCGS/3.jpg"><img class="photo" src="/photos/thumbnails/2026-KCGS/3_sum.png" alt="2026-KCGS"></a></td>
+					<td class="three"><a href="/photos/pictures/2026-KCGS/2.jpg"><img class="photo" src="/photos/thumbnails/2026-KCGS/2_sum.png" alt="2026-KCGS"></a></td>
 				</tr>
 			</tbody></table>
 	
