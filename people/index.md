@@ -60,10 +60,10 @@ Always check singular or plural according to the number of people
 * 임재혁 (imhyuk98<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr) 
 * 류승목 (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김창진 (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 최준기 (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
 #### Undergraduate Interns
-* 최준기 (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김제현 (charmyisl<sub><i>at </i></sub>icloud<sub><i>dot </i></sub>com)
 
 <hr>
