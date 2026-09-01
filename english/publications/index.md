@@ -5,7 +5,7 @@ title: Publications
 
 ### 2026
 
-* Min Hyung Kee, Jinhyung Ahn, Sehyun Park, Kiwon Um, JungHyun Han, "Implicit velocity projection method for incompressible SPH fluids", **SIGGRAPH ASIA**, December 1-4, 2026, Kuala Lumpur, Malaysia.
+* Min Hyung Kee, Jinhyung Ahn, Sehyun Park, Kiwon Um, JungHyun Han, "Implicit Velocity Projection Method for Incompressible SPH Fluids", **SIGGRAPH ASIA**, December 1-4, 2026, Kuala Lumpur, Malaysia.
 
 * Jaehyuk Lim, Donggyu Lee, JungHyun Han, Seung-wook Kim, "Parameter-Preserving Real-time BIM Rendering via Direct GPU Ray Tracing", **Computer Animation, Social Agents, and Extended Reality (CASAXR)**, June 1-3, 2026, Geneva, Switzerland (published in **Computer Animation and Virtual Worlds**, Vol. 37, No. 4, July 2026, pp. e70159). [[doi]](https://doi.org/10.1002/cav.70159)
  
