@@ -36,7 +36,7 @@ Always check singular or plural according to the number of people
 ### Research Professors
 * [김명곤](https://m-gon-kim.github.io/) (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-
+ 
 
 ### Research Associates
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
