@@ -34,7 +34,8 @@ Always check singular or plural according to the number of people
 <hr>
 
 ### Research Professor
-* 박한길 (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
+* 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [김명곤](https://m-gon-kim.github.io/) (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associates
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -46,8 +47,6 @@ Always check singular or plural according to the number of people
 ### Students
 #### Ph.D. Students
 * 안정현 (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* 기민형 (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* [김명곤](https://m-gon-kim.github.io/) (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이재현 (jaehyeonlee<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 이희성 (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 김동민 (kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -61,10 +60,14 @@ Always check singular or plural according to the number of people
 * 류승목 (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김창진 (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 최준기 (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김제현 (charmyisl<sub><i>at </i></sub>icloud<sub><i>dot </i></sub>com)
+* 박지윤 (jiyoonpark.dev<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
 #### Undergraduate Interns
-* 김제현 (charmyisl<sub><i>at </i></sub>icloud<sub><i>dot </i></sub>com)
+* 이한결 (hglee1877<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 김재겸 (jaegyumk<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 최승현 (cshyun1031<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
 
@@ -77,6 +80,7 @@ Always check singular or plural according to the number of people
 * 박지영 (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 진종욱 (jwjin92<sub><i>at </i></sub>kaist<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 조은찬 (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 박한길 (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 #### Research Associates
 * 이중기 (joungkee.lee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
