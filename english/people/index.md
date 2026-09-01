@@ -9,7 +9,8 @@ title: People
 <hr>
 
 ### Research Professor
-* Hangil Park (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
+* Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+* [Myoung Gon Kim](https://m-gon-kim.github.io/) (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 ### Research Associates
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
@@ -20,8 +21,7 @@ title: People
 ### Students
 #### Ph.D. Students
 * JeongHyeon Ahn (miru3137<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Min Hyung Kee (minh702<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* [Myoung Gon Kim](https://m-gon-kim.github.io/) (m_gon_kim<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
+
 * Jaehyeon Lee (jaehyeonlee<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * HuiSeong Lee (cjlhs0691<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Dong-min Kim(kimharry9927<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
@@ -32,12 +32,17 @@ title: People
 * Seunghyun Park (danbaram0420<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Donggyu Lee (tony7078<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Jaehyuk Lim (imhyuk98<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
-* Seungmok Ryu (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Seungmok Lyoo (david6851s<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Changjin Kim (kcjin1703<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
-
-#### Undergraduate Interns
 * Joongi Choi (pchoi246810<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jehyeon Kim (charmyisl<sub><i>at </i></sub>icloud<sub><i>dot </i></sub>com)
+* Jiyoon Park (jiyoonpark.dev<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+
+#### Undergraduate Interns
+* Hangyeol Lee (hglee1877<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Jaegyum Kim (jaegyumk<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Seunghyun Choi (cshyun1031<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+
 
 <hr>
 
@@ -50,6 +55,7 @@ title: People
 * Ji-Young Park (lemieee<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * JongWook Jin (jwjin92<sub><i>at </i></sub>kaist<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Eunchan Jo (joe.media.kr<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Hangil Park (phgphg777<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com) 
 
 
 #### Research Associates
