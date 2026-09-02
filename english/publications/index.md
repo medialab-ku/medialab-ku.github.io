@@ -11,7 +11,7 @@ title: Publications
  
 * DaEun Cheong, JungHyun Han, "CameraVQ: Vector-Quantized Representations for Monocular Camera Calibration", **Computer Animation, Social Agents, and Extended Reality (CASAXR)**, June 1-3, 2026, Geneva, Switzerland (published in **Computer Animation and Virtual Worlds**, Vol. 37, No. 3, May 2026, pp. e70144). [[doi]](https://doi.org/10.1002/cav.70144)
 
-* MyoungGon Kim, JeongHyeon Ahn, Seohyeon Park, Hyemi Kim, Seunghyun Park, Jung Ho Hwang, JungHyun Han, "EllipssianNet: Image-guided Sampling of 2D Gaussians for Gaussian Splatting", **Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, March 6-10, 2026, Tucson, USA, pp. 2104-2113. [[doi]](https://ieeexplore.ieee.org/document/11492495)
+* MyoungGon Kim, JeongHyeon Ahn, Seohyeon Park, Hyemi Kim, Seunghyun Park, Jung Ho Hwang, JungHyun Han, "EllipssianNet: Image-guided Sampling of 2D Gaussians for Gaussian Splatting", **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)**, March 6-10, 2026, Tucson, USA, pp. 2104-2113. [[doi]](https://ieeexplore.ieee.org/document/11492495)
 
 
 ### 2025
