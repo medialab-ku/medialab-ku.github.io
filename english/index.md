@@ -15,7 +15,7 @@ If you're interested, send email to jhan@korea.ac.kr.
 ## News
 
 
-#### 2026.07
+#### 2026.08
 * A paper is accepted for SIGGRAPH ASIA 2026.
 
 #### 2026.06
