@@ -16,6 +16,7 @@ title: People
 ### Research Associates
 * Jungho Ha (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * Da Eun Cheong (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Sunghun Cho (emforhs03150<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 <hr>
  
@@ -43,6 +44,7 @@ title: People
 * Hangyeol Lee (hglee1877<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Jaegyum Kim (jaegyumk<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * Seunghyun Choi (cshyun1031<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* Yoomin Jung (yoomin5<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 
 <hr>
