@@ -15,6 +15,9 @@ If you're interested, send email to jhan@korea.ac.kr.
 ## News
 
 
+#### 2026.09
+* A paper is accepted for NeurIPS 2026.
+
 #### 2026.08
 * A paper is accepted for SIGGRAPH ASIA 2026.
 
