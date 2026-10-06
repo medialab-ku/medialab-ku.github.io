@@ -41,6 +41,7 @@ Always check singular or plural according to the number of people
 ### Research Associates
 * 하정호 (lop1213<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 * 정다은 (wjdekdms001<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 조성훈 (emforhs03150<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 
 
 <hr>
@@ -69,6 +70,7 @@ Always check singular or plural according to the number of people
 * 이한결 (hglee1877<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 김재겸 (jaegyumk<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
 * 최승현 (cshyun1031<sub><i>at </i></sub>gmail<sub><i>dot </i></sub>com)
+* 정유민 (yoomin5<sub><i>at </i></sub>korea<sub><i>dot </i></sub>ac<sub><i>dot </i></sub>kr)
 
 <hr>
 
