@@ -5,7 +5,7 @@ title: Publications
 
 ### 2026
 
-* Jaehyeon Lee, Kiwon Um, JungHyun Han, Min-Koo Kang, "Rethinking Attention in Depth for Operator Learning", **NeurIPS**, December 9-11, 2026, Paris, France.
+* Jaehyeon Lee, Kiwon Um, Min-Koo Kang, JungHyun Han, "Rethinking Attention in Depth for Operator Learning", **NeurIPS**, December 9-11, 2026, Paris, France.
 
 * Min Hyung Kee, Jinhyung Ahn, Sehyun Park, Kiwon Um, JungHyun Han, "Implicit Velocity Projection Method for Incompressible SPH Fluids", **SIGGRAPH ASIA**, December 1-4, 2026, Kuala Lumpur, Malaysia. 
  
