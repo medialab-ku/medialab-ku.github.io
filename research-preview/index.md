@@ -5,9 +5,9 @@ title: Research
 
 ### Physical AI
 <br>
-<div class="row">
-    <video width="400" height="280" src="{{ '/research/videos/world-model-navigation.mp4' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" style="background: #000; margin-right: 2rem"></video>
-    <video width="400" height="280" src="{{ '/research/videos/embodied-agent.mp4' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" style="background: #000"></video>
+<div class="row" style="justify-content: flex-start">
+    <video width="400" height="280" src="{{ '/research/videos/world-model-navigation.mp4' | relative_url }}" poster="{{ '/research/videos/world-model-navigation.jpg' | relative_url }}" controls playsinline preload="none" style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7; background: #000; margin-right: 2rem"></video>
+    <video width="400" height="280" src="{{ '/research/videos/embodied-agent.mp4' | relative_url }}" poster="{{ '/research/videos/embodied-agent.jpg' | relative_url }}" controls playsinline preload="none" style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7; background: #000"></video>
 </div>
 
 #### 월드 모델 기반 객체 탐색
@@ -22,9 +22,9 @@ title: Research
 
 <br>
 
-<div class="row">
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/ODRu0XRrQPI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-right: 2rem"></iframe>
-    <video width="400" height="280" src="{{ '/research/videos/3dgs-slam.mp4' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" style="background: #000"></video>
+<div class="row" style="justify-content: flex-start">
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/ODRu0XRrQPI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7; margin-right: 2rem"></iframe>
+    <video width="400" height="280" src="{{ '/research/videos/3dgs-slam.mp4' | relative_url }}" poster="{{ '/research/videos/3dgs-slam.jpg' | relative_url }}" controls playsinline preload="none" style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7; background: #000"></video>
 </div>
 
 #### 광역 카메라 트래킹 및 3차원 재구성
@@ -39,9 +39,9 @@ title: Research
 
 <br>
 
-<div class="row">
-    <video width="400" height="280" src="{{ '/research/videos/ray-path-tracing.mp4' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" style="background: #000; margin-right: 2rem"></video>
-    <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="row" style="justify-content: flex-start">
+    <video width="400" height="280" src="{{ '/research/videos/ray-path-tracing.mp4' | relative_url }}" poster="{{ '/research/videos/ray-path-tracing.jpg' | relative_url }}" controls playsinline preload="none" style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7; background: #000; margin-right: 2rem"></video>
+    <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7"></iframe>
 </div>
 
 #### Ray/Path Tracing
