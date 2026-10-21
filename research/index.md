@@ -44,7 +44,7 @@ title: Research
     <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7"></iframe>
 </div>
 
-#### Ray/Path Tracing
+#### Ray/Path tracing
 * 빛의 반사와 투과 등 물리적 상호작용을 시뮬레이션해 사실적인 3차원 영상을 생성하고, 노이즈 제거 기술을 결합해 실시간 렌더링의 품질과 효율성을 높이는 방법을 연구한다.
 
 #### 물리 기반 시뮬레이션

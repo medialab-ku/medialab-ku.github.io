@@ -44,7 +44,7 @@ title: Research
     <iframe width="400" height="280" src="https://www.youtube.com/embed/y4VfJjDFmV8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 400px; max-width: calc(50% - 1rem); height: auto; aspect-ratio: 10 / 7"></iframe>
 </div>
 
-#### Ray/Path Tracing
+#### Ray/Path tracing
 * We study methods that generate photorealistic 3D images by simulating physical light interactions such as reflection and transmission, and combine them with denoising to improve the quality and efficiency of real-time rendering.
 
 #### Physics-based simulation
